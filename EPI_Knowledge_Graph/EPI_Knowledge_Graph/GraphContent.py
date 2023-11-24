@@ -209,4 +209,7 @@ class GraphContent:
         graph.add_new_node_to_graph(online_source_example_node)
         graph.add_new_node_to_graph(literature_source_example_node)
         graph.add_new_node_to_graph(paper_source_example_node)
+
+        #unsere Knoten
         my_node = Node("Text", "Knoten")
+        graph.add_new_node_to_graph(my_node)

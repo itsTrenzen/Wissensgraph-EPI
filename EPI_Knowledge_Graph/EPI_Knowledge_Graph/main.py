@@ -27,6 +27,7 @@ from GraphModel.Graph import Graph
 if __name__ == '__main__':
     # Graph
     graph = Graph()#luca war hier
+    #moinsen
     graph.team_name = "Einer_ist_zu_viel"  # TODO: Geben Sie Ihrem Team einen Namen!
     graph_content = GraphContent(graph)  # TODO: Hier können Sie den Inhalt und Verbindungen ihrer Knoten anlegen.
 

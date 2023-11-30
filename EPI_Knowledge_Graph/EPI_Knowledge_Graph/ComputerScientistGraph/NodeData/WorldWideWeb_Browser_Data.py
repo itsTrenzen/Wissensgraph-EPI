@@ -4,11 +4,7 @@ CONTENT = ("WorldWideWeb ist der erste Webbrowser. Er wurde von Tim Berners-Lee 
            "Im Gegensatz zu heutigen Webbrowsern fungierte WorldWideWeb nicht nur als Webbrowser sondern ebenso als Editor zum Erstellen von HTML-Dokumenten (Webseiten).\n"
            "WorldWideWeb wurde in der Programmiersprache Objective-C unter dem Betriebssystem NeXTStep entwickelt und basiert auf der Verlinkung von Hypertext-Dateien.\n"
            "Um Verwechslungen mit dem abstrakten Konzepts des 'World Wide Web' zu verhindern, wurde der Browser später in Nexus umbenannt."
-           "Da NeXTStep als Betriebssystem zwar fortschrittlich aber wenig verbreitet war, fand auch WorldWideWeb nie große Verbreitung.\n"
-           
-           "Übersicht:\n"
-           "Entwickler: Tim Berners-Lee\n"
-           "Erscheinungsjahr: 1990\n"
+           "Da NeXTStep als Betriebssystem zwar fortschrittlich aber wenig verbreitet war, fand auch WorldWideWeb nie große Verbreitung.\n\n"
           
            "Quellen:\n"
            "https://www.w3.org/People/Berners-Lee/WorldWideWeb.html"

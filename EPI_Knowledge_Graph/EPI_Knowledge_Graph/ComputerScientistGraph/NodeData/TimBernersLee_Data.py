@@ -4,7 +4,7 @@ CONTENT = ("Sir Tim Berners-Lee ist ein britischer Informatiker, der als Begrün
            "In den späten 1980er Jahren entwickelte er die grundlegenden Konzepte und Technologien, die das moderne Internet ermöglichen, darunter HTTP und HTML."
            "Durch die Gründung des World Wide Web Consortium (W3C) setzte er sich für die Standardisierung und Offenheit des Webs ein.\n\n"
            
-           "Übersicht:\n"
+           "Biographie:\n"
            "1955: Geboren am 08. Juni 1955 in London, England\n"
            "1976: Abschluss des Physikstudiums am Queen's College der Oxford Universität\n"
            "1980: Beratender Ingenieur am europäischen Kernforschungszentrum CERN\n"

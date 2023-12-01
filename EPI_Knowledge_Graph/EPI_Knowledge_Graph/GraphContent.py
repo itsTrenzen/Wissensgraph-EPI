@@ -14,9 +14,10 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 """
-
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.Nodes_Init import Nodes
 from GraphModel.Graph import Graph
 from GraphModel.Node import Node
+from ComputerScientistGraph import Nodes_Init
 
 
 class GraphContent:
@@ -204,11 +205,15 @@ class GraphContent:
         how_to_node.connect(online_source_example_node)
         how_to_node.connect(literature_source_example_node)
         how_to_node.connect(paper_source_example_node)
+        paper_source_example_node.connect(how_to_node)
 
         graph.add_new_node_to_graph(how_to_node)
         graph.add_new_node_to_graph(online_source_example_node)
         graph.add_new_node_to_graph(literature_source_example_node)
         graph.add_new_node_to_graph(paper_source_example_node)
+
+        Nodes(graph)
+        Graph()
 
         #unsere Knoten
         my_node = Node("Text", "Knoten")

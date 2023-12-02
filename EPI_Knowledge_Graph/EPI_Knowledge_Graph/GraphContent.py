@@ -23,7 +23,13 @@ from ComputerScientistGraph import Nodes_Init
 class GraphContent:
 
     def __init__(self, graph: Graph):
-        self.create_demo_nodes(graph)
+        self.create_nodes(graph)
+
+
+    def create_nodes(selfself, graph):
+        Nodes(graph)
+        Graph()
+
 
     def create_demo_nodes(self, graph):
         """
@@ -211,9 +217,6 @@ class GraphContent:
         graph.add_new_node_to_graph(online_source_example_node)
         graph.add_new_node_to_graph(literature_source_example_node)
         graph.add_new_node_to_graph(paper_source_example_node)
-
-        Nodes(graph)
-        Graph()
 
         #unsere Knoten
         my_node = Node("Text", "Knoten")

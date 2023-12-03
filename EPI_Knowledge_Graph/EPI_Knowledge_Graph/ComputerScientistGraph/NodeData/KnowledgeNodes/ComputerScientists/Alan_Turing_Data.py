@@ -31,7 +31,7 @@ CONTENT = ("Alan Turing, ein britischer Mathematiker, Logiker und Kryptoanalytik
            "monatigen Hormontherapie\n"
            "1951: Arbeit im Bereich der theoretischen Biologie und Entwicklung des Turing-Mechanismus, der beschrieb, "
            "wie Reaktions-Diffusions-Systeme spontan Strukturen entwickeln können\n"
-           "1953: Entwicklung eines der ersten Schachprogramme\n"
+           "1953: Entwicklung eines der ersten Schachprogramme 'Turochamp'\n"
            "1953: Erkrankung an Depressionen in Folge der Hormonbehandlung\n"
            "1954: Suizid am 07. Juni 1954 in Wilmslow, Cheshire\n"
            "Seit 1966: Jährliche Verleihung des Turing Award für besondere Entwicklungen in der Informatik durch die "

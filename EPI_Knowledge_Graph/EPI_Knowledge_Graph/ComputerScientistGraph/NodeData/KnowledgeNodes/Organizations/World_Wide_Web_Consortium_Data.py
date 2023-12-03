@@ -1,4 +1,4 @@
-TITEL = "World Wide WebTechnologies Consortium (W3C)"
+TITEL = "World Wide Web Technologies Consortium (W3C)"
 
 CONTENT = ("Das World Wide WebTechnologies Consortium ist ein Gremium mit dem Ziel, die Techniken im World Wide WebTechnologies zu Standardisieren."
            "W3C wurde 1994 von Tim Berners-Lee gegründet um die inkonsistente Nutzung der Technologien HTML, HTTP und URI zu verhindern."

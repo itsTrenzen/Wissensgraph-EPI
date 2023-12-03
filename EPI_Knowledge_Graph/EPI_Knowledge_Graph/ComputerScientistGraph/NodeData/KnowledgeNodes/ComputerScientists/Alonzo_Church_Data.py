@@ -5,7 +5,7 @@ CONTENT = ("Alonzo Church war ein US-amerikanischer Mathematiker und Logiker, de
            "die Church-Turing-These, die Aussagen über die Fähigkeit einer Rechenmaschine trifft.\n\n"
 
            "Biographie:\n"
-           "1903: Geboren am 14. Juni 1912 in Washington, D.C., USA\n"
+           "1903: Geboren am 14. Juni 1903 in Washington, D.C., USA\n"
            "1924: Abschluss des Mathematikstudiums an der Princeton University in New Jersey (USA)\n"
            "1927: Erhalt des Doktortitels für seine Dissertation zum Thema 'Alternatives to Zermelo's Assumption'\n"
            "1928: National Research Fellow an der Harvard University sowie an den Universitäten in Göttingen und "

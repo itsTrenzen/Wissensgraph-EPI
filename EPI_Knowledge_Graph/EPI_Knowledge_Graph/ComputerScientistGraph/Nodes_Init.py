@@ -1,7 +1,8 @@
 # Node constants
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.Awards import \
     Turing_Award_Data
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.Computer import ENIAC_Data
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.Computer import ENIAC_Data, \
+    UNIVAC_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.Organizations import \
     World_Wide_Web_Consortium_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.WebTechnologies import \
@@ -21,6 +22,7 @@ class Nodes:
         graph.add_new_node_to_graph(WORLD_WIDE_WEB_CONSORTIUM)
         graph.add_new_node_to_graph(TURING_AWARD_DATA)
         graph.add_new_node_to_graph(ENIAC)
+        graph.add_new_node_to_graph(UNIVAC)
 
 
 TIM_BERNERS_LEE = Node(
@@ -57,3 +59,8 @@ ENIAC = Node(
     ENIAC_Data.CONTENT,
     ENIAC_Data.TITEL,
     ENIAC_Data.IMAGE_NAME)
+
+UNIVAC = Node(
+    UNIVAC_Data.CONTENT,
+    UNIVAC_Data.TITEL,
+    UNIVAC_Data.IMAGE_NAME)

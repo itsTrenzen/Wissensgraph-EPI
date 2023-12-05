@@ -19,11 +19,22 @@ CONTENT = ("ENIAC war der erste turingmächtige Universalcomputer. Er wurde wäh
            "Dezimalzahl speichern und damit die Rechenoperationen Addition, Subtraktion, Division und Multiplikation "
            "sowie das Ziehen von Quadratwurzeln ausführen.\n\n"
            
+           "Probleme\n"
+           "1. Die Vakuumröhren waren anfällig für Ausfälle, was zu häufigen Unterbrechungen und Reparaturen führte. "
+           "Schon der Ausfall einer Röhre führte zu Rechenfehlern\n"
+           "2. Die Vakuumröhren haben zu einer erheblichen Wärmeentwicklung geführt. Deshalb waren komplexe "
+           "Kühlmechanismen erforderlich, um Überhitzung zu vermeiden.\n"
+           "3. ENIAC war riesig und stellte daher logistische Herausforderungen bei der Installation und Wartung dar.\n"
+           "4. Die Programmierung erfolgte durch manuelle Umsteckungen und Verkabelungen. Dies war "
+           "zeitaufwändig, fehleranfällig und erforderte speziell geschultes Personal.\n"
+           "5. Das Ändern von Programmen erforderte erheblichen manuellen Aufwand, da ENIAC auf spezifische "
+           "Aufgaben zugeschnitten ist und nicht so leicht für verschiedene Anwendungen umkonfiguriert werden kann.\n"
+           
            "Technische Daten\n"
            "Fläche: 10m x 17m\n"
            "Gewicht: 27 Tonnen\n"
            "* 40 parallel arbeitenden Komponenten, je 60 cm breit, 270 cm hoch und 70 cm tief\n"
-           "* 17.468 Elektronenröhren\n"
+           "* 17.468 Vakuumröhren\n"
            "* 7.200 Dioden\n"
            "* 1.500 Relais\n"
            "* 70.000 Widerstände\n"
@@ -31,6 +42,6 @@ CONTENT = ("ENIAC war der erste turingmächtige Universalcomputer. Er wurde wäh
            "Kosten: 468.000 US-$\n\n"
            
            "Quellen:\n"
-           "\n")
+           "https://www.nature.com/articles/158500a0\n")
 
 IMAGE_NAME = "ENIAC.gif"

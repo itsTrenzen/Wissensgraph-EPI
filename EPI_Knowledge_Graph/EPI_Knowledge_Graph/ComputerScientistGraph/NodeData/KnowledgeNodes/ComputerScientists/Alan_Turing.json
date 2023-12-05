@@ -4,12 +4,12 @@
   "TITLE": "Alan Turing (1912-1954)",
   "CONTENT": "...",
   "SOURCES": [
-    {"ID": "ALAN_TURING_SOURCE_1" },
-    {"ID": "ALAN_TURING_SOURCE_2" }
+    "ALAN_TURING_SOURCE_1",
+    "ALAN_TURING_SOURCE_2"
   ],
   "CONNECTIONS": [
-    {"ID":  "TURING_AWARD"},
-    {"ID":  "BOMBES"},
-    {"ID":  "TURING_MACHINE"}
+    "TURING_AWARD",
+    "BOMBES",
+    "TURING_MACHINE"
   ]
 }

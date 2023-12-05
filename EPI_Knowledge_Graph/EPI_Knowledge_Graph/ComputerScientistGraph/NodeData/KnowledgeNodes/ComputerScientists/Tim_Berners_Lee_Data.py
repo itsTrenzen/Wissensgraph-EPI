@@ -1,6 +1,6 @@
 TITEL = "Tim Berners-Lee (1955)"
 
-CONTENT = ("Sir Tim Berners-Lee ist ein britischer Informatiker, der als Begründer des World Wide WebTechnologies "
+CONTENT = ("Sir Tim Berners-Lee ist ein britischer Informatiker, der als Begründer des World Wide Web "
            "gilt. In den späten 1980er Jahren entwickelte er die grundlegenden Konzepte und Technologien, "
            "die das moderne Internet ermöglichen, darunter HTTP und HTML. Durch die Gründung des World Wide "
            "WebTechnologies Consortium (W3C) setzte er sich für die Standardisierung und Offenheit des Webs ein.\n\n"

@@ -18,6 +18,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 import pygame.freetype
 import sys
 
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.JSON_Parser import JSON_Parser
 from GraphContent import GraphContent
 from Structured_Knowledge_Graph_Example.MyGraphExample import MyGraphExample
 from View.ApplicationLoopManager import ApplicationLoopManager
@@ -36,6 +37,8 @@ if __name__ == '__main__':
     # Application
     component_assembler = ComponentAssembler(graph, False)
     main = ApplicationLoopManager(component_assembler)
+
+    JSON_Parser()
     # pygame beenden
     pygame.quit()
     sys.exit()

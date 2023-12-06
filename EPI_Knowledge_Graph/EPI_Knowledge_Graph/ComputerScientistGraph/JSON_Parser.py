@@ -2,6 +2,7 @@ import glob
 import json
 from jsonschema import validate
 
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.IdNode import IdNode
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.SubGraph import SubGraph
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel import Node
 
@@ -34,10 +35,13 @@ def parse_json(root_dir, recursive):
         json_content = json.load(filename)
         validate(instance=json_content, schema=JSON_SCHEMA)
 
-        node = Node(
-            json_content["CONTENT"],
-            json_content["TITLE"],
-            json_content["IMAGE"])
+        node = IdNode(json_content["ID"],
+                      json_content["CONTENT"],
+                      json_content["TITLE"],
+                      json_content["IMAGE"])
 
         nodes.append(node)
         subgraphs.append(SubGraph(node, json_content["SOURCES"], json_content["CONNECTIONS"]))
+
+    for s in subgraphs:
+        s.connect(nodes)

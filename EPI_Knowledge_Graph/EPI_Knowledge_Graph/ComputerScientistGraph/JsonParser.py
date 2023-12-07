@@ -1,8 +1,8 @@
 import glob
 import jsonref
 from jsonschema import validate
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph import ExtendedNode
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.SubGraph import SubGraph
+
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.ExtendedNode import ExtendedNode
 
 JSON_SCHEMA = {
     "$schema": "http://json-schema.org/draft-04/schema#",
@@ -19,13 +19,13 @@ JSON_SCHEMA = {
     "required": ["id", "title", "content", "connections"]
 }
 
-class Json_Parser:
+
+class JsonParser:
 
     def __init__(self, graph, root_dir):
         self.root = graph
         self.file_paths = glob.iglob(root_dir + '**/*.json')
         self.validate_and_create()
-
 
     def load_json_file(self, file_path):
         with open(file_path, 'r') as file:
@@ -43,9 +43,9 @@ class Json_Parser:
                 validate(instance=resolved_data, schema=JSON_SCHEMA)
                 print(f"Validierung erfolgreich für {file_path}")
 
-                node = ExtendedNode(resolved_data["content"], 
+                node = ExtendedNode(resolved_data["content"],
                                     resolved_data["title"],
-                                    resolved_data["connections"], 
+                                    resolved_data["connections"],
                                     resolved_data["image"])
                 self.root.add_new_node_to_graph(node)
             except Exception as e:

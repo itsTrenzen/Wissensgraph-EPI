@@ -20,7 +20,7 @@ CONTENT = ("Alan Turing, ein britischer Mathematiker, Logiker und Kryptoanalytik
            "1939: Wechsel zum Hauptquartier der 'Government Code and Cypher School' (GC&CS) zu Kriegsbeginn. Dort "
            "entwickelte Turing die Turing-Bombe ('Bombes'), eine elektromechanische Maschine zum entziffern von "
            "Funksprüchen, die mit der deutschen Schlüsselmaschine 'Enigma' verschlüsselt wurden. Es wird geschätzt, "
-           "dass die Arbeit der GC&CS den Krieg in Europa so um mindestens zwei Jahre verkürzt hat\n"
+           "dass die Arbeit der GC&CS den Krieg in Europa um mindestens zwei Jahre verkürzt hat\n"
            "1945: Rekrutierung zum 'National Physical Laboratory' (NPL) in London, mit dem Ziel, einen elektronischen "
            "Computer als konkrete Umsetzung der Turing-Maschine zu entwerfen\n"
            "1948: Übernahme der stellvertretenden Leitung des 'Royal Society Computing Machine Laboratory' an der "

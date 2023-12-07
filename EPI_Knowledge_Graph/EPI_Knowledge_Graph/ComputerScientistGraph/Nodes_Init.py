@@ -6,8 +6,8 @@ from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Kno
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.Organizations import \
     World_Wide_Web_Consortium_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.WebTechnologies import \
-    World_Wide_Web_Data
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel import Graph
+    World_Wide_Web_Data, HTML_Data
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Graph import Graph
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Node import Node
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.ComputerScientists import \
     Tim_Berners_Lee_Data, John_William_Mauchly_Data, Alan_Turing_Data, Alonzo_Church_Data
@@ -23,6 +23,7 @@ class Nodes:
         graph.add_new_node_to_graph(TURING_AWARD_DATA)
         graph.add_new_node_to_graph(ENIAC)
         graph.add_new_node_to_graph(UNIVAC)
+        graph.add_new_node_to_graph(HTML)
 
 
 TIM_BERNERS_LEE = Node(
@@ -64,3 +65,9 @@ UNIVAC = Node(
     UNIVAC_Data.CONTENT,
     UNIVAC_Data.TITEL,
     UNIVAC_Data.IMAGE_NAME)
+
+HTML = Node(
+    HTML_Data.CONTENT,
+    HTML_Data.TITEL,
+    HTML_Data.IMAGE_NAME)
+

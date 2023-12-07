@@ -3,7 +3,9 @@ TITEL = "Hypertext Markup Language (HTML)"
 CONTENT = ("HTML ist eine textbasierte Auszeichnungssprache, die vor allem im Kontext des World Wide Webs verwendet "
            "wird. Die erste HTML-Spezifikation wurde von Tim Berners-Lee im Jahre 1992 veröffentlicht. Ziel war es, "
            "eine für alle Computer verständliche Sprache für die globale Veröffentlichung von Informationen zu "
-           "schaffen.\n\n"
+           "schaffen. Die Standards für HTML werden vom 'World Wide Web Consortium' (W3C) festgelegt. Zusammen mit "
+           "der 'Web Hypertext Application Technology Working Group' (WHATWG) entwickelt W3C HTML weiter. Die "
+           "aktuelle Version ist HTML5.\n\n"
 
            "Sprachelemente\n"
            "1. Dokumenttypdefinition (DTD):  formale Spezifikation, die die Struktur und Syntax von XML-Dokumenten "
@@ -36,17 +38,18 @@ CONTENT = ("HTML ist eine textbasierte Auszeichnungssprache, die vor allem im Ko
            "        <META name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>\n"
            "    </HEAD>\n"
            "    <BODY>\n"
-           "        <HEADER>"
+           "        <HEADER>\n"
            "            <H1 id=\"section1\">\n"
            "            This is an identified heading thanks to the id attribute\n"
            "            </H1>\n"
-           "        </HEADER>"
+           "        </HEADER>\n"
            "        <P>Hello world!\n"
            "    </BODY>\n"
            "</HTML>\n\n"
 
            "Quellen:\n"
            "http://homepages.cs.ncl.ac.uk/brian.randell/Seminars/92.pdf\n"
-           "https://www.immagic.com/eLibrary/ARCHIVES/SUPRSDED/W3C/W980424S.pdf\n")
+           "https://www.immagic.com/eLibrary/ARCHIVES/SUPRSDED/W3C/W980424S.pdf\n"
+           "https://html.spec.whatwg.org/multipage/\n")
 
-IMAGE_NAME = "HTML.svg"
+IMAGE_NAME = "HTML.png"

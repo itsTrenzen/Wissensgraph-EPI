@@ -1,47 +1,52 @@
 import glob
-import json
+import jsonref
 from jsonschema import validate
-
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.IdNode import IdNode
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph import ExtendedNode
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.SubGraph import SubGraph
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel import Node
 
 JSON_SCHEMA = {
     "$schema": "http://json-schema.org/draft-04/schema#",
     "type": "object",
     "properties": {
-        "TYPE": {"type": "string"},
-        "ID": {"type": "string"},
-        "TITLE": {"type": "string"},
-        "CONTENT": {"type": "string"},
-        "SOURCES": {
+        "id": {"type": "string"},
+        "title": {"type": "string"},
+        "content": {"type": "string"},
+        "connections": {
             "type": "array",
-            "items": {"type": "string"}
-        },
-        "CONNECTIONS": {
-            "type": "array",
-            "items": {"type": "string"}
+            "items": {"$ref": "#/properties/id"}
         }
     },
-    "required": ["TYPE", "ID", "TITLE", "CONTENT", "SOURCES", "CONNECTIONS"]
+    "required": ["id", "title", "content", "connections"]
 }
 
+class JSON_Parser:
 
-def parse_json(root_dir, recursive):
-    nodes = list
-    subgraphs = list
+    def __init__(self, graph, root_dir):
+        self.root = graph
+        self.file_paths = glob.iglob(root_dir + '**/*.json')
+        self.validate_and_create()
 
-    for filename in glob.iglob(root_dir + '**/*.json', recursive=recursive):
-        json_content = json.load(filename)
-        validate(instance=json_content, schema=JSON_SCHEMA)
 
-        node = IdNode(json_content["ID"],
-                      json_content["CONTENT"],
-                      json_content["TITLE"],
-                      json_content["IMAGE"])
+    def load_json_file(self, file_path):
+        with open(file_path, 'r') as file:
+            return jsonref.load(file)
 
-        nodes.append(node)
-        subgraphs.append(SubGraph(node, json_content["SOURCES"], json_content["CONNECTIONS"]))
+    def validate_and_create(self):
+        all_data = {}
 
-    for s in subgraphs:
-        s.connect(nodes)
+        for file_path in self.file_paths:
+            data = self.load_json_file(file_path)
+            all_data[file_path] = jsonref.replace_refs(data)
+
+        for file_path, resolved_data in all_data.items():
+            try:
+                validate(instance=resolved_data, schema=JSON_SCHEMA)
+                print(f"Validierung erfolgreich für {file_path}")
+
+                node = ExtendedNode(resolved_data["content"], 
+                                    resolved_data["title"],
+                                    resolved_data["connections"], 
+                                    resolved_data["image"])
+                self.root.add_new_node_to_graph(node)
+            except Exception as e:
+                print(f"Fehler bei der Validierung für {file_path}: {e}")

@@ -1,15 +1,14 @@
 # Node constants
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.Awards import \
-    Turing_Award_Data
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.Computer import ENIAC_Data, \
-    UNIVAC_Data
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.Organizations import \
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Awards import Turing_Award_Data
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Computer import ENIAC_Data
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Computer import UNIVAC_Data
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Organizations import \
     World_Wide_Web_Consortium_Data
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.WebTechnologies import \
-    World_Wide_Web_Data, HTML_Data
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.WebTechnologies import \
+    HTML_Data, WorldWideWeb_Browser_Data, World_Wide_Web_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Graph import Graph
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Node import Node
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.KnowledgeNodes.ComputerScientists import \
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.ComputerScientists import \
     Tim_Berners_Lee_Data, John_William_Mauchly_Data, Alan_Turing_Data, Alonzo_Church_Data
 
 
@@ -24,6 +23,8 @@ class Nodes:
         graph.add_new_node_to_graph(ENIAC)
         graph.add_new_node_to_graph(UNIVAC)
         graph.add_new_node_to_graph(HTML)
+        graph.add_new_node_to_graph(WORLD_WIDE_WEB_BROWSER)
+        graph.add_new_node_to_graph(WORLD_WIDE_WEB)
 
 
 TIM_BERNERS_LEE = Node(
@@ -71,3 +72,12 @@ HTML = Node(
     HTML_Data.TITEL,
     HTML_Data.IMAGE_NAME)
 
+WORLD_WIDE_WEB_BROWSER = Node(
+    WorldWideWeb_Browser_Data.CONTENT,
+    WorldWideWeb_Browser_Data.TITEL,
+    WorldWideWeb_Browser_Data.IMAGE_NAME)
+
+WORLD_WIDE_WEB = Node(
+    World_Wide_Web_Data.CONTENT,
+    World_Wide_Web_Data.TITEL,
+    World_Wide_Web_Data.IMAGE_NAME)

@@ -19,7 +19,7 @@ JSON_SCHEMA = {
     "required": ["id", "title", "content", "connections"]
 }
 
-class JSON_Parser:
+class Json_Parser:
 
     def __init__(self, graph, root_dir):
         self.root = graph

@@ -1,12 +1,7 @@
 {
-  "TYPE": "KNOWLEDGE",
   "ID": "ALAN_TURING",
   "TITLE": "Alan Turing (1912-1954)",
   "CONTENT": "...",
-  "SOURCES": [
-    "ALAN_TURING_SOURCE_1",
-    "ALAN_TURING_SOURCE_2"
-  ],
   "CONNECTIONS": [
     "TURING_AWARD",
     "BOMBES",

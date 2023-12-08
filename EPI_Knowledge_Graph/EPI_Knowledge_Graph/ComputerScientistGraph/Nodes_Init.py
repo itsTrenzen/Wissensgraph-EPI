@@ -10,7 +10,8 @@ from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Web
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Graph import Graph
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Node import Node
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.ComputerScientists import \
-    Tim_Berners_Lee_Data, John_William_Mauchly_Data, Alan_Turing_Data, Alonzo_Church_Data, John_Presper_Eckert_Data
+    Tim_Berners_Lee_Data, John_William_Mauchly_Data, Alan_Turing_Data, Alonzo_Church_Data, John_Presper_Eckert_Data, \
+    Robert_Cailliau_Data, Kenneth_Lane_Thompson_Data
 
 
 class Nodes:
@@ -28,6 +29,8 @@ class Nodes:
         graph.add_new_node_to_graph(WORLD_WIDE_WEB_BROWSER)
         graph.add_new_node_to_graph(WORLD_WIDE_WEB)
         graph.add_new_node_to_graph(BOMBES)
+        graph.add_new_node_to_graph(ROBERT_CAILLIAU)
+        graph.add_new_node_to_graph(KENNETH_LANE_THOMPSON)
 
 
 TIM_BERNERS_LEE = Node(
@@ -94,3 +97,14 @@ BOMBES = Node(
     Bombes_Data.CONTENT,
     Bombes_Data.TITEL,
     Bombes_Data.IMAGE_NAME)
+#Nicks Nodes
+ROBERT_CAILLIAU = Node(
+    Robert_Cailliau_Data.CONTENT,
+    Robert_Cailliau_Data.TITEL#,
+    #Robert_Cailliau_Data.IMAGE_NAME
+)
+KENNETH_LANE_THOMPSON = Node(
+    Kenneth_Lane_Thompson_Data.CONTENT,
+    Kenneth_Lane_Thompson_Data.TITEL#,
+    #Kenneth_Lane_Thompson_Data.IMAGE_NAME
+)

@@ -12,7 +12,7 @@ CONTENT = ("Alonzo Church war ein US-amerikanischer Mathematiker und Logiker, de
            "Amsterdam.\n"
            "1929: Ernennung zum 'Assistant Professor of Mathematics' an der Princeton University\n"
            "1930er: Entwicklung des Lambda Kalküls, einer formalen Notation zur Darstellung von Funktionen, "
-           "die die Grundlage für funktionale Programmiersprachen bildet\n"
+           "die die Grundlage für funktionale ProgrammingLanguages bildet\n"
            "1936: Formulierung des Church Theorems. Church's Theorem besagt, dass es keine allgemeine Methode gibt, "
            "um vorherzusagen, ob ein bestimmter Rechenschritt im Lambda-Kalkül immer zu einem Ergebnis führt oder ob "
            "er in einer endlosen Schleife verbleibt.\n"

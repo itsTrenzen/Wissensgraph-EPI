@@ -51,6 +51,8 @@ class Node:
         self.acceleration_x = 0.0
         self.acceleration_y = 0.0
         self.image_name = image_name
+        print(titel + "\n")
+        print(description + "\n\n")
 
     def connect(self, other_node):
         if other_node.uuid not in self.__connected_nodes:

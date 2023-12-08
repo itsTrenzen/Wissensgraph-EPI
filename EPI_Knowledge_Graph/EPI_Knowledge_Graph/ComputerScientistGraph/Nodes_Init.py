@@ -1,7 +1,8 @@
 # Node constants
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Awards import Turing_Award_Data
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Computer import ENIAC_Data
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Computer import UNIVAC_Data
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Machines import Bombes_Data
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Machines.Computer import ENIAC_Data, \
+    UNIVAC_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Organizations import \
     World_Wide_Web_Consortium_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.WebTechnologies import \
@@ -9,7 +10,7 @@ from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Web
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Graph import Graph
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Node import Node
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.ComputerScientists import \
-    Tim_Berners_Lee_Data, John_William_Mauchly_Data, Alan_Turing_Data, Alonzo_Church_Data
+    Tim_Berners_Lee_Data, John_William_Mauchly_Data, Alan_Turing_Data, Alonzo_Church_Data, John_Presper_Eckert_Data
 
 
 class Nodes:
@@ -18,6 +19,7 @@ class Nodes:
         graph.add_new_node_to_graph(ALAN_TURING)
         graph.add_new_node_to_graph(ALONZO_CHURCH)
         graph.add_new_node_to_graph(JOHN_WILLIAM_MAUCHLY)
+        graph.add_new_node_to_graph(JON_PRESPER_ECKERT)
         graph.add_new_node_to_graph(WORLD_WIDE_WEB_CONSORTIUM)
         graph.add_new_node_to_graph(TURING_AWARD_DATA)
         graph.add_new_node_to_graph(ENIAC)
@@ -25,6 +27,7 @@ class Nodes:
         graph.add_new_node_to_graph(HTML)
         graph.add_new_node_to_graph(WORLD_WIDE_WEB_BROWSER)
         graph.add_new_node_to_graph(WORLD_WIDE_WEB)
+        graph.add_new_node_to_graph(BOMBES)
 
 
 TIM_BERNERS_LEE = Node(
@@ -46,6 +49,11 @@ JOHN_WILLIAM_MAUCHLY = Node(
     John_William_Mauchly_Data.CONTENT,
     John_William_Mauchly_Data.TITEL,
     John_William_Mauchly_Data.IMAGE_NAME)
+
+JON_PRESPER_ECKERT = Node(
+    John_Presper_Eckert_Data.CONTENT,
+    John_Presper_Eckert_Data.TITEL,
+    John_Presper_Eckert_Data.IMAGE_NAME)
 
 WORLD_WIDE_WEB_CONSORTIUM = Node(
     World_Wide_Web_Consortium_Data.CONTENT,
@@ -81,3 +89,8 @@ WORLD_WIDE_WEB = Node(
     World_Wide_Web_Data.CONTENT,
     World_Wide_Web_Data.TITEL,
     World_Wide_Web_Data.IMAGE_NAME)
+
+BOMBES = Node(
+    Bombes_Data.CONTENT,
+    Bombes_Data.TITEL,
+    Bombes_Data.IMAGE_NAME)

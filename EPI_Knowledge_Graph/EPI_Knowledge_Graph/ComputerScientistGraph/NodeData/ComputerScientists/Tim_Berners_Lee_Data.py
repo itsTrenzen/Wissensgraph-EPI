@@ -9,7 +9,7 @@ CONTENT = ("Sir Tim Berners-Lee ist ein britischer Informatiker, der als Begrün
            "1955: Geboren am 08. Juni 1955 in London, England\n"
            "1976: Abschluss des Physikstudiums am Queen's College der Oxford Universität\n"
            "1980: Beratender Ingenieur am europäischen Kernforschungszentrum CERN\n"
-           "1981: Arbeit bei Image Computer Systems, Bournemouth\n"
+           "1981: Arbeit bei Image Machines Systems, Bournemouth\n"
            "1984: Rückkehr zu CERN\n"
            "1989: Entwicklung des Konzepts 'World Wide WebTechnologies'\n"
            "1990: Implementierung des ersten Webservers 'CERN httpd' und des ersten Webbrowsers 'WorldWideWeb', "

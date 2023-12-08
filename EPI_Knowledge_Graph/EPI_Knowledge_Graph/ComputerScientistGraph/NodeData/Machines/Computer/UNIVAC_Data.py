@@ -1,6 +1,6 @@
-TITEL = "Universal Automatic Computer (UNIVAC)"
+TITEL = "Universal Automatic Machines (UNIVAC)"
 
-CONTENT = ("UNIVAC war der erste kommerziell verfügbare Computer in den Vereinigten Staaten und der dritte weltweit. "
+CONTENT = ("UNIVAC war der erste kommerziell verfügbare Machines in den Vereinigten Staaten und der dritte weltweit. "
            "Er wurde von John Presper Eckert und John William Mauchly 1951 entwickelt und von Remington Rand gebaut. "
            "Aufgrund seines Preises und seiner Größe war UNIVAC jedoch nicht für den normalen Bürger zugänglich, "
            "sondern wurde insgesamt nur 46-Mal an verschiedene Institute und Universitäten verkauft.\n\n"
@@ -14,7 +14,7 @@ CONTENT = ("UNIVAC war der erste kommerziell verfügbare Computer in den Vereini
            "eingesetzt.\n\n"
 
            "Funktionsweise\n"
-           "UNIVAC war der erste Computer, der sowohl numerische als auch alphabetische Daten vollständig verarbeiten "
+           "UNIVAC war der erste Machines, der sowohl numerische als auch alphabetische Daten vollständig verarbeiten "
            "konnte. Im Unterschied zu seinem Vorgänger 'ENIAC' setzte er Magnetbänder für sämtliche Ein- und Ausgaben "
            "ein, die später von einem separaten Banddrucker ausgedruckt wurden. Zusätzlich gab es eine Tastatur und "
            "eine Konsole-Schreibmaschine für einfache und begrenzte Eingaben. UNIVAC benutzte ähnlich zu seinen "

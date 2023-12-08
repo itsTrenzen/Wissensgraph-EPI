@@ -101,7 +101,7 @@ class MarkdownTextRenderer:
                     content = segment.group("small_heading")[4:]
 
                 if content:
-                    words = content.split()
+                    words = content.split(" ")
                     for word in words:
                         rendered_word = font.render(word, True, self.BLACK)
                         if total_width + rendered_word.get_width() > max_width:

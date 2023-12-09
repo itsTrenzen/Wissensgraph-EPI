@@ -1,0 +1,20 @@
+TITEL = "Programmiersprache C"
+
+CONTENT = ("Eigenschaften\n"
+	"-Linux/Unix-Implementierung\n"
+"-C bietet die Konstrukte höherer Programmiersprachen\n"
+		"->beherrscht man C, so ist es nicht mehr schwer, andere Programmiersprachen wie z.B. C++ oder Java zu lernen\n"
+	"-wird häufig für hardwarenahe Programmierung verwendet\n"
+	"-einfache Portierung auf verschiedene Systeme möglich\n"
+	"-ermöglicht effiziente Programme mit schneller Ausführung und geringem Ressourcenverbrauch\n"
+	"-hat einen kompakten Sprachumfang und der Compiler kann sich selbst kompilieren\n"
+	"-es wird ein Präprozessor verwendet zur Spracherweiterung und bedingten Übersetzung\n"
+	"-es gibt große Freiheit beim Programmieren, was bei Übermaß zu schwer lesbarem Code führen kann\n"
+	"-direkter Hardwarezugriff ist möglich\n"
+	"-es kann zu Compiler-Lauf-Fehlern kommen, wo Fehler erst bei Ausführung erkannt werden\n"
+	"-es gibt uneingeschränkte Programmierfreiheit\n"
+	"-oft müssen Speicherlecks, Pufferabläufe usw. behoben werden von Entwicklern\n"
+	"Quellen:\n"
+		"- https://openbook.rheinwerk-verlag.de/c_von_a_bis_z/001_c_einstieg_in_c_004.htm\n")
+
+IMAGE_NAME = ""

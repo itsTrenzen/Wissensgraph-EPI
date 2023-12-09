@@ -1,12 +1,15 @@
 # Node constants
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Awards import Turing_Award_Data
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Machines import Bombes_Data
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Machines import Bombes_Data, \
+    Unix_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Machines.Computer import ENIAC_Data, \
-    UNIVAC_Data
+    UNIVAC_Data, Lilith_Data, Ceres_Data
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.ProgrammingLanguages import Sprache_B_Data, \
+    Sprache_C_Data, Sprache_Pascal_Data, Sprache_Algol_Data, Sprache_Modula2_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Organizations import \
-    World_Wide_Web_Consortium_Data
+    World_Wide_Web_Consortium_Data, Bell_Labs_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.WebTechnologies import \
-    HTML_Data, WorldWideWeb_Browser_Data, World_Wide_Web_Data
+    HTML_Data, WorldWideWeb_Browser_Data, World_Wide_Web_Data, Arpanet_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Graph import Graph
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Node import Node
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.ComputerScientists import \
@@ -35,6 +38,16 @@ class Nodes:
         graph.add_new_node_to_graph(RAY_TOMLINSON)
         graph.add_new_node_to_graph(DENNIS_RITCHIE)
         graph.add_new_node_to_graph(NIKLAUS_WIRTH)
+        graph.add_new_node_to_graph(UNIX)
+        graph.add_new_node_to_graph(ARPANET)
+        graph.add_new_node_to_graph(BELL_LABS)
+        graph.add_new_node_to_graph(SPRACHE_B)
+        graph.add_new_node_to_graph(SPRACHE_C)
+        graph.add_new_node_to_graph(SPRACHE_PASCAL)
+        graph.add_new_node_to_graph(SPRACHE_ALGOL)
+        graph.add_new_node_to_graph(LILITH)
+        graph.add_new_node_to_graph(CERES)
+        graph.add_new_node_to_graph(SPRACHE_MODULA2)
 
 BEKANNTESTE_INF = Node("","Bekannteste Informatiker\nund ihre Beiträge")
 
@@ -127,4 +140,54 @@ NIKLAUS_WIRTH = Node(
     Niklaus_Wirth_Data.CONTENT,
     Niklaus_Wirth_Data.TITEL#,
     #Niklaus_Wirth_Data.IMAGE_NAME
+)
+UNIX = Node(
+    Unix_Data.CONTENT,
+    Unix_Data.TITEL#,
+    #Unix_Data.IMAGE_NAME
+)
+ARPANET = Node(
+    Arpanet_Data.CONTENT,
+    Arpanet_Data.TITEL#,
+    #Arpanet_Data.IMAGE_NAME
+)
+BELL_LABS = Node(
+    Bell_Labs_Data.CONTENT,
+    Bell_Labs_Data.TITEL#,
+    #Bell_Labs_Data.IMAGE_NAME
+)
+SPRACHE_B = Node(
+    Sprache_B_Data.CONTENT,
+    Sprache_B_Data.TITEL#,
+    #Sprache_B_Data.IMAGE_NAME
+)
+SPRACHE_C = Node(
+    Sprache_C_Data.CONTENT,
+    Sprache_C_Data.TITEL#,
+    #Sprache_C_Data.IMAGE_NAME
+)
+SPRACHE_PASCAL = Node(
+    Sprache_Pascal_Data.CONTENT,
+    Sprache_Pascal_Data.TITEL#,
+    #Sprache_Pascal_Data.IMAGE_NAME
+)
+SPRACHE_ALGOL = Node(
+    Sprache_Algol_Data.CONTENT,
+    Sprache_Algol_Data.TITEL#,
+    #Sprache_Algol_Data.IMAGE_NAME
+)
+LILITH = Node(
+    Lilith_Data.CONTENT,
+    Lilith_Data.TITEL#,
+    #Lilith_Data.IMAGE_NAME
+)
+CERES = Node(
+    Ceres_Data.CONTENT,
+    Ceres_Data.TITEL#,
+    #Ceres_Data.IMAGE_NAME
+)
+SPRACHE_MODULA2 = Node(
+    Sprache_Modula2_Data.CONTENT,
+    Sprache_Modula2_Data.TITEL#,
+    #Sprache_Modula2_Data.IMAGE_NAME
 )

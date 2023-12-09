@@ -11,11 +11,12 @@ from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Graph import Graph
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Node import Node
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.ComputerScientists import \
     Tim_Berners_Lee_Data, John_William_Mauchly_Data, Alan_Turing_Data, Alonzo_Church_Data, John_Presper_Eckert_Data, \
-    Robert_Cailliau_Data, Kenneth_Lane_Thompson_Data
+    Robert_Cailliau_Data, Kenneth_Lane_Thompson_Data, Ray_Tomlinson_Data, Dennis_Ritchie_Data, Niklaus_Wirth_Data
 
 
 class Nodes:
     def __init__(self, graph: Graph):
+        graph.add_new_node_to_graph(BEKANNTESTE_INF)
         graph.add_new_node_to_graph(TIM_BERNERS_LEE)
         graph.add_new_node_to_graph(ALAN_TURING)
         graph.add_new_node_to_graph(ALONZO_CHURCH)
@@ -31,7 +32,11 @@ class Nodes:
         graph.add_new_node_to_graph(BOMBES)
         graph.add_new_node_to_graph(ROBERT_CAILLIAU)
         graph.add_new_node_to_graph(KENNETH_LANE_THOMPSON)
+        graph.add_new_node_to_graph(RAY_TOMLINSON)
+        graph.add_new_node_to_graph(DENNIS_RITCHIE)
+        graph.add_new_node_to_graph(NIKLAUS_WIRTH)
 
+BEKANNTESTE_INF = Node("","Bekannteste Informatiker\nund ihre Beiträge")
 
 TIM_BERNERS_LEE = Node(
     Tim_Berners_Lee_Data.CONTENT,
@@ -107,4 +112,19 @@ KENNETH_LANE_THOMPSON = Node(
     Kenneth_Lane_Thompson_Data.CONTENT,
     Kenneth_Lane_Thompson_Data.TITEL#,
     #Kenneth_Lane_Thompson_Data.IMAGE_NAME
+)
+RAY_TOMLINSON = Node(
+    Ray_Tomlinson_Data.CONTENT,
+    Ray_Tomlinson_Data.TITEL#,
+    #Kenneth_Lane_Thompson_Data.IMAGE_NAME
+)
+DENNIS_RITCHIE = Node(
+    Dennis_Ritchie_Data.CONTENT,
+    Dennis_Ritchie_Data.TITEL#,
+    #Dennis_Ritchie_Data.IMAGE_NAME
+)
+NIKLAUS_WIRTH = Node(
+    Niklaus_Wirth_Data.CONTENT,
+    Niklaus_Wirth_Data.TITEL#,
+    #Niklaus_Wirth_Data.IMAGE_NAME
 )

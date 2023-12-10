@@ -9,7 +9,7 @@ from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Pro
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Organizations import \
     World_Wide_Web_Consortium_Data, Bell_Labs_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.WebTechnologies import \
-    HTML_Data, WorldWideWeb_Browser_Data, World_Wide_Web_Data, Arpanet_Data
+    HTML_Data, WorldWideWeb_Browser_Data, World_Wide_Web_Data, Arpanet_Data, HTTP_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Graph import Graph
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Node import Node
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.ComputerScientists import \
@@ -52,6 +52,7 @@ class Nodes:
         graph.add_new_node_to_graph(SPRACHE_OBERON)
         graph.add_new_node_to_graph(ICS)
         graph.add_new_node_to_graph(SPRACHE_JAVA)
+        graph.add_new_node_to_graph(HTTP)
 
 BEKANNTESTE_INF = Node("","Bekannteste Informatiker\nund ihre Beiträge")
 
@@ -214,4 +215,9 @@ SPRACHE_JAVA = Node(
     Sprache_Java_Data.CONTENT,
     Sprache_Java_Data.TITEL#,
     #Sprache_Java_Data.IMAGE_NAME
+)
+HTTP = Node(
+    HTTP_Data.CONTENT,
+    HTTP_Data.TITEL#,
+    #HTTP_Data.IMAGE_NAME
 )

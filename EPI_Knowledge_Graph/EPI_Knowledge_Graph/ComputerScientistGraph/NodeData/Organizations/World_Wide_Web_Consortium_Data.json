@@ -3,5 +3,5 @@
   "title": "World Wide Web Technologies Consortium (W3C)",
   "content": "Das World Wide WebTechnologies Consortium ist ein Gremium mit dem Ziel, die Techniken im World Wide WebTechnologies zu Standardisieren.W3C wurde 1994 von Tim Berners-Lee gegr\u00fcndet um die inkonsistente Nutzung der Technologien HTML, HTTP und URI zu verhindern.Heute besteht W3C aus 400 Mitgliedern, 50 Mitarbeitern und \u00fcber 12.000 mitwirkenden Entwicklern weltweit. Zusammen entwickeln die Zusammen arbeiten sie daran, \n\nQuellen:\nhttps://www.w3.org/about/",
   "image": "W3C.svg",
-  "connections": []
+  "connections": ["WORLD_WIDE_WEB", "HTML", "HTTP", "URI", "TIM_BERNERS_LEE"]
 }

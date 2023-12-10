@@ -10,20 +10,26 @@ def convert_py_to_json(py_filepath):
     with open(py_filepath, 'r', encoding='utf-8') as py_file:
         py_code = py_file.read()
 
-    # Extrahiere TITEL, CONTENT und IMAGE_NAME aus dem Python-Code
     local_vars = {}
     exec(py_code, {}, local_vars)
 
-    # Erstelle JSON-Datei
+    json_filename = os.path.splitext(py_filepath)[0] + ".json"
+
+    if os.path.exists(json_filename):
+        with open(json_filename, 'r', encoding='utf-8') as existing_json_file:
+            existing_json_data = json.load(existing_json_file)
+        connections = existing_json_data.get("connections", [])
+    else:
+        connections = []
+
     json_data = {
         "id": os.path.splitext(os.path.basename(py_filepath))[0].replace("_Data", "").upper(),
         "title": local_vars.get("TITEL", ""),
         "content": local_vars.get("CONTENT", ""),
         "image": local_vars.get("IMAGE_NAME", ""),
-        "connections": []
+        "connections": connections
     }
 
-    json_filename = os.path.splitext(py_filepath)[0] + ".json"
     with open(json_filename, 'w', encoding='utf-8') as json_file:
         json.dump(json_data, json_file, indent=2)
 
@@ -39,9 +45,7 @@ def convert_folder_to_json(folder_path):
 
 
 def main():
-    # Passe den Pfad zu dem Ordner an, in dem die Konvertierung stattfinden soll
     folder_path = "./NodeData"
-
     convert_folder_to_json(folder_path)
 
 

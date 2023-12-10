@@ -3,5 +3,5 @@
   "title": "Turingmaschine",
   "content": "Die Turing Maschine ist ein abstraktes Rechenger\u00e4t, das erstmals von Alan Turing im Jahr 1936/1937 beschrieben wurde. Mit ihr versuchte man das Ausma\u00df und die Grenzen dessen, was berechnet werden kann, zu untersuchen. Die Maschine ist in der Lage, jede berechenbare Funktion auszuf\u00fchren und hat aufgezeigt, dass einige Probleme algorithmisch nicht l\u00f6sbar sind. Heute gilt sie als eines der grundlegenden Modelle der Berechenbarkeit und der (theoretischen) Informatik.\n\nDefinitionQuellen:\nhttps://plato.stanford.edu/entries/turing-machine/#ImpaTuriMachCompScie\nhttps://fileadmin.cs.lth.se/cs/Personal/Rolf_Karlsson/bk/history.pdf\n",
   "image": "",
-  "connections": []
+  "connections": ["ALAN_TURING"]
 }

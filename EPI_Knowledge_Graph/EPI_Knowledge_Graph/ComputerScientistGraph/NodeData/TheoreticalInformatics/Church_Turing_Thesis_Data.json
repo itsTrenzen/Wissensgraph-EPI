@@ -3,5 +3,5 @@
   "title": "",
   "content": "",
   "image": "",
-  "connections": []
+  "connections": ["ALONZO_CHURCH", "CHURCH_THESIS"]
 }

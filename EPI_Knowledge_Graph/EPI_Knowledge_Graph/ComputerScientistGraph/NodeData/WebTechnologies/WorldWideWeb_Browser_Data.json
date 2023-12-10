@@ -3,5 +3,5 @@
   "title": "WorldWideWeb Browser (Nexus)",
   "content": "WorldWideWeb ist der erste Webbrowser. Er wurde von Tim Berners-Lee 1990 am Kernforschungsinstitut CERN entwickelt. Im Gegensatz zu heutigen Webbrowsern fungierte WorldWideWeb nicht nur als Webbrowser sondern ebenso als Editor zum Erstellen von HTML-Dokumenten (Webseiten). WorldWideWeb wurde in der Programmiersprache Objective-C unter dem Betriebssystem NeXTStep entwickelt und basiert auf der Verlinkung von Hypertext-Dateien. Um Verwechslungen mit dem abstrakten Konzepts des 'World Wide Web' zu verhindern, wurde der Browser sp\u00e4ter in Nexus umbenannt. Da NeXTStep als Betriebssystem zwar fortschrittlich aber wenig verbreitet war, fand auch WorldWideWeb nie gro\u00dfe Verbreitung.\n\nQuellen:\nhttps://www.w3.org/People/Berners-Lee/WorldWideWeb.htmlhttps://worldwideweb.cern.ch/worldwideweb/",
   "image": "WorldWideWeb_Browser.png",
-  "connections": []
+  "connections": ["TIM_BERNERS_LEE", "HTML"]
 }

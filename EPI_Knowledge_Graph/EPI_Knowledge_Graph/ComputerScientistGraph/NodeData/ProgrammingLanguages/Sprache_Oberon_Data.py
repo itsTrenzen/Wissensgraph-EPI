@@ -21,6 +21,6 @@ CONTENT = ("Historie:\n"
 	"-hat Ähnlichkeiten zu Pascal\n"
 	"-unterscheidet sich von Modula-2 durch das Konzept der Typerweiterung\n"
 	"Quellen:\n"
-		"- https://www.complang.tuwien.ac.at/lehre/gwa-papers/04w/franz/Oberon.pdf\n")
+		"- https://www.complang.tuwien.ac.at/lehre/gwa-papers/04w/franz/Oberon.pdf (S.1+4)\n")
 
 IMAGE_NAME = ""

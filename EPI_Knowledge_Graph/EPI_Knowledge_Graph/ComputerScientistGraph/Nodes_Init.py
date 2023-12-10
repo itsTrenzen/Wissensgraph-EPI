@@ -5,6 +5,8 @@ from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Mac
     UNIVAC_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Organizations import \
     World_Wide_Web_Consortium_Data
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.TheoreticalInformatics import \
+    Turing_Machine_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.WebTechnologies import \
     HTML_Data, WorldWideWeb_Browser_Data, World_Wide_Web_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Graph import Graph
@@ -21,13 +23,14 @@ class Nodes:
         graph.add_new_node_to_graph(JOHN_WILLIAM_MAUCHLY)
         graph.add_new_node_to_graph(JON_PRESPER_ECKERT)
         graph.add_new_node_to_graph(WORLD_WIDE_WEB_CONSORTIUM)
-        graph.add_new_node_to_graph(TURING_AWARD_DATA)
+        graph.add_new_node_to_graph(TURING_AWARD)
         graph.add_new_node_to_graph(ENIAC)
         graph.add_new_node_to_graph(UNIVAC)
         graph.add_new_node_to_graph(HTML)
         graph.add_new_node_to_graph(WORLD_WIDE_WEB_BROWSER)
         graph.add_new_node_to_graph(WORLD_WIDE_WEB)
         graph.add_new_node_to_graph(BOMBES)
+        graph.add_new_node_to_graph(TURING_MACHINE)
 
 
 TIM_BERNERS_LEE = Node(
@@ -60,7 +63,7 @@ WORLD_WIDE_WEB_CONSORTIUM = Node(
     World_Wide_Web_Consortium_Data.TITEL,
     World_Wide_Web_Consortium_Data.IMAGE_NAME)
 
-TURING_AWARD_DATA = Node(
+TURING_AWARD = Node(
     Turing_Award_Data.CONTENT,
     Turing_Award_Data.TITEL,
     Turing_Award_Data.IMAGE_NAME)
@@ -94,3 +97,8 @@ BOMBES = Node(
     Bombes_Data.CONTENT,
     Bombes_Data.TITEL,
     Bombes_Data.IMAGE_NAME)
+
+TURING_MACHINE = Node(
+    Turing_Machine_Data.CONTENT,
+    Turing_Machine_Data.TITEL,
+    Turing_Machine_Data.IMAGE_NAME)

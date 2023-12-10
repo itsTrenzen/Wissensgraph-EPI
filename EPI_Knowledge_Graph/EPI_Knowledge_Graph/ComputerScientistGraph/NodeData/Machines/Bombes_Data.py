@@ -8,17 +8,19 @@ CONTENT = ("Die Turing-Bombe (oder kurz: 'Bombes') ist ein mechanisches Gerät z
            "mindestens zwei Jahre verkürzt hat.\n\n"
            
            "Funktionsweise\n"
-           "Die Turing-Bombe versuchte Muster in verschlüsselten Nachrichten zu erkennen. So enthielten "
-           "die Nachrichten der Deutschen häufig wiederkehrende Formeln (z.B.: 'Betreff:') und hatten einen "
-           "vorhersehbaren Aufbau (Absender, Empfänger, Datum). Besonders Wetterberichte waren eine wertvolle "
-           "Informationsquelle, da sie mehrmals täglich gesendet wurden und zu ihrer Verschlüsselung wiederholt der "
-           "selbe Schlüssel genutzt wurde. Die Einstellungen der Enigma-Maschinen, darunter Walzenposition, "
-           "Ringstellungen und Steckbrett-Verbindungen werden täglich gewechselt. Die Turing-Maschine simulierte "
-           "systematische die verschiedenen Einstellungen und testete anhand bekannter Klartextstellen, ob diese zu "
-           "den erwarteten Ergebnissen führten.\n\n"
+           "Die Turing-Bombe versuchte, Muster in verschlüsselten Nachrichten zu erkennen. Deutsche Nachrichten "
+           "enthielten häufig wiederkehrende Formeln wie \"Betreff:\" und folgten einem vorhersehbaren Aufbau mit "
+           "Angaben zu Absender, Empfänger und Datum. Insbesondere Wetterberichte galten als wertvolle "
+           "Informationsquellen, da sie mehrmals täglich gesendet wurden und oft denselben Schlüssel zur "
+           "Verschlüsselung verwendeten. Die Einstellungen der Enigma-Maschinen, einschließlich Walzenposition, "
+           "Ringstellungen und Steckbrett-Verbindungen, wurden täglich gewechselt. Die Turing-Bombe simulierte "
+           "systematisch die verschiedenen Einstellungen und stellte Hypothesen zur richtigen Schlüsselkonfiguration "
+           "auf. Anhand bekannter Klartextstellen wurden diese Hypothesen getestet. Dabei wurde ausgenutzt, "
+           "dass die Enigma niemals einen Buchstaben mit sich selbst chiffrierte. Wenn eine Simulation zu den "
+           "erwarteten Ergebnissen führte, wurde die richtige Einstellung gefunden.\n\n"
 
            "Quellen:\n"
            "https://www.rutherfordjournal.org/article030108.html\n"
            "https://link.springer.com/article/10.1007/s00287-012-0622-7\n")
 
-IMAGE_NAME = ""
+IMAGE_NAME = "Bombes.jpg"

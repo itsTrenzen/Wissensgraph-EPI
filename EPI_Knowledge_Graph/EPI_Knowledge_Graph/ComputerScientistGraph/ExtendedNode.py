@@ -2,10 +2,12 @@ from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Node import Node
 
 
 class ExtendedNode(Node):
+    connections = []
 
     def __init__(self, description, titel, connections, image_name="image_placeholder.png", x=0, y=0):
         super().__init__(description, titel, image_name, x=0, y=0)
-        list(map(self.__connect, connections))
+        self.connections = connections
+        # list(map(self.__connect, connections))
 
     def __connect(self, conn):
         super().connect(conn)

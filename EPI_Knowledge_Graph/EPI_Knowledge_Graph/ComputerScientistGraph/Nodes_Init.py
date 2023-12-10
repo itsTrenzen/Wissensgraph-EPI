@@ -5,7 +5,7 @@ from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Mac
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Machines.Computer import ENIAC_Data, \
     UNIVAC_Data, Lilith_Data, Ceres_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.ProgrammingLanguages import Sprache_B_Data, \
-    Sprache_C_Data, Sprache_Pascal_Data, Sprache_Algol_Data, Sprache_Modula2_Data, Sprache_Euler_Data, Sprache_Oberon_Data
+    Sprache_C_Data, Sprache_Pascal_Data, Sprache_Algol_Data, Sprache_Modula2_Data, Sprache_Euler_Data, Sprache_Oberon_Data, Sprache_Java_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Organizations import \
     World_Wide_Web_Consortium_Data, Bell_Labs_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.WebTechnologies import \
@@ -51,6 +51,7 @@ class Nodes:
         graph.add_new_node_to_graph(SPRACHE_EULER)
         graph.add_new_node_to_graph(SPRACHE_OBERON)
         graph.add_new_node_to_graph(ICS)
+        graph.add_new_node_to_graph(SPRACHE_JAVA)
 
 BEKANNTESTE_INF = Node("","Bekannteste Informatiker\nund ihre Beiträge")
 
@@ -208,4 +209,9 @@ ICS = Node (
     Programmierbare_ICs_Data.CONTENT,
     Programmierbare_ICs_Data.TITEL#,
     #Programmierbare_ICs_Data.IMAGE_NAME
+)
+SPRACHE_JAVA = Node(
+    Sprache_Java_Data.CONTENT,
+    Sprache_Java_Data.TITEL#,
+    #Sprache_Java_Data.IMAGE_NAME
 )

@@ -1,11 +1,11 @@
 # Node constants
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Awards import Turing_Award_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Machines import Bombes_Data, \
-    Unix_Data
+    Unix_Data, Programmierbare_ICs_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Machines.Computer import ENIAC_Data, \
     UNIVAC_Data, Lilith_Data, Ceres_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.ProgrammingLanguages import Sprache_B_Data, \
-    Sprache_C_Data, Sprache_Pascal_Data, Sprache_Algol_Data, Sprache_Modula2_Data
+    Sprache_C_Data, Sprache_Pascal_Data, Sprache_Algol_Data, Sprache_Modula2_Data, Sprache_Euler_Data, Sprache_Oberon_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Organizations import \
     World_Wide_Web_Consortium_Data, Bell_Labs_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.WebTechnologies import \
@@ -48,6 +48,9 @@ class Nodes:
         graph.add_new_node_to_graph(LILITH)
         graph.add_new_node_to_graph(CERES)
         graph.add_new_node_to_graph(SPRACHE_MODULA2)
+        graph.add_new_node_to_graph(SPRACHE_EULER)
+        graph.add_new_node_to_graph(SPRACHE_OBERON)
+        graph.add_new_node_to_graph(ICS)
 
 BEKANNTESTE_INF = Node("","Bekannteste Informatiker\nund ihre Beiträge")
 
@@ -190,4 +193,19 @@ SPRACHE_MODULA2 = Node(
     Sprache_Modula2_Data.CONTENT,
     Sprache_Modula2_Data.TITEL#,
     #Sprache_Modula2_Data.IMAGE_NAME
+)
+SPRACHE_EULER = Node(
+    Sprache_Euler_Data.CONTENT,
+    Sprache_Euler_Data.TITEL#,
+    #Sprache_Euler_Data.IMAGE_NAME
+)
+SPRACHE_OBERON = Node(
+    Sprache_Oberon_Data.CONTENT,
+    Sprache_Oberon_Data.TITEL#,
+    #Sprache_Oberon_Data.IMAGE_NAME
+)
+ICS = Node (
+    Programmierbare_ICs_Data.CONTENT,
+    Programmierbare_ICs_Data.TITEL#,
+    #Programmierbare_ICs_Data.IMAGE_NAME
 )

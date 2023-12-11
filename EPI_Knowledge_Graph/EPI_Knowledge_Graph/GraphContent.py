@@ -14,22 +14,14 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 """
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.Nodes_Init import Nodes
 from GraphModel.Graph import Graph
 from GraphModel.Node import Node
-from ComputerScientistGraph import Nodes_Init
 
 
 class GraphContent:
 
     def __init__(self, graph: Graph):
-        self.create_nodes(graph)
-
-
-    def create_nodes(selfself, graph):
-        Nodes(graph)
-        Graph()
-
+        self.create_demo_nodes(graph)
 
     def create_demo_nodes(self, graph):
         """
@@ -218,6 +210,6 @@ class GraphContent:
         graph.add_new_node_to_graph(literature_source_example_node)
         graph.add_new_node_to_graph(paper_source_example_node)
 
-        #unsere Knoten
+        # unsere Knoten
         my_node = Node("Text", "Knoten")
         graph.add_new_node_to_graph(my_node)

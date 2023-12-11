@@ -46,3 +46,5 @@ CONTENT = ("Alan Turing, ein britischer Mathematiker, Logiker und Kryptoanalytik
            "https://plato.stanford.edu/entries/turing/\n")
 
 IMAGE_NAME = "Alan_Turing.jpg"
+
+CONNECTIONS = ["TURING_AWARD", "ALONZO_CHURCH", "TURING_MACHINE", "BOMBES"]

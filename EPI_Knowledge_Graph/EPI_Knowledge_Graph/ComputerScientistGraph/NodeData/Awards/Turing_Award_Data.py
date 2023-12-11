@@ -23,3 +23,5 @@ CONTENT = ("Der Turing Preis ist eine renommierte Auszeichnung in der Informatik
            "https://www.britannica.com/topic/Turing-Award\n")
 
 IMAGE_NAME = "Turing_Award.jpg"
+
+CONNECTIONS = ["ALAN_TURING"]

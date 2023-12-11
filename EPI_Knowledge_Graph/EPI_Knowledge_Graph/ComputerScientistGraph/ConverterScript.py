@@ -1,5 +1,6 @@
 import os
 import json
+import warnings
 
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph import JsonParser
 
@@ -15,19 +16,12 @@ def convert_py_to_json(py_filepath):
 
     json_filename = os.path.splitext(py_filepath)[0] + ".json"
 
-    if os.path.exists(json_filename):
-        with open(json_filename, 'r', encoding='utf-8') as existing_json_file:
-            existing_json_data = json.load(existing_json_file)
-        connections = existing_json_data.get("connections", [])
-    else:
-        connections = []
-
     json_data = {
         "id": os.path.splitext(os.path.basename(py_filepath))[0].replace("_Data", "").upper(),
         "title": local_vars.get("TITEL", ""),
         "content": local_vars.get("CONTENT", ""),
-        "image": local_vars.get("IMAGE_NAME", ""),
-        "connections": connections
+        "image": local_vars.get("IMAGE_NAME"),
+        "connections": local_vars.get("CONNECTIONS", [])
     }
 
     with open(json_filename, 'w', encoding='utf-8') as json_file:

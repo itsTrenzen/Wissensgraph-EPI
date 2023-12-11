@@ -10,11 +10,12 @@ from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Web
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Graph import Graph
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Node import Node
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.ComputerScientists import \
-    Tim_Berners_Lee_Data, John_William_Mauchly_Data, Alan_Turing_Data, Alonzo_Church_Data, John_Presper_Eckert_Data
+    Tim_Berners_Lee_Data, John_William_Mauchly_Data, Alan_Turing_Data, Alonzo_Church_Data, John_Presper_Eckert_Data, ORIGIN
 
 
 class Nodes:
     def __init__(self, graph: Graph):
+        graph.add_new_node_to_graph(ORIGIN)
         graph.add_new_node_to_graph(TIM_BERNERS_LEE)
         graph.add_new_node_to_graph(ALAN_TURING)
         graph.add_new_node_to_graph(ALONZO_CHURCH)
@@ -29,7 +30,10 @@ class Nodes:
         graph.add_new_node_to_graph(WORLD_WIDE_WEB)
         graph.add_new_node_to_graph(BOMBES)
 
-
+ORIGIN = Node(
+    ORIGIN.CONTENT,
+    ORIGIN.TITEL
+)
 TIM_BERNERS_LEE = Node(
     Tim_Berners_Lee_Data.CONTENT,
     Tim_Berners_Lee_Data.TITEL,

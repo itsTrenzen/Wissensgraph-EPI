@@ -10,8 +10,10 @@ CONTENT = ("WorldWideWeb ist der erste Webbrowser. Er wurde von Tim Berners-Lee 
            "Verbreitung.\n\n"
 
            "Quellen:\n"
-           "https://www.w3.org/People/Berners-Lee/WorldWideWeb.html"
-           "https://worldwideweb.cern.ch/worldwideweb/")
+           "Tim Berners-Lee: WorldWideWeb, the first web client (o. D.): [online] "
+           "https://www.w3.org/People/Berners-Lee/WorldWideWeb.html.\n"
+           "Cern (o. D.): The browser — WorldWideWeb NeXT application, [online] "
+           "https://worldwideweb.cern.ch/worldwideweb/.\n")
 
 IMAGE_NAME = "WorldWideWeb_Browser.png"
 

@@ -23,7 +23,8 @@ CONTENT = ("John Mauchly war ein US-amerikanischer Physiker und Ingenieur, der z
 
 
            "Quellen:\n"
-           "https://www.britannica.com/biography/John-Mauchly\n")
+           "The Editors of Encyclopaedia Britannica (1998b): John Mauchly | Biography, Computer & Facts, Encyclopedia "
+           "Britannica, [online] https://www.britannica.com/biography/John-Mauchly.\n")
 
 IMAGE_NAME = "John_Mauchly.webp"
 

@@ -26,12 +26,18 @@ CONTENT = ("Das World Wide Web (abgekürzt auch 'WWW' oder 'W3') ist ein System 
            "führte.\n\n"
            
            "Quellen:\n"
-           "https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html\n"
-           "https://www.w3.org/History/19921103-hypertext/hypertext/WWW/Proposal.html\n"
-           "https://www.w3.org/History/1989/proposal.html\n"
-           "https://dl.acm.org/doi/pdf/10.1145/179606.179671\n"
-           "https://link.springer.com/chapter/10.1007/978-3-8348-2551-3_2\n"
-           "https://books.google.de/books?id=zEHcz259BnUC&pg=PA9&dq=World+Wide+Web+30.+April+1993&hl=de&sa=X&ved=0ahUKEwjc9tztxuLaAhUL3KQKHcOhBMUQ6AEIJzAA#v=onepage&q&f=false\n")
+           "The World Wide Web project (o. D.): [online] "
+           "https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html.\n"
+           "WorldWideWeb: Proposal for a HyperText project (o. D.): [online] "
+           "https://www.w3.org/History/19921103-hypertext/hypertext/WWW/Proposal.html.\n"
+           "The original proposal of the WWW, HTMLized (o. D.): [online] https://www.w3.org/History/1989/proposal.html.\n"
+           "Berners‐Lee, Tim/Robert Cailliau/Ari Luotonen/Henrik Frystyk Nielsen/Arthur Secret (1994): The World-Wide "
+           "web, in: Communications of The ACM, Bd. 37, Nr. 8, S. 76–82, [online] doi:10.1145/179606.179671.\n"
+           "Heil, Andreas (2012): Grundlagen und Prinzipien, in: Springer eBooks, S. 13–35, [online] "
+           "doi:10.1007/978-3-8348-2551-3_2.2\n"
+           "Internetgeographien (1993): Google Books, [online] "
+           "https://books.google.de/books?id=zEHcz259BnUC&pg=PA9&dq=World+Wide+Web+30.+April+1993&hl=de&sa=X&ved"
+           "=0ahUKEwjc9tztxuLaAhUL3KQKHcOhBMUQ6AEIJzAA#v=onepage&q&f=false.\n")
 
 IMAGE_NAME = "WWW.png"
 

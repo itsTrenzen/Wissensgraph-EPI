@@ -42,7 +42,8 @@ CONTENT = ("ENIAC war der erste turingmächtige Universalcomputer. Er wurde wäh
            "Kosten: 468.000 US-$\n\n"
            
            "Quellen:\n"
-           "https://www.nature.com/articles/158500a0\n")
+           "Hartree, D. R. (1946): The ENIAC, an electronic computing machine, in: Nature, Bd. 158, Nr. 4015, "
+           "S. 500–506, [online] doi:10.1038/158500a0.\n")
 
 IMAGE_NAME = "ENIAC.gif"
 

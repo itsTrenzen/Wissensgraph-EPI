@@ -20,8 +20,10 @@ CONTENT = ("Die Turing-Bombe (oder kurz: 'Bombes') ist ein mechanisches Gerät z
            "erwarteten Ergebnissen führte, wurde die richtige Einstellung gefunden.\n\n"
 
            "Quellen:\n"
-           "https://www.rutherfordjournal.org/article030108.html\n"
-           "https://link.springer.com/article/10.1007/s00287-012-0622-7\n")
+           "The Turing bombe in Bletchley Park (o. D.): [online] "
+           "https://www.rutherfordjournal.org/article030108.html.\n"
+           "Blömer, Johannes (2012): Turing und Kryptografie, in: Informatik Spektrum, Bd. 35, Nr. 4, S. 261–270, "
+           "[online] doi:10.1007/s00287-012-0622-7.\n")
 
 IMAGE_NAME = "Bombes.jpg"
 

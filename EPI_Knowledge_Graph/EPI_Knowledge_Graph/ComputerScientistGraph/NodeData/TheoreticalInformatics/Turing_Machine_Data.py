@@ -9,8 +9,10 @@ CONTENT = ("Die Turing Maschine ist ein abstraktes Rechengerät, das erstmals vo
            "Definition"
 
            "Quellen:\n"
-           "https://plato.stanford.edu/entries/turing-machine/#ImpaTuriMachCompScie\n"
-           "https://fileadmin.cs.lth.se/cs/Personal/Rolf_Karlsson/bk/history.pdf\n")
+           "Turing Machines (Stanford Encyclopedia of Philosophy) (2018): [online] "
+           "https://plato.stanford.edu/entries/turing-machine/#ImpaTuriMachCompScie.\n"
+           "Fortnow, Lance/Steve Homer (2002): A Short History of Computational Complexity, in: Lunds Universitet, "
+           "[online] https://fileadmin.cs.lth.se/cs/Personal/Rolf_Karlsson/bk/history.pdf [abgerufen am 06.12.2023].\n")
 
 IMAGE_NAME = ""
 

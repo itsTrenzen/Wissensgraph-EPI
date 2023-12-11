@@ -29,11 +29,11 @@ CONTENT = ("UNIVAC war der erste kommerziell verfügbare Machines in den Vereini
            "\n\n"
 
            "Quellen:\n"
-           "https://www.britannica.com/technology/UNIVAC\n"
-           "https://dl.acm.org/doi/epdf/10.5555/1074100.1074889\n"
-           "https://ds.amu.edu.et/xmlui/bitstream/handle/123456789/11722/MIT.Press.A.History.Of.Modern.Computing.2nd"
-           ".Edition.May.2003.ISBN.0262532034.pdf?sequence=1&isAllowed=y\n"
-           "https://elibrary.ru/item.asp?id=8436093\n")
+           "Swaine, Michael R./Paul A. Freiberger (2008): UNIVAC | Mainframe Computer, Business Applications & Data "
+           "Processing, Encyclopedia Britannica, [online] https://www.britannica.com/technology/UNIVAC.\n"
+           "Ralston, Anthony/Edwin D. Reilly/David Hemmendinger (2003): Encyclopedia of Computer Science, John Wiley "
+           "and Sons Ltd.Baffins Lane Chichester West Sussex PO19 1UDUnited Kingdom, [online] "
+           "https://dl.acm.org/doi/epdf/10.5555/1074100.1074889.\n")
 
 IMAGE_NAME = "UNIVAC.jpg"
 

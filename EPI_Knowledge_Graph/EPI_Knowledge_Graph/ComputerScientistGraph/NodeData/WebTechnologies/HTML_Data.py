@@ -52,9 +52,12 @@ CONTENT = ("HTML ist eine textbasierte Auszeichnungssprache, die vor allem im Ko
            "</HTML>\n\n"
 
            "Quellen:\n"
-           "http://homepages.cs.ncl.ac.uk/brian.randell/Seminars/92.pdf\n"
-           "https://www.immagic.com/eLibrary/ARCHIVES/SUPRSDED/W3C/W980424S.pdf\n"
-           "https://html.spec.whatwg.org/multipage/\n")
+           "Berners-Lee, Tim/Robert Cailliau/Nicola Pellow/Arthur Secret (o. D.): THE WORLD-WIDE WEB INITIATIVE, "
+           "Newcastle University, [online] http://homepages.cs.ncl.ac.uk/brian.randell/Seminars/92.pdf [abgerufen am "
+           "28.11.2023].\n"
+           "Raggett, Dave/Arnaud Le Hors/Ian Jacobs (1989): HTML 4.0 Specification, www.immagic.com, [online] "
+           "https://www.immagic.com/eLibrary/ARCHIVES/SUPRSDED/W3C/W980424S.pdf [abgerufen am 29.11.2023].\n"
+           "HTML Standard (o. D.): [online] https://html.spec.whatwg.org/multipage/.\n")
 
 IMAGE_NAME = "HTML.png"
 

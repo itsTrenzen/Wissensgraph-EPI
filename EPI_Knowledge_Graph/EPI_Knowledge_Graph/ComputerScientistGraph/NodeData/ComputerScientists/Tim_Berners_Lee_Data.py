@@ -27,8 +27,8 @@ CONTENT = ("Sir Tim Berners-Lee ist ein britischer Informatiker, der als Begrün
            "ermöglichten\n\n"
            
            "Quellen:\n"
-           "https://www.w3.org/People/Berners-Lee/\n"
-           "https://www.w3.org/People/Berners-Lee/Longer.html\n")
+           "Tim Berners-Lee (o. D.): [online] https://www.w3.org/People/Berners-Lee/.\n"
+           "Longer bio for Tim Berners-Lee (o. D.): [online] https://www.w3.org/People/Berners-Lee/Longer.html.\n")
 
 IMAGE_NAME = "Tim_Berners-Lee.png"
 

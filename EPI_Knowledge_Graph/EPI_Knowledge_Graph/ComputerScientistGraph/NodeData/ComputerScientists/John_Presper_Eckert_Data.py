@@ -15,7 +15,8 @@ CONTENT = ("John Presper Eckert war ein Elektroingenieur und Informatiker, der z
            "1995: Gestorben am 03. Juni 1919 in Bryn Mawr, Pennsylvania, USA\n\n"
 
            "Quellen:\n"
-           "https://www.britannica.com/biography/J-Presper-Eckert-Jr\n")
+           "The Editors of Encyclopaedia Britannica (1998): J. Presper Eckert | Biography, Invention & Facts, "
+           "Encyclopedia Britannica, [online] https://www.britannica.com/biography/J-Presper-Eckert-Jr.\n")
 
 IMAGE_NAME = "John_Presper_Eckert.jpg"
 

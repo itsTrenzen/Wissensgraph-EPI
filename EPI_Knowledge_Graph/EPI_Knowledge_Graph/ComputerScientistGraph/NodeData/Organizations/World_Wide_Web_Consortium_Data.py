@@ -7,7 +7,7 @@ CONTENT = ("Das World Wide WebTechnologies Consortium ist ein Gremium mit dem Zi
            "arbeiten sie daran, \n\n"
           
            "Quellen:\n"
-           "https://www.w3.org/about/")
+           "About us (o. D.): W3C, [online] https://www.w3.org/about/.")
 
 IMAGE_NAME = "W3C.svg"
 

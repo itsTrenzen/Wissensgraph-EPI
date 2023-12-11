@@ -98,3 +98,4 @@ BOMBES = Node(
     Bombes_Data.CONTENT,
     Bombes_Data.TITEL,
     Bombes_Data.IMAGE_NAME)
+

@@ -14,7 +14,7 @@ CONTENT = ("Steckbrief:\n"
 "-ab 1968 ist er Professor für Informatik an der ETH Zürich\n"
 "-zwei Sabbat-Jahre verbringt er bei „Xerox Corporation“ in Kalifornien\n"
 "-Hauptinteresse liegt in Software-Engineering und Entwicklung von Programmiersprachen\n"
-"-um 1960 beteiligte er sich an der Entwicklung von ALCOL\n"
+"-um 1960 beteiligte er sich an der Entwicklung von ALGOL\n"
 "-Hauptbeitrag: die populäre Programmiersprache „Pascal“ wurde von ihm entwickelt 1970\n"
 		"-führte „Pascal“ an der ETH-Zürich für die Lehre ein\n"
 		"-fand unerwartete Akzeptanz bei professionellen Anwendungen\n"
@@ -28,3 +28,5 @@ CONTENT = ("Steckbrief:\n"
 "- https://www.winterthur-glossar.ch/niklaus-wirth\n")
 
 IMAGE_NAME = ""
+
+CONNECTIONS = ["SPRACHE_PASCAL","LILITH","CERES","SPRACHE_OBERON","SPRACHE_MODULA2","PROGRAMMIERBARE_ICS","SPRACHE_ALGOL","SPRACHE_EULER"]

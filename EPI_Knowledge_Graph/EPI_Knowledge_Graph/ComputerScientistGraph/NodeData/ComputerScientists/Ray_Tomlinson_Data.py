@@ -18,3 +18,5 @@ CONTENT = ("Steckbrief:\n"
 "- https://www.internethalloffame.org/official-biography-raymond-tomlinson/\n")
 
 IMAGE_NAME = ""
+
+CONNECTIONS = ["ARPANET"]

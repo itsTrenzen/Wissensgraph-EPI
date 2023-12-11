@@ -15,3 +15,5 @@ CONTENT = ("Steckbrief:\n"
     "- https://www.munzinger.de/search/portrait/Robert+Cailliau/0/21927.html\n")
 
 IMAGE_NAME = ""
+
+CONNECTIONS = ["WORLD_WIDE_WEB"]

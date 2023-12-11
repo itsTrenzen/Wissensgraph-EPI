@@ -1,7 +1,7 @@
 import os
 import warnings
 
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph import JsonParser
+#from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph import JsonParser
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.ExtendedNode import ExtendedNode
 
 

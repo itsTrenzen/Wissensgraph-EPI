@@ -13,3 +13,5 @@ CONTENT = ("Die Turing Maschine ist ein abstraktes Rechengerät, das erstmals vo
            "https://fileadmin.cs.lth.se/cs/Personal/Rolf_Karlsson/bk/history.pdf\n")
 
 IMAGE_NAME = ""
+
+CONNECTIONS = ["ALAN_TURING"]

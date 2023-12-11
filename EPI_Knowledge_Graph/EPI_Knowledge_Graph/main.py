@@ -19,9 +19,6 @@ import pygame.freetype
 import sys
 
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph import DataParser
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.JsonParser import JsonParser
-from GraphContent import GraphContent
-from Structured_Knowledge_Graph_Example.MyGraphExample import MyGraphExample
 from View.ApplicationLoopManager import ApplicationLoopManager
 from ComponentAssembly.ComponentAssembler import ComponentAssembler
 from GraphModel.Graph import Graph

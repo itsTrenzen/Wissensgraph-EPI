@@ -57,3 +57,5 @@ CONTENT = ("HTML ist eine textbasierte Auszeichnungssprache, die vor allem im Ko
            "https://html.spec.whatwg.org/multipage/\n")
 
 IMAGE_NAME = "HTML.png"
+
+CONNECTIONS = ["WORLD_WIDE_WEB", "TIM_BERNERS_LEE", "WORLD_WIDE_WEB_CONSORTIUM"]

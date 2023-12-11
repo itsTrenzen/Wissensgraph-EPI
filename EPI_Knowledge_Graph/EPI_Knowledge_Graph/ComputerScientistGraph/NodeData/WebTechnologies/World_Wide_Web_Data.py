@@ -34,3 +34,5 @@ CONTENT = ("Das World Wide Web (abgekürzt auch 'WWW' oder 'W3') ist ein System 
            "https://books.google.de/books?id=zEHcz259BnUC&pg=PA9&dq=World+Wide+Web+30.+April+1993&hl=de&sa=X&ved=0ahUKEwjc9tztxuLaAhUL3KQKHcOhBMUQ6AEIJzAA#v=onepage&q&f=false\n")
 
 IMAGE_NAME = "WWW.png"
+
+CONNECTIONS = ["HTTP", "HTML", "URI", "TIM_BERNERS_LEE", "WORLD_WIDE_WEB_CONSORTIUM"]

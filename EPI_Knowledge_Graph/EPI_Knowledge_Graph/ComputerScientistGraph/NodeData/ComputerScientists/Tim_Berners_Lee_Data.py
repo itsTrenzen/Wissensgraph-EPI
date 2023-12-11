@@ -31,3 +31,14 @@ CONTENT = ("Sir Tim Berners-Lee ist ein britischer Informatiker, der als Begrün
            "https://www.w3.org/People/Berners-Lee/Longer.html\n")
 
 IMAGE_NAME = "Tim_Berners-Lee.png"
+
+CONNECTIONS = [
+    "WORLD_WIDE_WEB",
+    "WORLDWIDEWEB_BROWSER",
+    "WORLD_WIDE_WEB_CONSORTIUM",
+    "CERN",
+    "HTTP",
+    "HTML",
+    "URI",
+    "TURING_AWARD"
+]

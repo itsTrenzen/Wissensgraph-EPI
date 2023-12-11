@@ -42,9 +42,11 @@ CONTENT = ("Alan Turing, ein britischer Mathematiker, Logiker und Kryptoanalytik
            
 
            "Quellen:\n"
-           "https://www.alanturing.net/turing_archive/pages/Reference%20Articles/Bio%20of%20Alan%20Turing.html\n"
-           "https://plato.stanford.edu/entries/turing/\n")
+           "AlanTuring.net Bio of Alan Turing (o. D.): [online] "
+           "https://www.alanturing.net/turing_archive/pages/Reference%20Articles/Bio%20of%20Alan%20Turing.html.\n"
+           "Alan Turing (Stanford Encyclopedia of Philosophy) (2013): [online] "
+           "https://plato.stanford.edu/entries/turing/.\n")
 
 IMAGE_NAME = "Alan_Turing.jpg"
 
-CONNECTIONS = ["TURING_AWARD", "ALONZO_CHURCH", "TURING_MACHINE", "BOMBES"]
+CONNECTIONS = ["TURING_AWARD", "ALONZO_CHURCH", "TURING_MACHINE", "BOMBES", "CHURCH_TURING_THESIS"]

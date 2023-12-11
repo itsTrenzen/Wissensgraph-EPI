@@ -36,3 +36,5 @@ CONTENT = ("UNIVAC war der erste kommerziell verfügbare Machines in den Vereini
            "https://elibrary.ru/item.asp?id=8436093\n")
 
 IMAGE_NAME = "UNIVAC.jpg"
+
+CONNECTIONS = ["JOHN_WILLIAM_MAUCHLY", "JOHN_PRESPER_ECKERT"]

@@ -1,8 +1,7 @@
 import os
 import json
-import warnings
 
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph import JsonParser
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.Deprecated import JsonParser
 
 JSON_SCHEMA = JsonParser.JSON_SCHEMA
 
@@ -39,7 +38,7 @@ def convert_folder_to_json(folder_path):
 
 
 def main():
-    folder_path = "./NodeData"
+    folder_path = "../NodeData"
     convert_folder_to_json(folder_path)
 
 

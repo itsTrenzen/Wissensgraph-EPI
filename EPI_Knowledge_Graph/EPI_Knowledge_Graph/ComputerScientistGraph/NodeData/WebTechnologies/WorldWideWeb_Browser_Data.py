@@ -8,9 +8,11 @@ CONTENT = ("WorldWideWeb ist der erste Webbrowser. Er wurde von Tim Berners-Lee 
            "Web' zu verhindern, wurde der Browser später in Nexus umbenannt. Da NeXTStep als "
            "Betriebssystem zwar fortschrittlich aber wenig verbreitet war, fand auch WorldWideWeb nie große "
            "Verbreitung.\n\n"
-          
+
            "Quellen:\n"
            "https://www.w3.org/People/Berners-Lee/WorldWideWeb.html"
            "https://worldwideweb.cern.ch/worldwideweb/")
 
 IMAGE_NAME = "WorldWideWeb_Browser.png"
+
+CONNECTIONS = ["WORLD_WIDE_WEB", "TIM_BERNERS_LEE", "HTTP", "HTML", "URI"]

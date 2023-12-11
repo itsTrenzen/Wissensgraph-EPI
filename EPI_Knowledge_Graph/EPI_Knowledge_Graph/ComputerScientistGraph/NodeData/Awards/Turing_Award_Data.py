@@ -19,8 +19,9 @@ CONTENT = ("Der Turing Preis ist eine renommierte Auszeichnung in der Informatik
            "Ethernet\n\n"
 
            "Quellen:\n"
-           "https://amturing.acm.org/\n"
-           "https://www.britannica.com/topic/Turing-Award\n")
+           "A.M. Turing Award (o. D.): [online] https://amturing.acm.org/.\n"
+           "Hosch, William L. (2023): Turing Award | Definition, winners, Prize money & facts, Encyclopedia "
+           "Britannica, [online] https://www.britannica.com/topic/Turing-Award.\n")
 
 IMAGE_NAME = "Turing_Award.jpg"
 

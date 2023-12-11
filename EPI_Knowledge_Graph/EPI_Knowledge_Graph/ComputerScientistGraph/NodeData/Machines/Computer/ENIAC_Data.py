@@ -45,3 +45,5 @@ CONTENT = ("ENIAC war der erste turingmächtige Universalcomputer. Er wurde wäh
            "https://www.nature.com/articles/158500a0\n")
 
 IMAGE_NAME = "ENIAC.gif"
+
+CONNECTIONS = ["JOHN_WILLIAM_MAUCHLY", "JOHN_PRESPER_ECKERT", "TURING_MACHINE"]

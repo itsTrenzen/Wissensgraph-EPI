@@ -6,7 +6,7 @@ CONTENT = ("Die Turing-Bombe (oder kurz: 'Bombes') ist ein mechanisches Gerät z
            "Betchley Park, Großbrittanien. Während des Krieges wurden über 200 'Bombes' eingesetzt und damit etwa "
            "4000 Nachrichten täglich dekodiert. Es wird angenommen, dass der Einsatz der Turing-Bombe den Krieg um "
            "mindestens zwei Jahre verkürzt hat.\n\n"
-           
+
            "Funktionsweise\n"
            "Die Turing-Bombe versuchte, Muster in verschlüsselten Nachrichten zu erkennen. Deutsche Nachrichten "
            "enthielten häufig wiederkehrende Formeln wie \"Betreff:\" und folgten einem vorhersehbaren Aufbau mit "
@@ -24,3 +24,5 @@ CONTENT = ("Die Turing-Bombe (oder kurz: 'Bombes') ist ein mechanisches Gerät z
            "https://link.springer.com/article/10.1007/s00287-012-0622-7\n")
 
 IMAGE_NAME = "Bombes.jpg"
+
+CONNECTIONS = ["ALAN_TURING", "ENIGMA"]

@@ -34,7 +34,10 @@ CONTENT = ("Alonzo Church war ein US-amerikanischer Mathematiker und Logiker, de
 
 
            "Quellen:\n"
-           "https://mathshistory.st-andrews.ac.uk/Biographies/Church/\n"
-           "https://www.britannica.com/biography/Alonzo-Church\n")
+           "Alonzo Church (o.D.): Maths History, [online] https://mathshistory.st-andrews.ac.uk/Biographies/Church/.\n"
+           "The Editors of Encyclopaedia Britannica (2009): Alonzo Church | Lambda Calculus, Computability & Logic, "
+           "Encyclopedia Britannica, [online] https://www.britannica.com/biography/Alonzo-Church.\n")
 
 IMAGE_NAME = "Alonzo_Church.jpeg"
+
+CONNECTIONS = ["ALAN_TURING", "LAMBDA_CALCULUS", "CHURCH_TURING_THESIS", "CHURCH_THESIS", "CHURCH_THEOREM"]

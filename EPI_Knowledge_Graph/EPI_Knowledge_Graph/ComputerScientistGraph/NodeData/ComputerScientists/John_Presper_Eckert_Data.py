@@ -18,3 +18,5 @@ CONTENT = ("John Presper Eckert war ein Elektroingenieur und Informatiker, der z
            "https://www.britannica.com/biography/J-Presper-Eckert-Jr\n")
 
 IMAGE_NAME = "John_Presper_Eckert.jpg"
+
+CONNECTIONS = ["JOHN_WILLIAM_MAUCHLY", "ENIAC", "UNIVAC"]

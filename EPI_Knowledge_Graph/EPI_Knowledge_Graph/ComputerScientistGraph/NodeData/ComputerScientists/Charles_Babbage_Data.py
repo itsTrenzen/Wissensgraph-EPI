@@ -1,0 +1,12 @@
+TITEL = "Charles Babbage (1791-1871)"
+CONTENT = ("-Charles Babbage wird 1791 in Walworth, England geboren. \n"
+"-1810-1814 studiert er Mathematik in Cambridge. \n"
+"-Ab 1816 ist er Ehrenmitglied der Royal Society. \n"
+"-1821 begann er mit dem Bau des Difference Engine, der aufwendige und fehleranfällige Berechnungen automatisch durchführen sollte, indem er das Aufaddieren von Differenzen wiederholt. \n"
+"-Der Bau der Maschine bestand aus circa 25.000 Teilen, als 1833 der Bau der Machine jedoch aufgrund eines Streites, mit dem Ingenieur Joseph Clement, eingestellt wurde. \n"
+"-Gebaut wurden solche Differenzmaschinen dann von anderen Erfindern, die durch Babbages Ideen beeinflusst wurden. \n"
+"-Nachdem gescheiterten Projekt begann Charles Babbage zusammen mit Ada Lovelace an dem Projekt Analytic Engine zu arbeiten. Aufgrund von unzureichendem Wissensstand und mangelnder finanzieller Unterstützung konnte das Projekt nie von ihm fertiggestellt werden. \n"
+"-Da in Adas Notizen eine schriftliche Anleitung steht, wie man mithilfe des Analytic Engines die Bernoulli Zahlen berechnen kann, gilt Ada Lovelace als erste Computerprogrammiererin der Geschichte. \n"
+"-Am 18. Oktober 1871 starb Charles Babbage in London mit einem Alter von 79 Jahren.\n"
+"https://www.hnf.de/dauerausstellung/ausstellungsbereiche/galerie-der-pioniere/charles-babbage-1791-1871.html")
+IMAGE_NAME = "Charles_Babbage.jpg"

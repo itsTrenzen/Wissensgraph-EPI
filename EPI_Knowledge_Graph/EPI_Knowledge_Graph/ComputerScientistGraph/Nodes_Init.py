@@ -1,6 +1,6 @@
 # Node constants
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Awards import Turing_Award_Data
-from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Machines import Bombes_Data
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Machines import Bombes_Data, Analytic_Engine_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Machines.Computer import ENIAC_Data, \
     UNIVAC_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Organizations import \
@@ -8,12 +8,12 @@ from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.Org
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.TheoreticalInformatics import \
     Turing_Machine_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.WebTechnologies import \
-    HTML_Data, WorldWideWeb_Browser_Data, World_Wide_Web_Data
+    HTML_Data, WorldWideWeb_Browser_Data, World_Wide_Web_Data, Wissensbeitrag_Ada_Lovelace_Data
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Graph import Graph
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Node import Node
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.NodeData.ComputerScientists import \
-    Tim_Berners_Lee_Data, John_William_Mauchly_Data, Alan_Turing_Data, Alonzo_Church_Data, John_Presper_Eckert_Data
-
+    Tim_Berners_Lee_Data, John_William_Mauchly_Data, Alan_Turing_Data, Alonzo_Church_Data, John_Presper_Eckert_Data, Ada_Lovelace_Data, \
+    Charles_Babbage_Data, Grace_Hopper_Data
 
 class Nodes:
     def __init__(self, graph: Graph):
@@ -31,6 +31,11 @@ class Nodes:
         graph.add_new_node_to_graph(WORLD_WIDE_WEB)
         graph.add_new_node_to_graph(BOMBES)
         graph.add_new_node_to_graph(TURING_MACHINE)
+        graph.add_new_node_to_graph(ADA_LOVELACE)
+        graph.add_new_node_to_graph(CHARLES_BABBAGE)
+        graph.add_new_node_to_graph(ANALYTIC_ENGINE)
+        graph.add_new_node_to_graph(WISSENSBEITRAG_ADA_LOVELACE)
+        graph.add_new_node_to_graph(GRACE_HOPPER)
 
 
 TIM_BERNERS_LEE = Node(
@@ -102,3 +107,29 @@ TURING_MACHINE = Node(
     Turing_Machine_Data.CONTENT,
     Turing_Machine_Data.TITEL,
     Turing_Machine_Data.IMAGE_NAME)
+
+#Jaschas Nodes
+ADA_LOVELACE = Node(
+    Ada_Lovelace_Data.CONTENT,
+    Ada_Lovelace_Data.TITEL,
+    Ada_Lovelace_Data.IMAGE_NAME
+)
+CHARLES_BABBAGE = Node(
+    Charles_Babbage_Data.CONTENT,
+    Charles_Babbage_Data.TITEL,
+    Charles_Babbage_Data.IMAGE_NAME
+)
+ANALYTIC_ENGINE = Node(
+    Analytic_Engine_Data.CONTENT,
+    Analytic_Engine_Data.TITEL,
+    Analytic_Engine_Data.IMAGE_NAME
+)
+WISSENSBEITRAG_ADA_LOVELACE = Node(
+    Wissensbeitrag_Ada_Lovelace_Data.CONTENT,
+    Wissensbeitrag_Ada_Lovelace_Data.TITEL
+)
+GRACE_HOPPER = Node(
+    Grace_Hopper_Data.CONTENT,
+    Grace_Hopper_Data.TITEL,
+    Grace_Hopper_Data.IMAGE_NAME
+)

@@ -20,3 +20,5 @@ CONTENT =("-Lilith ist eine individuell entwickelte Workstation, die den AMD 290
 		"- https://academic-accelerator.com/encyclopedia/lilith-computer\n")
 
 IMAGE_NAME = ""
+
+CONNECTIONS = ["SPRACHE_MODULA2"]

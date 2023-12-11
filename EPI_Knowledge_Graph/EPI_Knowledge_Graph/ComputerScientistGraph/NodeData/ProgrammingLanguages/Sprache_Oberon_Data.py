@@ -24,3 +24,5 @@ CONTENT = ("Historie:\n"
 		"- https://www.complang.tuwien.ac.at/lehre/gwa-papers/04w/franz/Oberon.pdf (S.1+4)\n")
 
 IMAGE_NAME = ""
+
+CONNECTIONS = ["CERES"]

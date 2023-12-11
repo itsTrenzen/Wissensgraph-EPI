@@ -1,7 +1,0 @@
-{
-  "id": "JOHN_PRESPER_ECKERT",
-  "title": "John Presper Eckert (1919-1995)",
-  "content": "John Presper Eckert war ein Elektroingenieur und Informatiker, der zusammen mit John William Mauchly den ersten elektronischen Gro\u00dfrechner entwickelt hat.\n\nBiographie:\n1919: Geboren am 09. April 1919 in Philadelphia, Pennsylvania, USA\n1941: Bachelor in Elektroingenieurswesen an der University of Pennsylvania\n1943: Master in Elektroingenieurswesen an der University of Pennsylvania\n1946: Bau des ersten digitalen Computers 'ENIAC' zusammen mit seinem Professor John William Mauchly\n1948: Gr\u00fcndung der Eckert-Mauchly Machines Corporation\n1951: Bau des ersten kommerziell nutzbaren Computers 'UNIVAC'\n1967: Wahl in die 'National Academy of Engineering'\n1968: Auszeichnung mit der 'National Medal of Science'\n1995: Gestorben am 03. Juni 1919 in Bryn Mawr, Pennsylvania, USA\n\nQuellen:\nhttps://www.britannica.com/biography/J-Presper-Eckert-Jr\n",
-  "image": "John_Presper_Eckert.jpg",
-  "connections": ["JOHN_WILLIAM_MAUCHLY", "ENIAC", "UNIVAC"]
-}

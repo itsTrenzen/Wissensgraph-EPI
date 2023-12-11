@@ -18,6 +18,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 import pygame.freetype
 import sys
 
+from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph import DataParser
 from EPI_Knowledge_Graph.EPI_Knowledge_Graph.ComputerScientistGraph.JsonParser import JsonParser
 from GraphContent import GraphContent
 from Structured_Knowledge_Graph_Example.MyGraphExample import MyGraphExample
@@ -31,9 +32,7 @@ if __name__ == '__main__':
     #moinsen
     graph.team_name = "Einer_ist_zu_viel"  # TODO: Geben Sie Ihrem Team einen Namen!
     # graph_content = GraphContent(graph)  # TODO: Hier können Sie den Inhalt und Verbindungen ihrer Knoten anlegen.
-    parser = JsonParser(graph, "./ComputerScientistGraph/NodeData")
-    parser.parse_nodes()
-    parser.connect_nodes()
+    DataParser.parse_nodes(graph, "./ComputerScientistGraph/NodeData")
     # beautiful_code_graph = MyGraphExample(graph)
 
     # Application

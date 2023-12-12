@@ -1,0 +1,10 @@
+TITEL = "Compilerbau A-0"
+CONTENT = ("- Das A-0 System ist der erste Compiler und wurde von Grace Hopper entwickelt da man bisher für den Computer erkenntlichen Maschinencode eingeben musste. Dies war jedoch sehr viel Aufwand, da man jeden Code neu eingeben musste. Außerdem bestand der Programmcode aus einer schwer zu merkenden Zusammensetzung aus Zahlen und Buchstaben, da der Code ganz anders aufgebaut war als die Sprache, sodass man sich den Code für Wörter schlecht merken konnte. Des Weiteren entstanden durch die Unübersichtlichkeit schnell Fehler, sodass das ganze Programm nicht mehr lief. \n"
+"-Dafür hatte Grace Hopper die Idee, dass der Computer Codeabschnitte selbst abschreiben sollte, also einen geschrieben Code automatisch in Maschinencode umschreibt, damit der Programmierer dies nicht mehr machen musste. Dadurch musste man nicht mehr in unverständlichem Maschinencode schreiben, sondern konnte sprachliche Befehle nutzen, die der Computer dann übersetzt. \n"
+"-Dies kam bei anderen Experten und Informatikern zuerst nicht gut an, etablierte sich jedoch mit der Zeit auch bei anderen Systemen. \n"
+"-Es wurden weitere Versionen erstellt, die Verbesserungen erhielten, sodass im Laufe der nächsten Jahre auch A-1, A-2 und A-3 entstanden. \n"
+"-Das A-2 System wurde an 1953 die UNIVAC-Abteilung von Remington Rand weitergegeben, damit sich der Compiler verbreitet und man noch mehr Verbesserungsvorschläge sammeln konnte. \n"
+"-1955 wurde dann von Grace Hopper die Computersprache FLOW-MATIC geschrieben, die die Anweisungen sehr ähnlich dem Englischen machen konnte, da der Compiler dies dann in Maschinencode umwandeln konnte. \n"
+"-Compiler sind auch heute noch ein wichtiger Bestandteil eines Computers. Es hat sich zwar der Compiler mit der Zeit noch weiterentwickelt, wobei das System heute immer noch auf Grace Hoppers A-0 basiert. \n\n"
+"Quellen: \n"
+"https://www.get-in-it.de/magazin/arbeitswelt/it-legenden/grace-hopper ")

@@ -1,0 +1,13 @@
+TITEL = "Analytic Engine"
+CONTENT = ("-1834 begann der Bau des Analytic Engine, durch den Entwurf von Charles Babbage. Zusätzlich half ihm die Mathematikerin Ada Lovelace. \n"
+"-Die Idee war eine vollständig programmgesteuerte, automatische und mechanisch-digitale Computermaschine zu entwickeln, welche in der Lage sein sollte, jede Berechnung durchführen zu können. \n"
+"-Charles Babbage nutzte seinen Difference Engine als Grundlage für den Analytic Engine. \n"
+"-1848 fertigte Luigi Federico Menabrea auf der Grundlage von Babbages und Lovelaces Analytic Engine eine Beschreibung (in Französisch). \n"
+"-Lovelace übersetzte die Beschreibung ins Englische, wobei sie persönliche Kommentare hinzufügte und mögliche Weiterentwicklungen dabei schrieb. Durch diese wurde die Länge des Textes verdoppelte. \n"
+"-Ada Lovelace zeigte in diesem schreiben, was für ein Potenzial der Analytic Engine hatte. Dabei schreibt sie, dass es sich dabei um mehr als nur um ein Gerät zur numerischen Berechnung handelt und war ihrer Zeit damit stark voraus, da sie die Vision hatte damit auch Buchstaben, Bilder etc. bearbeiten zu können. \n"
+"-In diesen Notizen befand sich außerdem ein schriftlicher Plan zur Berechnung der Bernoulli-Zahlen mithilfe des Analytic Engines, welcher als das erste veröffentlichte formale Computerprogramm der Geschichte gilt. \n"
+"-Das Projekt wurde jedoch nicht zur Lebzeit der beiden fertiggestellt, da die Entwicklung der Feinmechanik noch nicht weit genug war und das britische Parlament die Maschine nicht finanziell unterstützen wollte. \n"
+"-Obwohl der Analytic Engine auch nach dem Tod der Beiden nicht fertiggestellt wurde, bezeichneten manche Computerpioniere des 20. Jahrhunderts die Idee des Analytic Engines, im Vergleich zu deren eigenen Computern als überlegen. \n\n"
+"Quellen: \n"
+"https://www.britannica.com/technology/Analytical-Engine")
+IMAGE_NAME = "Analytical_Engine.jpg"

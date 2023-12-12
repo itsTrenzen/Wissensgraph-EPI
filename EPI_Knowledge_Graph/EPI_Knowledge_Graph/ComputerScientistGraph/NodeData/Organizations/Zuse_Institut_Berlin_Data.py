@@ -1,0 +1,11 @@
+TITEL = "Zuse Institut Berlin"
+CONTENT = ("-Am 1. August wurde das Konrad-Zuse-Informationszentrum gegründet und nach dem Pionier der Computertechnologie Konrad Zuse benannt. \n"
+"-Das Institut wurde für folgende Forschungsbereiche entwickelt: \n"
+"-Informatik: Das Institut widmet sich in der Informatik Hauptsächlich Software und Algorithmen für komplexe rechnergeschützte Anwendungen. Dabei umfasst es Bereiche wie Datenanalyse, Optimierung, maschinelles Lernen und Simulation. \n"
+"- Angewandte Mathematik: Das ZIB beschäftigt sich außerdem mit angewandter Mathematik in verschiedenen Disziplinen wie Physik, Biologie, Ingenieurwissenschaften und Finanzmathematik. Es entwickelt mathematische Modelle und Algorithmen zur Lösung realer Probleme. \n"
+"-Supercomputing: Das Institut pflegt und betreibt Supercomputing-Ressourcen für komplexe wissenschaftliche Berechnungen und Simulationen. \n"
+"-Außerdem beteiligt sich das ZIB an nationalen und internationalen Forschungsprojekten mit interdisziplinärem Fokus, also mehrerer Fachrichtungen, oder Kooperationen mit anderen akademischen Einrichtungen. \n\n"
+"Quellen: \n"
+"https://www.youtube.com/watch?v=9WY3MnsbGMM \n"
+"https://blog.hnf.de/siebzig-jahre-zuse-kg/ \n"
+"https://www.zib.de/de/reports")

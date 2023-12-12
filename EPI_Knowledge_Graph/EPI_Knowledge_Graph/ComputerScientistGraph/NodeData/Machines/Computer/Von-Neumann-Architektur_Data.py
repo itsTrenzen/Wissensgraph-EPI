@@ -1,0 +1,10 @@
+TITEL = "Von-Neumann-Architektur"
+CONTENT = ("-Das Konzept eines universellen Rechners wurde 1951 von John von Neumann vorgeschlagen. \n"
+"-Die Von-Neumann Struktur besteht aus 5 Funktionseinheiten: \n"
+"-Steuerwerk (Control Unit): Das Steuerwerk, auch Programmsteuerwerk oder Leitwerk, ist eine Funktionseinheit eines Prozessors, die den Ablauf der Befehlsverarbeitung steuert. Dabei werden Steuersignale über den Steuerbus an andere Funktionseinheiten gesendet und von ihnen empfangen. \n"
+"-Rechenwerk (Arithmetic Logic Unit): Das Rechenwerk oder auch Operationswerk ist ein Schaltwerk zur Ausführung der Maschinenbefehle eines Computerprogramms. Es besteht aus Akkumulator, der elektrische Energie speichert, Rechenlogik und Ablaufsteuerung. \n"
+"-Speicher: Der Speicher besteht aus ROM und RAM. ROM (Read-Only-Memory) ist der feste Speicher, der alle Infromationen langfristig speichert. Dabei können die Daten im ROM nur gelesen und nicht bearbeitet werden. Der RAM (Random Access Memory) hingegen, ist der temporäre Speicher, der Daten aufnimmt die schnell wieder aufgerufen werden müssen. Er wird daher auch Arbeitsspeicher genannt. \n"
+"-Eingabe-/Ausgabewerk: Das Eingabe-/Ausgabewerk wird auch I/O Unit genannt und ist für die Eingabe und Ausgabe für den Nutzer zuständig. Dadurch kann der Computer die eingebenden Daten auf zum Beispiel einer Tastatur erkennen und die Ausgaben können auf dem Bildschirm angezeigt, oder auf den Boxen angehört werden. \n"
+"-BUS-System: Das BUS-System ist zur Datenübertragung zwischen den einzelnen Komponenten da.\n\n"
+"Quellen: \n"
+"https://tams.informatik.uni-hamburg.de/applets/baukasten/DA/VNR_Einleitung.htm")

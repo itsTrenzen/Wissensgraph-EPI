@@ -51,6 +51,6 @@ def connect_nodes(nodes):
                 warnings.warn(
                     message=f"Connection \"{conn_name}\" für Node \"{node.titel}\" nicht gefunden!",
                     category=UserWarning)
-                return
+                continue
 
             node.connect(conn_node)

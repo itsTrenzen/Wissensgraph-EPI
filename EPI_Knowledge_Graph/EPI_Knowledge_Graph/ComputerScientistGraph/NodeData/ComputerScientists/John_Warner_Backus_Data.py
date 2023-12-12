@@ -36,6 +36,5 @@ John Warner Backus wird als Pionier in der Geschichte der Informatik anerkannt, 
            )
 IMAGE_NAME = ""
 
-CONNECTIONS = ["TURING_AWARD",
-               ""]
+CONNECTIONS = ["TURING_AWARD"]
 

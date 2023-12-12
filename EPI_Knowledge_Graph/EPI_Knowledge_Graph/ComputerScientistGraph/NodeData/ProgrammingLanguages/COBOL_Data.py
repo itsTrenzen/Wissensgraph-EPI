@@ -1,4 +1,4 @@
-TITLE = "COBOL"
+TITEL = "COBOL"
 CONTENT = ("-Basierend auf der Entwicklung des Compilers und der Programmiersprache FLOW-MATIC, entwickelte Grace Hopper mit ihren Kollegen bis 1959 die Programmiersprache COBOL (Common Business Oriented Langage), welche sehr stark an der natürlichen Sprache angelehnt ist und für kaufmännische Anwendungen diente. \n"
 "-COBOL (Common Business-Oriented Language) ist eine Programmiersprache, die 1959 für Geschäftsanwendungen von der Mathematikerin und Informatikerin Grace Hopper entwickelt wurde. \n"
 "-1968 wurde COBOL von ANSI standardisiert. \n"

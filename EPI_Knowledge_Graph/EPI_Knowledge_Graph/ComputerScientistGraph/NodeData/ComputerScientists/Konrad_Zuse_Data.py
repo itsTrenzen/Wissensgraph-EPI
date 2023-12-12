@@ -1,4 +1,4 @@
-TITEL = "Konrad Zuse"
+TITEL = "Konrad Zuse (1910-1995)"
 CONTENT = ("-Am 22. Juni 1910 wird Konrad Ernst Otto Zuse in Berlin-Wilmershof geboren. \n"
 "-Als er zwei ist, zieht er mit seiner Familie nach Braunsberg und besucht dort Gymnasium Hosianum \n"
 "-1923, als Konrad in der 9.Klasse war, zog er mit seiner Familie nach Hoyerswerda, wo er zum Reform-Realgymnasium (heute Lessing-Gymnasium) wechselt. Schon früh beginnt er verschiedene Dinge zu erfinden, wofür er teilweise auch Auszeichnungen bekommt. \n"
@@ -27,3 +27,4 @@ CONTENT = ("-Am 22. Juni 1910 wird Konrad Ernst Otto Zuse in Berlin-Wilmershof g
 "https://www.dhm.de/lemo/biografie/konrad-zuse \n"
 "https://www.informatik-verstehen.de/lexikon/plankalkuel/")
 IMAGE_NAME = "Konrad_Zuse.jpg"
+CONNECTIONS = ["Z3","ZUSE_KG","ZUSE_INSTITUT_BERLIN"]

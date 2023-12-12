@@ -1,4 +1,4 @@
-TITEL = "John von Neumann"
+TITEL = "John von Neumann (1903-1957)"
 CONTENT = ("-Am 28. Dezember 1903 wurde John von Neumann in Budapest, Österreich-Ungarn, geboren. \n"
 "-Schon früh erkannte man, dass John eine außerordentliche mathematische Begabung besitzt. \n"
 "-1921 begann von Neumann ein Chemieingenieurwesen Studium in Budapest, wechselte jedoch schnell auf die Universität Berlin und schloss anschließend das Studium mit einem Diplom an der Eidgenössische Technische Hochschule Zürich (kurz ETH) im Jahr 1925 ab. \n"
@@ -13,3 +13,4 @@ CONTENT = ("-Am 28. Dezember 1903 wurde John von Neumann in Budapest, Österreic
 "Quellen: \n"
 "https://www.lernhelfer.de/schuelerlexikon/mathematik/artikel/john-von-neumann#")
 IMAGE_NAME = "John_von_Neumann.jpg"
+CONNECTIONS = ["VON-NEUMANN-ARCHITEKTUR"]

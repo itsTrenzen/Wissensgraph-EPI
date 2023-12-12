@@ -29,3 +29,4 @@ CONTENT = ("-Am 9. Dezember 1906 wird Grace Brewster Murray in New York City geb
 "https://www.swr.de/wissen/grace-hopper-und-ihr-einfluss-auf-die-it-branche-100.html \n"
 "https://www.get-in-it.de/magazin/arbeitswelt/it-legenden/grace-hopper")
 IMAGE_NAME = "Grace_Hopper.jpg"
+CONNECTIONS = ["MARK_I","COMPILERBAU_A-0","COBOL"]

@@ -1,6 +1,6 @@
 from tkinter.tix import IMAGE
 
-TITEL = "Edsger W. Dijkstra"
+TITEL = "Edsger W. Dijkstra (1930-2002)"
 CONTENT = ("-Edsger Wybe Dijkstra ist am 11. Mai 1930 in Amsterdam geboren. \n"
 "-Er machte sein Abi am Gymnasium Erasmianum in Rotterdam. Danach begann er 1948 an der Universität in Leiden Mathematik und theoretische Physik zu studieren. \n"
 "-Nachdem er 1951 seinen Bachelor erhielt, besuchte er einen Programmierkurs an der University of Cambridge. \n"
@@ -20,3 +20,4 @@ CONTENT = ("-Edsger Wybe Dijkstra ist am 11. Mai 1930 in Amsterdam geboren. \n"
 "https://www.computer.org/profiles/edsger-dijkstra \n"
 "https://www.cwi.nl/en/about/history/e-w-dijkstra-brilliant-colourful-and-opinionated/")
 IMAGE_NAME = "Edsger_Dijkstra.jpg"
+CONNECTIONS = ["DIJKSTRA-ALGORITHMUS","ALGOL_60"]

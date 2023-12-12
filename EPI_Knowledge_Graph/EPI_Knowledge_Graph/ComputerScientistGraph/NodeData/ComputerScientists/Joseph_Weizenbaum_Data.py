@@ -1,4 +1,4 @@
-TITEL = "Joseph Weizenbaum"
+TITEL = "Joseph Weizenbaum (1923-2008)"
 CONTENT = ("-Am 8. Januar 1923 wird Joseph Weizenbaum in Berlin geboren. \n"
 "-Joseph Weizenbaum ging auf das Luisenstädtische Realgymnasium in Berlin, wurde aber Mitte der 1930er Jahre auf die jüdische Knabenschule verwiesen. \n"
 "-1936 emigrierte die jüdische Familie als Verfolgte des Nazi-Regimes in die USA. \n"
@@ -17,3 +17,4 @@ CONTENT = ("-Am 8. Januar 1923 wird Joseph Weizenbaum in Berlin geboren. \n"
 "https://gi.de/persoenlichkeiten/joseph-weizenbaum \n"
 "https://blog.hnf.de/joseph-weizenbaum-1923-2008/")
 IMAGE_DATA = "Joseph_Weizenbaum.jpg"
+CONNECTIONS = ["ELIZA","WEIZENBAUM-INSTITUT"]

@@ -14,3 +14,4 @@ CONTENT = ("-Geboren wurde Augusta Ada Byron am 10. Dezember 1815 in London.\n"
 "https://academic.oup.com/jrssig/article/15/5/45/7029269?login=false \n"
 "https://www.geo.de/wissen/23430-rtkl-mathematik-computer-pionierin-ada-lovelace-die-frau-die-aus-der-zukunft-kam\n")
 IMAGE_NAME = "Ada_Lovelace.jpg"
+CONNECTIONS = ["CHARLES_BABBAGE_DATA","ANALYTIC_ENGINE_DATA","ADA_LOVELACE_BEITRAG_DATA"]

@@ -36,7 +36,6 @@ CONNECTIONS = [
     "WORLD_WIDE_WEB",
     "WORLDWIDEWEB_BROWSER",
     "WORLD_WIDE_WEB_CONSORTIUM",
-    "CERN",
     "HTTP",
     "HTML",
     "URI",

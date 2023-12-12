@@ -1,4 +1,4 @@
-TITEL = "Church Theorem"
+TITEL = "Church's Theorem (Unentscheidbarkeitstheorem)"
 
 CONTENT = ("\n\n"
 

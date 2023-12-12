@@ -9,16 +9,16 @@ CONTENT = ("Der Turing Preis ist eine renommierte Auszeichnung in der Informatik
            "schließlich die Höhe von 1.000.000 US-Dollar. Die Finanzierung des Preises erfolgt aktuell durch die "
            "Intel Corporation und Google Inc.\n\n"
 
-           "Erster Preisträger: Alan J. Perlis (1966), Entwicklung des ALGOL Compilers\n"
-           "Erste weibliche Preisträgerin: Frances E. Allen (2006), Compileroptimierung\n"
-           "Jüngster Preisträger: Donald Knuth (1974, Alter: 36), Analyse von Algorithmen und Entwurf von "
+           "**Erster Preisträger**: Alan J. Perlis (1966), Entwicklung des ALGOL Compilers\n"
+           "**Erste weibliche Preisträgerin**: Frances E. Allen (2006), Compileroptimierung\n"
+           "**Jüngster Preisträger**: Donald Knuth (1974, Alter: 36), Analyse von Algorithmen und Entwurf von "
            "ProgrammingLanguages\n"
-           "Ältester Preisträger: Alfred Vaino Aho (2020, Alter: 79), grundlegende Algorithmen und Theorien für die "
+           "**Ältester Preisträger**: Alfred Vaino Aho (2020, Alter: 79), grundlegende Algorithmen und Theorien für die"
            "Implementierung von ProgrammingLanguages\n"
-           "Aktueller Preisträger: Robert Metcalfe (2022), Erfindung, Standardisierung und Kommerzialisierung von "
+           "**Aktueller Preisträger**: Robert Metcalfe (2022), Erfindung, Standardisierung und Kommerzialisierung von "
            "Ethernet\n\n"
 
-           "Quellen:\n"
+           "### Quellen:\n"
            "A.M. Turing Award (o. D.): [online] https://amturing.acm.org/.\n"
            "Hosch, William L. (2023): Turing Award | Definition, winners, Prize money & facts, Encyclopedia "
            "Britannica, [online] https://www.britannica.com/topic/Turing-Award.\n")

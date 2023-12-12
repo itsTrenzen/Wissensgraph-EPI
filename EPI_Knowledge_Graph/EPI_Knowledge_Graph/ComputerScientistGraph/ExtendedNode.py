@@ -6,13 +6,13 @@ from EPI_Knowledge_Graph.EPI_Knowledge_Graph.GraphModel.Node import Node
 
 class ExtendedNode(Node):
     def __init__(self, description, titel, connections, image_name="image_placeholder.png", x=0, y=0):
-        super().__init__(description, titel, self._process_image_name(image_name), x=x, y=y)
+        super().__init__(description, titel, self._process_image_name(image_name, titel), x=x, y=y)
         self.connections = connections
 
-    def _process_image_name(self, image_name):
+    def _process_image_name(self, image_name, titel):
         if not image_name or image_name.isspace():
             image_name = "image_placeholder.png"
-            self._issue_warning("Image name is None or empty. Using default image placeholder.")
+            self._issue_warning(f"Image name for {titel} is None or empty. Using default image placeholder.")
         else:
             file_path = Path(__file__).resolve().parent.parent / 'Resources' / 'Images' / image_name
             if not file_path.is_file():

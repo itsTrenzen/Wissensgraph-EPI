@@ -14,6 +14,6 @@ CONTENT = ("Steckbrief:\n"
 	"- https://geboren.am/themen/technik/informatiker\n"
     "- https://www.munzinger.de/search/portrait/Robert+Cailliau/0/21927.html\n")
 
-IMAGE_NAME = ""
+IMAGE_NAME = "Robert_Cailliau.jpg"
 
 CONNECTIONS = ["WORLD_WIDE_WEB"]

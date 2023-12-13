@@ -14,6 +14,6 @@ CONTENT = ("Steckbrief:\n"
 "- https://geboren.am/themen/technik/informatiker\n"
 "- https://computerhistory.org/profile/dennis-ritchie/\n")
 
-IMAGE_TITEL = ""
+IMAGE_TITEL = "Dennis_Ritchie.jpg"
 
 CONNECTIONS = ["UNIX", "SPRACHE_B","SPRACHE_C","KENNETH_LANE_THOMPSON"]

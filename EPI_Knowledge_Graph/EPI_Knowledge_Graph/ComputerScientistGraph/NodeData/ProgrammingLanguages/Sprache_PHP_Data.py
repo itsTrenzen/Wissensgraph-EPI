@@ -24,7 +24,7 @@ CONTENT = (
     "PHP ist eine vielseitige und leicht erlernbare Sprache, die in der Webentwicklung weit verbreitet ist. "
     "Durch seine Fähigkeit, dynamische Inhalte zu erstellen und mit Datenbanken zu interagieren, spielt PHP eine entscheidende Rolle "
     "bei der Gestaltung interaktiver und funktionsreicher Webanwendungen.\n\n"
-    "Quellen:\n"
+    "### Quellen:\n"
     "https://de.wikibooks.org/wiki/Websiteentwicklung:_PHP\n"
     "https://de.wiktionary.org/wiki/PHP"
 

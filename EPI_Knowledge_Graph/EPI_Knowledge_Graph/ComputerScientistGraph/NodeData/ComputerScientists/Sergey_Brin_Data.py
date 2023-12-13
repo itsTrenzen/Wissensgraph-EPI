@@ -1,7 +1,7 @@
 TITEL = "Sergey Brin (1973)"
 
 CONTENT = (
-    "- **1973:** Sergey Brin wird am 21. August in Moskau, Russland, geboren. \n"
+    "\n\n- **1973:** Sergey Brin wird am 21. August in Moskau, Russland, geboren. \n"
 
     "- **1970er Jahre:** Emigration mit seiner Familie in die USA.\n"
 

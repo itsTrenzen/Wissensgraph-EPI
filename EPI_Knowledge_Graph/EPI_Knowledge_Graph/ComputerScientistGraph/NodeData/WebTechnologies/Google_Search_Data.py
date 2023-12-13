@@ -30,8 +30,8 @@ CONTENT = ("""
 
 - **Google Doodles:** Verändert periodisch das Logo, um besondere Anlässe oder Persönlichkeiten zu würdigen.
 
-- **Kontinuierliche Weiterentwicklung:** Google Search wird ständig aktualisiert und verbessert, um den Nutzern eine effiziente und genaue Sucherfahrung zu bieten.""")
+- **Kontinuierliche Weiterentwicklung:** Google Search wird ständig aktualisiert und verbessert, um den Nutzern eine effiziente und genaue Sucherfahrung zu bieten.
 
-"Quellen:\n"
-"https://portal.dnb.de/opac.htm?method=simpleSearch&query=4726597-8\n"
-"https://blog.google/"
+### Quellen:
+https://portal.dnb.de/opac.htm?method=simpleSearch&query=4726597-8\n
+https://blog.google/""")

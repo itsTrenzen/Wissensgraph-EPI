@@ -1,5 +1,5 @@
 TITEL = "Git"
-CONTENT = (
+CONTENT = ("\n\n"
     "- **Verteiltes Versionskontrollsystem:**\n"
     "  - Git ist ein verteiltes Versionskontrollsystem (VCS), das die Verfolgung von Änderungen in Softwareprojekten ermöglicht.\n\n"
 
@@ -57,7 +57,7 @@ CONTENT = (
 
     "Git hat sich als Standard in der Versionskontrolle etabliert und wird von Entwicklern weltweit für die Verwaltung von Quellcode in Projekten jeder Größe verwendet.\n \n"
 
-"Quellen\n"
+"### Quellen\n"
     "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwih2LGY7IiDAxU-nf0HHfAyC_IQFnoECBYQAQ&url=https%3A%2F%2Frogerdudler.github.io%2Fgit-guide%2Findex.de.html&usg=AOvVaw0pTr7vSgRp2PP9zYpKCHe2&opi=89978449"
 )
 IMAGE_NAME = ""

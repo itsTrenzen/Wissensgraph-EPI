@@ -40,6 +40,8 @@ CONTENT = (
  "https://web.archive.org/web/20150529042704/https://www.zeit.de/2015/21/larry-page-google-gruender/komplettansicht"
 )
 
+IMAGE_NAME = "Larry_Page.jpeg"
+
 CONNECTIONS = ["SERGEY_BRIN",
                "GOOGLE_ADS",
                "GOOGLE_EARTH",

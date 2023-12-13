@@ -32,7 +32,7 @@ CONTENT = (
     "https://research.google/people/SergeyBrin/"
     "https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-gruender-larry-page-und-sergey-brin-treten-ab-a-1299575.html")
 
-IMAGE_NAME = ""
+IMAGE_NAME = "Sergey_Brin.jpeg"
 
 CONNECTIONS = ["GOOGLE_ADS",
                "GOOGLE_EARTH",

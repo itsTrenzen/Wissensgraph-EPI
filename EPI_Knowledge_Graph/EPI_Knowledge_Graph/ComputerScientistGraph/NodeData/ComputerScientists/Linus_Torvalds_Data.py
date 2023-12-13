@@ -43,5 +43,7 @@ CONTENT = ("Linus Torvalds, geboren am 28. Dezember 1969 in Helsinki, Finnland, 
            "https://commons.wikimedia.org/wiki/Linus_Torvalds?uselang=de\n"
            "https://portal.dnb.de/opac/showFullRecord?currentResultId=%22122924517%22%26any&currentPosition=2"      )
 
+IMAGE_NAME = "Linus.jpeg"
+
 CONNECTIONS = ["GIT",
                "LINUX"]

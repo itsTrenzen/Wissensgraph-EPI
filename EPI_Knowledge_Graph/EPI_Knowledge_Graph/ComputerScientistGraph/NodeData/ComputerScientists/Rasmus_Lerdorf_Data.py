@@ -25,6 +25,6 @@ CONTENT = (
     "http://www.yourtechstory.com/2019/09/09/rasmus-lerdorf-insightful-programmer-creator-php/"
 
 )
-IMAGE_NAME = ""
+IMAGE_NAME = "Rasmus_Lerdorf.jpeg"
 
 CONNECTIONS = ["SPRACHE_PHP"]

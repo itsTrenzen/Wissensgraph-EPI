@@ -23,7 +23,7 @@ CONTENT = ("- **1969:** Patrick Naughton wird geboren."
            
            "Quellen: \n"
            "https://link.springer.com/content/pdf/10.1007/3-211-27349-2_6.pdf")
-IMAGE_NAME = ""
+IMAGE_NAME = "Patrick_Naughton.jpeg"
 
 CONNECTIONS = ["SPRACHE_JAVA",
                "JAMES_GOSLING"]

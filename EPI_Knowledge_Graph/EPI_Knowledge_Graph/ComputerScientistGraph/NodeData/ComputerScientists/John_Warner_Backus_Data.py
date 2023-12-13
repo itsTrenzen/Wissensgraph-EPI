@@ -34,7 +34,7 @@ John Warner Backus wird als Pionier in der Geschichte der Informatik anerkannt, 
            "Quellen: https://www.heise.de/news/Die-Angst-vor-dem-Leben-besiegen-zum-80-Geburtstag-von-John-Backus-119296.html\n"
            "http://amturing.acm.org/award_winners/backus_0703524.cfm"
            )
-IMAGE_NAME = ""
+IMAGE_NAME = "John Backus.jpeg"
 
 CONNECTIONS = ["TURING_AWARD"]
 

@@ -39,6 +39,6 @@ CONTENT = (
 "https://portal.dnb.de/opac.htm?method=simpleSearch&query=111950961"
 )
 
-IMAGE_NAME = ""
+IMAGE_NAME = "James_Gosling.jpeg"
 
 CONNECTIONS = ["SPRACHE_JAVA"]

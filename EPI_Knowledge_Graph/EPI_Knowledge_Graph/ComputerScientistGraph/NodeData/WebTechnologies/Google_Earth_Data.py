@@ -69,7 +69,7 @@ CONTENT = (
     "  - Dies ermöglicht virtuelles Reisen und Entdecken aus der Ferne.\n\n"
 
     "Google Earth hat sich zu einem mächtigen Werkzeug für die Erkundung und Visualisierung unseres Planeten entwickelt. "
-    "Es bietet sowohl praktische als auch unterhaltsame Anwendungen für Benutzer aller Altersgruppen und Interessen."
+    "Es bietet sowohl praktische als auch unterhaltsame Anwendungen für Benutzer aller Altersgruppen und Interessen.\n"
 
 
 

@@ -26,17 +26,19 @@ CONTENT = (
 
 
 
-    "Bedeutung für die Informatik:\n\n"
+    "### Bedeutung für die Informatik:\n\n"
 
     "- **Java:** Gosling ist am bekanntesten für seine Führung bei der Entwicklung von Java. Die Programmiersprache wurde aufgrund ihrer Portabilität, Plattformunabhängigkeit und ihrer Verwendung in verschiedenen Anwendungsdomänen weit verbreitet.\n\n"
 
     "- **Wichtiger Beitrag zur Softwareentwicklung:** Die Einführung von Java hat die Art und Weise, wie Software entwickelt wird, erheblich beeinflusst. Die plattformunabhängige Natur von Java ermöglicht es Entwicklern, Anwendungen zu schreiben, die auf verschiedenen Systemen laufen können.\n\n"
 
-    "- **Legacy und Einfluss:** Gosling hat einen bedeutenden Beitrag zur Entwicklung von Technologien geleistet, die heute in vielen Anwendungen und Systemen verwendet werden. Sein Erbe erstreckt sich über die Anfangszeit von Java bis zu den fortgeschrittenen Anwendungen und Plattformen, die heute existieren."
+    "- **Legacy und Einfluss:** Gosling hat einen bedeutenden Beitrag zur Entwicklung von Technologien geleistet, die heute in vielen Anwendungen und Systemen verwendet werden. Sein Erbe erstreckt sich über die Anfangszeit von Java bis zu den fortgeschrittenen Anwendungen und Plattformen, die heute existieren.\n\n"
 
-"Quellen:\n"
-"https://commons.wikimedia.org/wiki/Category:James_Gosling?uselang=de"
-"https://portal.dnb.de/opac.htm?method=simpleSearch&query=111950961"
+"### Quellen:\n"
+"Deutsche Nationalbibliothek (o. D.): DNB, Katalog der Deutschen Nationalbibliothek, Deutsche Nationalbibliothek, "
+"[online] https://portal.dnb.de/opac.htm?method=simpleSearch&query=111950961.\n"
+"Category:James Gosling – Wikimedia Commons (o. D.): [online] "
+"https://commons.wikimedia.org/wiki/Category:James_Gosling?uselang=de.\n"
 )
 
 IMAGE_NAME = "James_Gosling.jpeg"

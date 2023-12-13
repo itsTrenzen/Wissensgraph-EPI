@@ -1,6 +1,6 @@
 TITEL = "Bekannte Informatiker"
 
-CONTENT = ("Dieser Graph handelt um die bekanntesten Informatiker und deren Beiträge in der Welt der Informatik")
+CONTENT = ("Dieser Graph behandelt bekannte Informatiker und deren Beiträge in der Welt der Informatik")
 
 IMAGE_NAME = ""
 

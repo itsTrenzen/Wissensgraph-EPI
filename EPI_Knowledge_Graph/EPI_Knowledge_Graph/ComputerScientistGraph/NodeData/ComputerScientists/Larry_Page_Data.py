@@ -1,6 +1,6 @@
 TITEL = "Larry Page (1973)"
 
-CONTENT = (
+CONTENT = ("\n\n"
  "- Geboren: 26. März 1973 in East Lansing, Michigan \n"
   " - Beruf: Informatiker und Unternehmer\n"
   " - Bekannt für:** Mitbegründer von Google, bedeutender Einfluss in der Informatik\n\n"

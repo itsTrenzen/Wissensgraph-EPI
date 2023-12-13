@@ -1,6 +1,6 @@
 TITEL = "Linus Torvalds (1969)"
 
-CONTENT = ("Linus Torvalds, geboren am 28. Dezember 1969 in Helsinki, Finnland, ist ein finnisch-amerikanischer Informatiker und Softwareentwickler. Seine herausragende Bedeutung für die Informatik liegt vor allem in der Schaffung des Linux-Betriebssystems, einem der einflussreichsten Open-Source-Projekte der Geschichte.\n \n"
+CONTENT = ("\n\nLinus Torvalds, geboren am 28. Dezember 1969 in Helsinki, Finnland, ist ein finnisch-amerikanischer Informatiker und Softwareentwickler. Seine herausragende Bedeutung für die Informatik liegt vor allem in der Schaffung des Linux-Betriebssystems, einem der einflussreichsten Open-Source-Projekte der Geschichte.\n \n"
 "- **Frühes Leben und Ausbildung (1969-1990):**\n"
 "- Wuchs in einer technikbegeisterten Familie auf.\n"
  " - Studium der Informatik an der Universität Helsinki.\n\n"

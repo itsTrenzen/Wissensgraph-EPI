@@ -1,6 +1,7 @@
 TITEL = "Google Maps"
 
 CONTENT = ("""
+
 - **Kartendienst:** Google Maps ist ein webbasierter Kartendienst und eine Navigationsanwendung.
 
 - **Echtzeitnavigation:** Bietet detaillierte Karten und Navigation für Autofahrer, Fußgänger, Radfahrer und den öffentlichen Verkehr.
@@ -29,11 +30,11 @@ CONTENT = ("""
 
 - **3D-Ansicht:** Bietet eine realistische 3D-Ansicht von ausgewählten Städten und Sehenswürdigkeiten.
 
-- **Ständige Aktualisierungen:** Google Maps wird kontinuierlich verbessert und aktualisiert, um genaue und aktuelle Informationen zu liefern.""")
+- **Ständige Aktualisierungen:** Google Maps wird kontinuierlich verbessert und aktualisiert, um genaue und aktuelle Informationen zu liefern.
 
-"Quellen:\n"
-"https://developers.google.com/maps/\n"
-"https://blog.google/products/maps/\n"
-"https://www.zeit.de/digital/internet/2010-05/street-view-panoramafreiheit\n"
+### Quellen:
+https://developers.google.com/maps/
+https://blog.google/products/maps/
+https://www.zeit.de/digital/internet/2010-05/street-view-panoramafreiheit""")
 
 IMAGE_NAME = ""

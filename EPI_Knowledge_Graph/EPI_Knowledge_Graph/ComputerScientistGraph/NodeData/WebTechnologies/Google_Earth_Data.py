@@ -1,6 +1,6 @@
 TITEL = "Google Earth"
 CONTENT = (
-    "- **3D-Globusansicht:**\n"
+    "\n\n- **3D-Globusansicht:**\n"
     "  - Google Earth bietet eine beeindruckende 3D-Globusansicht der Erde.\n"
     "  - Benutzer können die Welt aus verschiedenen Blickwinkeln betrachten.\n\n"
 
@@ -73,11 +73,11 @@ CONTENT = (
 
 
 
-)
-"Quellen:\n"
+
+"### Quellen:\n"
 "https://support.google.com/earth/answer/40901?hl=de&ref_topic=4363014#zippy="
 "https://www.google.de/earth/"
-"https://web.archive.org/web/20190220095505/http://www.realityprime.com/blog/2007/07/how-google-earth-really-works/"
+"https://web.archive.org/web/20190220095505/http://www.realityprime.com/blog/2007/07/how-google-earth-really-works/")
 
 IMAGE_NAME = ""
 

@@ -1,5 +1,5 @@
 TITEL = "Patrick Naughton (1969)"
-CONTENT = ("- **1969:** Patrick Naughton wird geboren."
+CONTENT = ("\n\n- **1969:** Patrick Naughton wird geboren."
 
 "- **1987:** Naughton schließt sein Studium an der Brown University mit einem Abschluss in Informatik ab.\n"
 

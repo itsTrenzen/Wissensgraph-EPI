@@ -29,7 +29,8 @@ CONTENT = ("""**Grundlagen der Objektorientierung:**
 
 Die Objektorientierung hat die Art und Weise, wie Software entworfen und entwickelt wird, grundlegend verändert und ist heute ein grundlegendes Konzept in der Softwareentwicklung.""")
 
-"Quellen:http://openbook.rheinwerk-verlag.de/oop/\n"
+("Quellen:\n"
+ "http://openbook.rheinwerk-verlag.de/oop/\n")
 "http://openbook.rheinwerk-verlag.de/javainsel/03_001.html\n"
 "http://propella.sakura.ne.jp/earlyHistoryST/EarlyHistoryST.html"
 

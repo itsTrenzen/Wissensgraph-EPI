@@ -16,6 +16,6 @@ CONTENT = ("### Steckbrief:\n"
 "Geboren.Am (o. D.): Bekannte Informatiker, geboren.am, [online] https://geboren.am/themen/technik/informatiker.\n"
 "Computer History Museum (2021): Dennis Ritchie - CHM, CHM, [online] https://computerhistory.org/profile/dennis-ritchie/.\n")
 
-IMAGE_TITEL = "Dennis_Ritchie.jpg"
+IMAGE_NAME = "Dennis_Ritchie.jpg"
 
 CONNECTIONS = ["UNIX", "SPRACHE_B","SPRACHE_C","KENNETH_LANE_THOMPSON"]

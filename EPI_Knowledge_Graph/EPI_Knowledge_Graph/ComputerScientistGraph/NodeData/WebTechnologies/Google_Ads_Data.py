@@ -2,6 +2,7 @@ TITEL = "Google Ads"
 
 CONTENT = ("""
 
+
 - **Online-Werbeprogramm:** Google Ads ist ein Werbeprogramm von Google für Unternehmen, um online Anzeigen zu schalten.
 
 - **Anzeigenplatzierung:** Ermöglicht die Platzierung von Anzeigen auf den Google-Suchergebnisseiten, Websites im Google Displaynetzwerk und anderen Plattformen.

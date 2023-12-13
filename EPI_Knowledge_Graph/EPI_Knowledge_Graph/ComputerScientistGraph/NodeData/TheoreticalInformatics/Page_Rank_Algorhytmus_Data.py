@@ -35,5 +35,10 @@ CONTENT = (
     "- **Anwendung in der Suchmaschinenoptimierung (SEO):**\n"
     "  - Der PageRank-Algorithmus ist ein wichtiger Bestandteil von Googles Suchalgorithmus und beeinflusst die Rangfolge von Suchergebnissen. Allerdings hat Google im Laufe der Zeit weitere Faktoren in seinen Algorithmus integriert.\n\n"
 
-    "Es ist wichtig zu beachten, dass, obwohl der PageRank-Algorithmus historisch wichtig war, heutige Suchmaschinenalgorithmen viele weitere Faktoren berücksichtigen, um relevante und qualitativ hochwertige Suchergebnisse zu liefern."
+    "Es ist wichtig zu beachten, dass, obwohl der PageRank-Algorithmus historisch wichtig war, heutige Suchmaschinenalgorithmen viele weitere Faktoren berücksichtigen, um relevante und qualitativ hochwertige Suchergebnisse zu liefern.\n\n"
+    "### Quellen\n"
+    "http://pr.efactory.de/d-index.shtml\n"
+    "http://homepage.univie.ac.at/Franz.Embacher/Lehre/aussermathAnw/Google.html\n"
+    "http://www.suchmaschinen-doktor.de/algorithmen/pagerank.html\n"
+    "https://curlie.org/World/Deutsch/Computer/Internet/Suchen/Suchmaschinen/Google/PageRank/\n"
 )

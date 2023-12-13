@@ -32,6 +32,7 @@ CONTENT = ("""
 
 - **Kontinuierliche Weiterentwicklung:** Google Search wird ständig aktualisiert und verbessert, um den Nutzern eine effiziente und genaue Sucherfahrung zu bieten.""")
 
-"Quellen:\n https://portal.dnb.de/opac.htm?method=simpleSearch&query=4726597-8\n"
-"https://blog.google/"
+"""Quellen:
+https://portal.dnb.de/opac.htm?method=simpleSearch&query=4726597-8
+https://blog.google/"""
 

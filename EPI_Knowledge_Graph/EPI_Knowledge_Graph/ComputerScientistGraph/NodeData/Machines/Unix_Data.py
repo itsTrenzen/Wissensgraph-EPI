@@ -37,4 +37,5 @@ CONTENT = ("Eigenschaften:\n"
 		"- https://it-service.network/it-lexikon/unix#:~:text=Unix%2C%20oder%20auch%20UNIX%2C%20wurde,und%20ihnen%20verschiedene%20Arbeitsumgebungen%20bereitzustellen\n"
 		"- https://www.ionos.de/digitalguide/server/knowhow/unix-geschichte-und-grundlagen-des-urgesteins/\n")
 
-IMAGE_NAME = ""
+IMAGE_NAME = "Unix.png"
+CONNECTIONS = ["LINUX"]

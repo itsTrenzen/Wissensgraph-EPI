@@ -22,4 +22,4 @@ CONTENT = ("-Programmierbare Logik-ICs sind kleine elektronische Komponenten, di
 	"Quellen:\n"
 	"- https://at.rs-online.com/web/c/halbleiter/programmierbare-logik-ics/\n")
 
-IMAGE_NAME = ""
+IMAGE_NAME = "IC.jpg"

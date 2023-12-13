@@ -27,6 +27,6 @@ CONTENT = ("Steckbrief:\n"
 "- https://geboren.am/themen/technik/informatiker\n"
 "- https://www.winterthur-glossar.ch/niklaus-wirth\n")
 
-IMAGE_NAME = ""
+IMAGE_NAME = "Niklaus_Wirth.jpg"
 
 CONNECTIONS = ["SPRACHE_PASCAL","LILITH","CERES","SPRACHE_OBERON","SPRACHE_MODULA2","PROGRAMMIERBARE_ICS","SPRACHE_ALGOL","SPRACHE_EULER"]

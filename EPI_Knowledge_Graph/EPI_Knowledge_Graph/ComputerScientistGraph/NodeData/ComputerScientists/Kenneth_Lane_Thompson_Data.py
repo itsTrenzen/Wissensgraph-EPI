@@ -20,6 +20,6 @@ CONTENT = ("Steckbrief:\n"
 "- https://geboren.am/themen/technik/informatiker\n"
 "- https://www.informatik-aktuell.de/persoenlichkeiten-der-informatik/kenneth-lane-thompson.html\n")
 
-IMAGE_NAME = ""
+IMAGE_NAME = "Ken_Thompson.jpg"
 
 CONNECTIONS = ["DENNIS_RITCHIE","UNIX","SPRACHE_B","BELL_LABS"]

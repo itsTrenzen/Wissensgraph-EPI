@@ -1,7 +1,7 @@
 TITEL = "Niklaus Wirth (1934)"
 
 CONTENT = ("### Steckbrief:\n"
-"-Geboren: 15.02.1934 in Winterthur in der Schweiz\n\n"
+"-Geboren: 15.02.1934 in Winterthur in der Schweiz\n"
 "-Geboren: 15.02.1934 in Winterthur in der Schweiz\n"
 "### Biografie:\n"
 "-studierte Elektrotechnik mit dem Schwerpunkt Elektronik an der ETH Zürich bis 1959\n"

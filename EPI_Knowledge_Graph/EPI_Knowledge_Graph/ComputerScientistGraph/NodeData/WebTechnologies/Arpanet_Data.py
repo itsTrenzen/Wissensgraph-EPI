@@ -1,6 +1,7 @@
 TITEL = "Arpanet"
 
-CONTENT = ("-der erste Schritt in Richtung Internet war 1957\n"
+CONTENT = ("### Historie:\n"
+		   "-der erste Schritt in Richtung Internet war 1957\n"
 		"->Gründung der „Advanced Research Projects Agency“ (ARPA) im Verteidigungsministerium der USA\n"
 	"-in den Folgejahren langsamer Fortschritt, da kein konkretes Konzept vorhanden war\n"
 "-Initiierung des Projekts im Jahr 1968 von Forschern unter Leitung des Verteidigungsministeriums der USA und des „Masschusetts Institute of Technology“ (MIT)\n"
@@ -26,9 +27,9 @@ CONTENT = ("-der erste Schritt in Richtung Internet war 1957\n"
 	"-in den nächsten Jahren wurden immer mehr Rechner an das ARPANET angeschlossen\n"
 	"-1973 wurde auch die Universität „Collage of London“ drangebunden, was die erste internationale Verbindung war\n"
 	"-Vint Cerf und Bob kahn veröffentlichten „A Protocol for Paket Network Intercommunication“\n"
-		"->beschreibt das Design des „Transmission Control Programs“ (TCP)\n"
-	"Quellen:\n"
-"- https://www.it-business.de/was-ist-arpanet-a-848892/\n"
-"- https://mcse.xn--krbel-jua.at/links/grundlagen/netzwerk/arpanet.htm\n")
+		"->beschreibt das Design des „Transmission Control Programs“ (TCP)\n\n"
+	"### Quellen:\n"
+"Bergler, Andreas (2019): Was ist Arpanet?, in: IT-BUSINESS, 23.07.2019, [online] https://www.it-business.de/was-ist-arpanet-a-848892/.\n"
+"Die Entstehung des ARPANET S (1957-1979) (o. D.): [online] https://mcse.xn--krbel-jua.at/links/grundlagen/netzwerk/arpanet.htm.")
 
 IMAGE_NAME = ""

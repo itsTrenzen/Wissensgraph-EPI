@@ -68,15 +68,15 @@ CONTENT = (
     "  - Google Earth ist global verfügbar und bietet Einblicke in entfernte Regionen.\n"
     "  - Dies ermöglicht virtuelles Reisen und Entdecken aus der Ferne.\n\n"
 
-    "Google Earth hat sich zu einem mächtigen Werkzeug für die Erkundung und Visualisierung unseres Planeten entwickelt. "
+    "Google Earth hat sich zu einem mächtigen Werkzeug für die Erkundung und Visualisierung unseres Planeten entwickelt.\n"
     "Es bietet sowohl praktische als auch unterhaltsame Anwendungen für Benutzer aller Altersgruppen und Interessen.\n"
 
 
 
 
 "### Quellen:\n"
-"https://support.google.com/earth/answer/40901?hl=de&ref_topic=4363014#zippy="
-"https://www.google.de/earth/"
+"https://support.google.com/earth/answer/40901?hl=de&ref_topic=4363014#zippy=\n"
+"https://www.google.de/earth/\n"
 "https://web.archive.org/web/20190220095505/http://www.realityprime.com/blog/2007/07/how-google-earth-really-works/")
 
 IMAGE_NAME = ""

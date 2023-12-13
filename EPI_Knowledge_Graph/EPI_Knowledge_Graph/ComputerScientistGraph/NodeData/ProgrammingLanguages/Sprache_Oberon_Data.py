@@ -21,8 +21,8 @@ CONTENT = ("### Historie:\n"
 	"-hat Ähnlichkeiten zu Pascal\n"
 	"-unterscheidet sich von Modula-2 durch das Konzept der Typerweiterung\n\n"
 	"### Quellen:\n"
-		"https://www.complang.tuwien.ac.at/lehre/gwa-papers/04w/franz/Oberon.pdf (S.1+4)\n")
+		"Nejez, Michael (2004): Die Programmiersprache Oberon, [online] https://www.complang.tuwien.ac.at/lehre/gwa-papers/04w/franz/Oberon.pdf.\n")
 
-IMAGE_NAME = ""
+IMAGE_NAME = "Oberon.svg"
 
 CONNECTIONS = ["CERES"]

@@ -18,6 +18,4 @@ CONTENT = ("### Historie:\n"
 	"-viele Universitäten verwendeten es besonders in den 1980er und 1990er Jahren als erste Programmiersprache für Studenten\n"
 	"-wie bei Pascal ist sie Turing-vollständig\n\n"
 	"### Quellen:\n"
-		"http://cl-informatik.uibk.ac.at/teaching/ws12/bob/reports/DM.pdf (S.2-3)\n")
-
-IMAGE_NAME = ""
+		"Moosbrugger, Daniel (2013): Modula-2, Georg Moser (Hrsg.), Universität Innsbruck, S. http://cl-informatik.uibk.ac.at/teaching/ws12/bob/reports/DM.pdf.\n")

@@ -25,7 +25,7 @@ CONTENT = ("### Entwicklung:\n"
 	"-Time-Magazine nannte Java 1995 eines der zehn besten Produkte\n"
 	"-JDK 1.0 (Java Development Kit) wurde am 23. Januar 1996 veröffentlicht\n\n"
 	"### Quellen:\n"
-		"- https://www.javatpoint.com/history-of-java (JavaTpoint)\n"
-		"- https://www.java-tutorial.org/java-eigenschaften.html (Björn und Britta Petri)\n")
+		"History-of-Java%20(JavaTpoint) tutorials - Javatpoint (o. D.): www.javatpoint.com, [online] https://www.javatpoint.com/history-of-java%20(JavaTpoint).\n"
+		"Eigenschaften von Java (o. D.): [online] https://www.java-tutorial.org/java-eigenschaften.html.\n")
 
-IMAGE_NAME = ""
+IMAGE_NAME = "Java.svg"

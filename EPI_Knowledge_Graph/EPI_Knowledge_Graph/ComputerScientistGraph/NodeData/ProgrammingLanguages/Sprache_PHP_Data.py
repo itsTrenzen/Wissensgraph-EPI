@@ -25,11 +25,11 @@ CONTENT = (
     "Durch seine Fähigkeit, dynamische Inhalte zu erstellen und mit Datenbanken zu interagieren, spielt PHP eine entscheidende Rolle "
     "bei der Gestaltung interaktiver und funktionsreicher Webanwendungen.\n\n"
     "### Quellen:\n"
-    "https://de.wikibooks.org/wiki/Websiteentwicklung:_PHP\n"
-    "https://de.wiktionary.org/wiki/PHP"
+    "Autoren der Wikimedia-Projekte (2022): Websiteentwicklung: PHP, [online] https://de.wikibooks.org/wiki/Websiteentwicklung:_PHP.\n"
+    "PHP – Wiktionary (o. D.): [online] https://de.wiktionary.org/wiki/PHP.\n"
 
 )
-IMAGE_NAME = ""
+IMAGE_NAME = "PHP.svg"
 
 
 

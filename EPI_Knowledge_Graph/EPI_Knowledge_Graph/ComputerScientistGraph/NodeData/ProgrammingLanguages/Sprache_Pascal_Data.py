@@ -25,6 +25,6 @@ CONTENT = ("### Entwicklung:\n"
 "-Extended Pascal: ANSI/IEEE770X3.160-1989 oder ISO/IEC 10206:1991\n"
 "-Entwurf zu „Object-Oriented Extensions to Pascal“\n\n"
 	"### Quellen:\n"
-    "https://www.complang.tuwien.ac.at/knoop/lehre/ws0506/gwa185165/gwa185165_ws0506_karacorlu.pdf (S.2-3+10)\n")
+    "Karacorlu, Tuba (o. D.): The programming language PASCAL, TU Wien, [online] https://www.complang.tuwien.ac.at/knoop/lehre/ws0506/gwa185165/gwa185165_ws0506_karacorlu.pdf.\n")
 
 IMAGE_NAME = ""

@@ -33,5 +33,5 @@ CONTENT = ("""
 - **Kontinuierliche Weiterentwicklung:** Google Search wird ständig aktualisiert und verbessert, um den Nutzern eine effiziente und genaue Sucherfahrung zu bieten.
 
 ### Quellen:
-Deutsche Nationalbibliothek (o. D.): DNB, Katalog der Deutschen Nationalbibliothek, Deutsche Nationalbibliothek, [online] https://portal.dnb.de/opac.htm?method=simpleSearch&query=4726597-8.\n
+Deutsche Nationalbibliothek (o. D.): DNB, Katalog der Deutschen Nationalbibliothek, Deutsche Nationalbibliothek, [online] https://portal.dnb.de/opac.htm?method=simpleSearch&query=4726597-8.
 The keyword (o. D.): blog.google, [online] https://blog.google/.""")

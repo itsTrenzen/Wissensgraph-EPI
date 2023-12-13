@@ -27,10 +27,9 @@ CONTENT = (
 
     "- **Fortlaufend:** Sergey Brin bleibt als erfolgreicher Unternehmer, Technologievisionär und Philanthrop aktiv und\n hinterlässt ein bedeutendes Vermächtnis in der Welt der Informationstechnologie.\n"
 
-    "Quellen:"
-    "https://www.forbes.com/profile/sergey-brin/"
-    "https://research.google/people/SergeyBrin/"
-    "https://www.spiegel.de/wirtschaft/unternehmen/alphabet-google-gruender-larry-page-und-sergey-brin-treten-ab-a-1299575.html")
+    "### Quellen:\n"
+    "Sergey Brin (o. D.): Forbes, [online] https://www.forbes.com/profile/sergey-brin/.\n"
+    "Sergey Brin (o. D.): [online] https://research.google/people/SergeyBrin/.\n")
 
 IMAGE_NAME = "Sergey_Brin.jpeg"
 

@@ -16,5 +16,7 @@ CONTENT = ("-In einem ihrer Kommentare, erklärte sie, dass es einen Unterschied
            "wurde Ende der 1970er Jahre entwickelt und stark vom US-Verteidigungsministerium gefördert. Sie ähnelt "
            "Pascal und gilt als höhere Programmiersprache. Es gibt mehrere Versionen, wie zum Beispiel Ada 83, "
            "Ada 95 oder Ada 2012. \n\n"
-           "Quellen:\n"
-           "https://www.mpg.de/frauen-in-der-forschung/ada-lovelace \n")
+           
+           "### Quellen\n"
+           "ADA Lovelace und das erste Computerprogramm der Welt (o. D.): Max-Planck-Gesellschaft, [online] "
+           "https://www.mpg.de/frauen-in-der-forschung/ada-lovelace.\n")

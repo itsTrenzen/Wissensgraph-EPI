@@ -14,7 +14,8 @@ CONTENT = ("-Charles Babbage wird 1791 in Walworth, England geboren. \n"
            "-Da in Adas Notizen eine schriftliche Anleitung steht, wie man mithilfe des Analytic Engines die "
            "Bernoulli Zahlen berechnen kann, gilt Ada Lovelace als erste Computerprogrammiererin der Geschichte. \n"
            "-Am 18. Oktober 1871 starb Charles Babbage in London mit einem Alter von 79 Jahren.\n\n"
-           "Quellen: \n"
+           "### Quellen: \n"
+           "HNF - Charles Babbage (1791-1871) (o. D.): [online] "
            "https://www.hnf.de/dauerausstellung/ausstellungsbereiche/galerie-der-pioniere/charles-babbage-1791-1871"
-           ".html")
+           ".html.\n")
 IMAGE_NAME = "Charles_Babbage.jpg"

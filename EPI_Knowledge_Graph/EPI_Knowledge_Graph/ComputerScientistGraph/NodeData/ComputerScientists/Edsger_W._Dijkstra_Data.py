@@ -16,8 +16,10 @@ CONTENT = ("-Edsger Wybe Dijkstra ist am 11. Mai 1930 in Amsterdam geboren. \n"
 "-1984 wechselte er auf den Schlumberger Centennial Chair in Computer Sciences an der Univerisät von Texas. Auch dort führte er später den Tuesday Afternoon Club fort. \n"
 "-2000 wurde er dann emeritiert, also in den Ruhestand versetzt. \n"
 "-Am 6. August 2002 starb Edsger Dijkstra in Nuenen an den Folgen von Krebs. \n\n"
-"Quellen: \n"
-"https://www.computer.org/profiles/edsger-dijkstra \n"
-"https://www.cwi.nl/en/about/history/e-w-dijkstra-brilliant-colourful-and-opinionated/")
+"### Quellen: \n"
+"Hardison, Erica (2018): Edsger Dijkstra, IEEE Computer Society, [online] "
+           "https://www.computer.org/profiles/edsger-dijkstra.\n"
+"Edsger W. Dijkstra: Brilliant, colourful, and opinionated (o. D.): [online] "
+           "https://www.cwi.nl/en/about/history/e-w-dijkstra-brilliant-colourful-and-opinionated/.")
 IMAGE_NAME = "Edsger_Dijkstra.jpg"
 CONNECTIONS = ["DIJKSTRA-ALGORITHMUS","ALGOL_60"]

@@ -5,7 +5,7 @@ CONTENT = ("-Am 1. August wurde das Konrad-Zuse-Informationszentrum gegründet u
 "- Angewandte Mathematik: Das ZIB beschäftigt sich außerdem mit angewandter Mathematik in verschiedenen Disziplinen wie Physik, Biologie, Ingenieurwissenschaften und Finanzmathematik. Es entwickelt mathematische Modelle und Algorithmen zur Lösung realer Probleme. \n"
 "-Supercomputing: Das Institut pflegt und betreibt Supercomputing-Ressourcen für komplexe wissenschaftliche Berechnungen und Simulationen. \n"
 "-Außerdem beteiligt sich das ZIB an nationalen und internationalen Forschungsprojekten mit interdisziplinärem Fokus, also mehrerer Fachrichtungen, oder Kooperationen mit anderen akademischen Einrichtungen. \n\n"
-"Quellen: \n"
-"https://www.youtube.com/watch?v=9WY3MnsbGMM \n"
-"https://blog.hnf.de/siebzig-jahre-zuse-kg/ \n"
-"https://www.zib.de/de/reports")
+"### Quellen: \n"
+"Zuse Institute Berlin (2020): Zuse-Institut Berlin 2019, [YouTube] https://www.youtube.com/watch?v=9WY3MnsbGMM \n"
+"Hnf (o. D.): Siebzig Jahre Zuse KG | HNF Blog, [online] https://blog.hnf.de/siebzig-jahre-zuse-kg/ \n"
+"Reports Archive | ZuSe Institute Berlin (ZIB) (o. D.): [online] https://www.zib.de/de/reports")

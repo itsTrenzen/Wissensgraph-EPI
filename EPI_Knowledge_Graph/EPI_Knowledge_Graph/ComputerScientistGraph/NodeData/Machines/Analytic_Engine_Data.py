@@ -8,6 +8,6 @@ CONTENT = ("-1834 begann der Bau des Analytic Engine, durch den Entwurf von Char
 "-In diesen Notizen befand sich außerdem ein schriftlicher Plan zur Berechnung der Bernoulli-Zahlen mithilfe des Analytic Engines, welcher als das erste veröffentlichte formale Computerprogramm der Geschichte gilt. \n"
 "-Das Projekt wurde jedoch nicht zur Lebzeit der beiden fertiggestellt, da die Entwicklung der Feinmechanik noch nicht weit genug war und das britische Parlament die Maschine nicht finanziell unterstützen wollte. \n"
 "-Obwohl der Analytic Engine auch nach dem Tod der Beiden nicht fertiggestellt wurde, bezeichneten manche Computerpioniere des 20. Jahrhunderts die Idee des Analytic Engines, im Vergleich zu deren eigenen Computern als überlegen. \n\n"
-"Quellen: \n"
-"https://www.britannica.com/technology/Analytical-Engine")
+"### Quellen: \n"
+"Swaine, Michael R./Paul A. Freiberger (2008): Analytical Engine | Description & Facts, Encyclopedia Britannica, [online] https://www.britannica.com/technology/Analytical-Engine")
 IMAGE_NAME = "Analytical_Engine.jpg"

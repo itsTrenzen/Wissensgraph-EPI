@@ -6,5 +6,5 @@ CONTENT = ("-Das Konzept eines universellen Rechners wurde 1951 von John von Neu
 "-Speicher: Der Speicher besteht aus ROM und RAM. ROM (Read-Only-Memory) ist der feste Speicher, der alle Infromationen langfristig speichert. Dabei können die Daten im ROM nur gelesen und nicht bearbeitet werden. Der RAM (Random Access Memory) hingegen, ist der temporäre Speicher, der Daten aufnimmt die schnell wieder aufgerufen werden müssen. Er wird daher auch Arbeitsspeicher genannt. \n"
 "-Eingabe-/Ausgabewerk: Das Eingabe-/Ausgabewerk wird auch I/O Unit genannt und ist für die Eingabe und Ausgabe für den Nutzer zuständig. Dadurch kann der Computer die eingebenden Daten auf zum Beispiel einer Tastatur erkennen und die Ausgaben können auf dem Bildschirm angezeigt, oder auf den Boxen angehört werden. \n"
 "-BUS-System: Das BUS-System ist zur Datenübertragung zwischen den einzelnen Komponenten da.\n\n"
-"Quellen: \n"
-"https://tams.informatik.uni-hamburg.de/applets/baukasten/DA/VNR_Einleitung.htm")
+"### Quellen: \n"
+"Kelling, Carsten (o. D.): Von-Neumann-Rechner: Einleitung, [online] https://tams.informatik.uni-hamburg.de/applets/baukasten/DA/VNR_Einleitung.html")

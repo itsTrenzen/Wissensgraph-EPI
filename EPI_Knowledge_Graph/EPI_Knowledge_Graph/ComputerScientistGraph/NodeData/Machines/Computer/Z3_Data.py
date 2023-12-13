@@ -7,7 +7,7 @@ CONTENT = ("-1938 begann Konrad Zuse nach dem Bau des Z1 und Z2 mit dem Bau des 
 "-Fertiggestellt und anderen Wissenschaftlern (unter anderem: Alfred Teichmann und Curt Schmieden) vorgestellt wurde der Z3 1941, womit Konrad Zuse den ersten offiziellen Computer rausbrachte. \n"
 "-Da es während des zweiten Weltkrieges einen Bombenangriff auf Berlin gab, wurde der Z3 1944 leider vollständig zerstört. Daher wurde Geld in den darauffolgenden Z4 investiert. \n"
 "-2010 wurde der Z3, 100 Jahre nach Konrad Zuses Geburtstag, nachgebaut und steht im Konrad-Zuse-Museum. \n\n"
-"Quellen: \n"
-"https://www.ingenieur.de/technik/produkte/konrad-zuses-z3-computer-welt-80/ \n"
-"https://www.nfg24.de/schueler/gdc/zusel.htm")
+"### Quellen: \n"
+"Stoller, Detlef (2022): Der erste Computer der Welt: Z3 von Konrad Zuse fand damals kaum Beachtung, ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure, [online] https://www.ingenieur.de/technik/produkte/konrad-zuses-z3-computer-welt-80/ \n"
+"Konrad Zuse - Lebenslauf (o. D.): [online] https://www.nfg24.de/schueler/gdc/zusel.htm")
 IMAGE_NAME = "Z3.JPG"

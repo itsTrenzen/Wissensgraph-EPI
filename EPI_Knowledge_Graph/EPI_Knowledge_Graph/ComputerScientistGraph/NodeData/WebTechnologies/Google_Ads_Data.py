@@ -2,6 +2,7 @@ TITEL = "Google Ads"
 
 CONTENT = ("""
 
+
 - **Online-Werbeprogramm:** Google Ads ist ein Werbeprogramm von Google für Unternehmen, um online Anzeigen zu schalten.
 
 - **Anzeigenplatzierung:** Ermöglicht die Platzierung von Anzeigen auf den Google-Suchergebnisseiten, Websites im Google Displaynetzwerk und anderen Plattformen.
@@ -30,10 +31,10 @@ CONTENT = ("""
 
 - **Integration mit Google-Diensten:** Nahtlose Integration mit anderen Google-Diensten wie Google Analytics und Google My Business.
 
-- **Flexibilität:** Skalierbare Werbemöglichkeiten für Unternehmen jeder Größe und Branche.""")
+- **Flexibilität:** Skalierbare Werbemöglichkeiten für Unternehmen jeder Größe und Branche.
 
-"Quellen:\n"
-"https://ads.google.com/intl/de_DE/home/\n"
-"https://www.thinkwithgoogle.com/intl/de-de/insights/blog/wir-stellen-vor-das-neue-google-ads/"
+### Quellen:
+https://ads.google.com/intl/de_DE/home/
+https://www.thinkwithgoogle.com/intl/de-de/insights/blog/wir-stellen-vor-das-neue-google-ads/""")
 
 IMAGE_NAME = ""

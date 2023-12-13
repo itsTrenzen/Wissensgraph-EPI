@@ -6,5 +6,5 @@ CONTENT = ("- Das A-0 System ist der erste Compiler und wurde von Grace Hopper e
 "-Das A-2 System wurde an 1953 die UNIVAC-Abteilung von Remington Rand weitergegeben, damit sich der Compiler verbreitet und man noch mehr Verbesserungsvorschläge sammeln konnte. \n"
 "-1955 wurde dann von Grace Hopper die Computersprache FLOW-MATIC geschrieben, die die Anweisungen sehr ähnlich dem Englischen machen konnte, da der Compiler dies dann in Maschinencode umwandeln konnte. \n"
 "-Compiler sind auch heute noch ein wichtiger Bestandteil eines Computers. Es hat sich zwar der Compiler mit der Zeit noch weiterentwickelt, wobei das System heute immer noch auf Grace Hoppers A-0 basiert. \n\n"
-"Quellen: \n"
-"https://www.get-in-it.de/magazin/arbeitswelt/it-legenden/grace-hopper ")
+"### Quellen: \n"
+"Grace Hopper, Erfinderin des Compilers | Get in IT (o. D.): get in IT, [online] https://www.get-in-it.de/magazin/arbeitswelt/it-legenden/grace-hopper ")

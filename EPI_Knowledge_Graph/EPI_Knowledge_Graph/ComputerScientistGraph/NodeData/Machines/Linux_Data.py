@@ -52,7 +52,7 @@ CONTENT = (
     "Linux zeichnet sich durch seine Flexibilität, Stabilität, Sicherheit und die Möglichkeit zur umfassenden Anpassung aus. \n"
     "Es bildet die Grundlage für zahlreiche Betriebssysteme, Anwendungen und Geräte in der heutigen IT-Landschaft.\n"
 
-"Quellen:\n"
+"### Quellen:\n"
     "https://commons.wikimedia.org/wiki/Category:Linux?uselang=de"
 )
 

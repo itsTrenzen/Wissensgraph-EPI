@@ -10,8 +10,8 @@ CONTENT = ("-Konstruiert vom Physiker Howard Aiken zusammen mit IBM-Mitarbeiter 
 "-Abgeschaltet wurde der Mark 2 1959 und zurück nach Harvard gebracht. \n"
 "-1998 konnte man dann beweisen, dass der Mark 1 turingmächtig war. Turingmächtig bedeutet, dass das System eine universelle Turingmaschine nachbilden kann, also ein speicherprogrammierter Computer ist. \n"
 "-Der Mark 2 wurde 1947/48 wieder von Aiken konstruiert, welcher ebenfalls ein Relais-Rechner war. 1949 folgte von der Mark 3, welcher von der US-Navy beauftragt wurde, jedoch hatte dieser bereits teilweise Vakuumröhren und Dioden und war mit Magnettrommelspeichern (was eine neue Art der Datenspeicherung war) ausgestattet. 1952 wurde dann der Mark 4 für die US Air Force rausgebracht, welcher ein rein elektronischer Computer mit Magnetkernspeicher war. \n\n"
-"Quellen: \n"
-"https://www.get-in-it.de/magazin/arbeitswelt/it-legenden/grace-hopper \n"
-"https://www.britannica.com/technology/Harvard-Mark-I \n"
-"https://www.heise.de/news/Vor-60-Jahren-Ur-Computer-Harvard-Mark-I-offiziell-gestartet-104177.html \n")
+"### Quellen: \n"
+"Grace Hopper, Erfinderin des Compilers | Get in IT (o. D.): get in IT, [online] https://www.get-in-it.de/magazin/arbeitswelt/it-legenden/grace-hopper \n"
+"Freiberger, Paul A./Michael R. Swaine (2008): Harvard Mark I | Automatic Calculations, Relay-Based design & Programmable Memory, Encyclopedia Britannica, [online] https://www.britannica.com/technology/Harvard-Mark-I \n"
+"Borchers, Detlef (2004): Vor 60 Jahren: Ur-Computer Harvard Mark I offiziell gestartet, in: heise online, 07.08.2004, [online] https://www.heise.de/news/Vor-60-Jahren-Ur-Computer-Harvard-Mark-I-offiziell-gestartet-104177.html ")
 IMAGE_NAME = "Mark_1.jpeg"

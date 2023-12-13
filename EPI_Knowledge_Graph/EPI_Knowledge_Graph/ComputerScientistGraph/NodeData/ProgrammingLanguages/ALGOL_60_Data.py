@@ -6,6 +6,6 @@ CONTENT = ("-ALGOL 60 (Algorithmic Language 1960) ist eine von 1958 bis 1963, un
 "-Die Programmiersprache hat außerdem Blockstrukturen und sie Sichtbarkeit von Variablen eingeführt und erlaubte rekursives Programmieren. \n"
 "-Wichtige Teammitglieder, die zur Entwicklung von ALGOL 60 beigetragen haben, sind John Backus und Peter Naur (Einführung der Backus-Naur-Form), sowie Edsger Dijkstra (stellte den Compiler des ALGOL 60 fertig). \n" 
 "-Viele bekannte Programmiersprachen wurden von ALGOL 60 beeinflusst, wie ADA, Pascal und C. \n\n"
-"Quellen: \n"
-"https://www.itwissen.info/algorithmic-language-ALGOL-60.html")
+"### Quellen: \n"
+"Algorithmic Language (ALGOL 60) (o. D.): ITWissen.info, [online] https://www.itwissen.info/algorithmic-language-ALGOL-60.html")
 CONNECTION = ["SPRACHE_ALGOL"]

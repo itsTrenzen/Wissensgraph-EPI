@@ -21,7 +21,7 @@ CONTENT = ("""
 
 
 
-Bedeutung für die Informatik:
+### Bedeutung für die Informatik:
 
 - **FORTRAN:** Backus' bedeutendster Beitrag liegt in der Entwicklung von FORTRAN, der ersten höheren Programmiersprache für wissenschaftliche und technische Berechnungen. FORTRAN erleichterte die Programmierung von Computern erheblich und trug zur Verbreitung von Computern in der wissenschaftlichen Gemeinschaft bei.
 
@@ -31,8 +31,12 @@ Bedeutung für die Informatik:
 
 John Warner Backus wird als Pionier in der Geschichte der Informatik anerkannt, dessen Arbeit maßgeblich zur Entwicklung von Programmiersprachen und damit zur Softwareentwicklung insgesamt beigetragen hat.
 """
-           "Quellen: https://www.heise.de/news/Die-Angst-vor-dem-Leben-besiegen-zum-80-Geburtstag-von-John-Backus-119296.html\n"
-           "http://amturing.acm.org/award_winners/backus_0703524.cfm"
+           "### Quellen: \n"
+           "Borchers, Detlef (2004): Die Angst vor dem Leben besiegen: zum 80. Geburtstag von John Backus, "
+           "in: heise online, 03.12.2004, [online] "
+           "https://www.heise.de/news/Die-Angst-vor-dem-Leben-besiegen-zum-80-Geburtstag-von-John-Backus-119296.html.\n"
+           "John Backus - A.M. Turing Award laureate (o. D.): [online] "
+           "http://amturing.acm.org/award_winners/backus_0703524.cfm.\n"
            )
 IMAGE_NAME = "John Backus.jpeg"
 

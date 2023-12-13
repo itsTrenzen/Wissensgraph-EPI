@@ -1,5 +1,5 @@
 TITEL = "Patrick Naughton (1969)"
-CONTENT = ("- **1969:** Patrick Naughton wird geboren."
+CONTENT = ("\n\n- **1969:** Patrick Naughton wird geboren."
 
 "- **1987:** Naughton schließt sein Studium an der Brown University mit einem Abschluss in Informatik ab.\n"
 
@@ -19,21 +19,21 @@ CONTENT = ("- **1969:** Patrick Naughton wird geboren."
 
 "- **2005:** DoubleClick wird von Google übernommen, und Naughton wird Technologiechef (CTO) für den Bereich Anzeigen bei Google.\n"
 
-"- **2014:** Patrick Naughton verlässt Google.\n"
+"- **2014:** Patrick Naughton verlässt Google.\n\n"
            
-           "Quellen: \n"
-           "https://link.springer.com/content/pdf/10.1007/3-211-27349-2_6.pdf")
+           "### Bedeutung für die Informatik:\n"
+
+"- **Java-Entwicklung:** Naughton spielte eine bedeutende Rolle bei der Entwicklung von Java, einer der weltweit am weitesten verbreiteten Programmiersprachen.\n"
+
+"- **Internet-Technologien:** Durch seine Arbeit bei Starwave und später bei Google trug Naughton zur Entwicklung von Internet-Technologien und Online-Werbung bei.\n\n"
+           
+           "### Quellen: \n"
+           "Wirth, Niklaus (o. D.): Programmierparadigmen und die Entstehung von Java, Springer, Springer-Verlag GmbH "
+           "Deutschland, ein Teil von Springer Nature 2018, [online] "
+           "https://link.springer.com/content/pdf/10.1007/3-211-27349-2_6.pdf [abgerufen am "
+           "06.12.2023].https://link.springer.com/content/pdf/10.1007/3-211-27349-2_6.pdf")
 IMAGE_NAME = "Patrick_Naughton.jpeg"
 
 CONNECTIONS = ["SPRACHE_JAVA",
                "JAMES_GOSLING"]
 
-
-
-
-
-"Bedeutung für die Informatik:"
-
-"- **Java-Entwicklung:** Naughton spielte eine bedeutende Rolle bei der Entwicklung von Java, einer der weltweit am weitesten verbreiteten Programmiersprachen."
-
-"- **Internet-Technologien:** Durch seine Arbeit bei Starwave und später bei Google trug Naughton zur Entwicklung von Internet-Technologien und Online-Werbung bei."

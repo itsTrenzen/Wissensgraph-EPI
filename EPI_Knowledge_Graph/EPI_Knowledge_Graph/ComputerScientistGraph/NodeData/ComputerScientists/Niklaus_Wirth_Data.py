@@ -2,6 +2,7 @@ TITEL = "Niklaus Wirth (1934)"
 
 CONTENT = ("### Steckbrief:\n"
 "-Geboren: 15.02.1934 in Winterthur in der Schweiz\n\n"
+"-Geboren: 15.02.1934 in Winterthur in der Schweiz\n"
 "### Biografie:\n"
 "-studierte Elektrotechnik mit dem Schwerpunkt Elektronik an der ETH Zürich bis 1959\n"
 "-bekam seinen Master von der „Laval University“ in Kanada im Jahr 1960\n"
@@ -25,6 +26,7 @@ CONTENT = ("### Steckbrief:\n"
 	"-nach seiner Pensionierung 1999 ging er seinem Jugendhobby des Modellflugs wieder nach\n\n"
 "### Quellen:\n"
 "Geboren.Am (o. D.): Bekannte Informatiker, geboren.am, [online] https://geboren.am/themen/technik/informatiker.\n"
+"Geboren.Am (o. D.): Bekannte Informatiker, geboren.am, [online] https://geboren.am/themen/technik/informatiker.\n"
 "Niklaus Wirth - Winterthur Glossar (o. D.): [online] https://www.winterthur-glossar.ch/niklaus-wirth.\n")
 
 IMAGE_NAME = "Niklaus_Wirth.jpg"

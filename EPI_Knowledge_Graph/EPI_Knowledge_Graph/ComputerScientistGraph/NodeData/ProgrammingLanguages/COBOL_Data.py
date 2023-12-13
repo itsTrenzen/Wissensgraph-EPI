@@ -8,7 +8,7 @@ CONTENT = ("-Basierend auf der Entwicklung des Compilers und der Programmierspra
 "-COBOL ist eine leicht zu lernende und standardisierte Sprache, die wegen ihrer universellen Einsatzmöglichkeiten auf vielen Computern ausgeführt werden kann \n"
 "-Bis heute werden 70 % der weltweiten Geschäftstransaktionen mit COBOL durchgeführt. \n"
 "-Bis heute befindet sie sich immer noch unter den Top 30 beliebtesten Programmiersprachen der Welt.\n\n"
-"Quellen: \n"
-"https://www.computerweekly.com/de/definition/Common-Business-Oriented-Language-COBOL \n"
-"https://bmu-verlag.de/cobol-programmiersprache/ \n")
+"### Quellen: \n"
+"Lavery, Tréa (2022): COBOL (Common Business Oriented Language), ComputerWeekly.de, [online] https://www.computerweekly.com/de/definition/Common-Business-Oriented-Language-COBOL \n"
+"Zakrytna, Olena (2022): Die Programmiersprache COBOL, BMU Verlag, [online] https://bmu-verlag.de/cobol-programmiersprache/ \n")
 IMAGE_NAME = "COBOL.jpg"

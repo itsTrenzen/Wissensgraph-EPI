@@ -1,6 +1,6 @@
 TITEL = "Linus Torvalds (1969)"
 
-CONTENT = ("Linus Torvalds, geboren am 28. Dezember 1969 in Helsinki, Finnland, ist ein finnisch-amerikanischer Informatiker und Softwareentwickler. Seine herausragende Bedeutung für die Informatik liegt vor allem in der Schaffung des Linux-Betriebssystems, einem der einflussreichsten Open-Source-Projekte der Geschichte.\n \n"
+CONTENT = ("\n\nLinus Torvalds, geboren am 28. Dezember 1969 in Helsinki, Finnland, ist ein finnisch-amerikanischer Informatiker und Softwareentwickler. Seine herausragende Bedeutung für die Informatik liegt vor allem in der Schaffung des Linux-Betriebssystems, einem der einflussreichsten Open-Source-Projekte der Geschichte.\n \n"
 "- **Frühes Leben und Ausbildung (1969-1990):**\n"
 "- Wuchs in einer technikbegeisterten Familie auf.\n"
  " - Studium der Informatik an der Universität Helsinki.\n\n"
@@ -41,7 +41,12 @@ CONTENT = ("Linus Torvalds, geboren am 28. Dezember 1969 in Helsinki, Finnland, 
 
      "### Quellen:\n"
            "https://commons.wikimedia.org/wiki/Linus_Torvalds?uselang=de\n"
-           "https://portal.dnb.de/opac/showFullRecord?currentResultId=%22122924517%22%26any&currentPosition=2"      )
+           "https://portal.dnb.de/opac/showFullRecord?currentResultId=%22122924517%22%26any&currentPosition=2"      
+           "Autoren der Wikimedia-Projekte (2021): Linus Torvalds, [online] "
+           "https://commons.wikimedia.org/wiki/Linus_Torvalds?uselang=de."
+           "Deutsche Nationalbibliothek (o. D.): DNB, Katalog der Deutschen Nationalbibliothek, Deutsche "
+           "Nationalbibliothek, [online] https://portal.dnb.de/opac/showFullRecord?currentResultId=%22122924517%22"
+           "%26any¤tPosition=2.\n")
 
 IMAGE_NAME = "Linus.jpeg"
 

@@ -7,7 +7,7 @@ CONTENT = ("HTML ist eine textbasierte Auszeichnungssprache, die vor allem im Ko
            "der 'Web Hypertext Application Technology Working Group' (WHATWG) entwickelt W3C HTML weiter. Die "
            "aktuelle Version ist HTML5.\n\n"
 
-           "Sprachelemente\n"
+           "### Sprachelemente\n"
            "1. Dokumenttypdefinition (DTD):  formale Spezifikation, die die Struktur und Syntax von XML-Dokumenten "
            "definiert\n"
            "2. Dokumenttypdeklarationen: definiert die HTML-Version und referenziert die DTD (ausgenommen HTML5)\n"
@@ -22,14 +22,14 @@ CONTENT = ("HTML ist eine textbasierte Auszeichnungssprache, die vor allem im Ko
            "6. Kommentare: Anmerkungen oder Erläuterungen zum HTML-Code, die nicht interpretiert werden. Sie beginnen "
            "mit \"<!--\" und enden mit \"-->\"\n\n"
            
-           "Typischer Aufbau\n"
+           "### Typischer Aufbau\n"
            "1. HTML-Dokumente beginnen mit der \"<!DOCTYPE html>\"-Deklaration (HTML5)\n"
            "2. Danach folgt der \"<HEAD>\"-Bereich mit Metainformationen wie Titel, Zeichensatz und den "
            "Ansichtseinstellungen\n"
            "3. Der \"<BODY>\"-Bereich stellt den eigentlichen Inhalt der Webseite dar. Er besteht aus Textelementen, "
            "Listen, Verweisen, Formularen und Strukturelementen.\n\n"
 
-           "Beispiel (HTML5):\n"
+           "### Beispiel (HTML5):\n"
            "<!DOCTYPE html>\"\n"
            "<HTML>\n"
            "    <HEAD>\n"
@@ -51,7 +51,7 @@ CONTENT = ("HTML ist eine textbasierte Auszeichnungssprache, die vor allem im Ko
            "    </BODY>\n"
            "</HTML>\n\n"
 
-           "Quellen:\n"
+           "### Quellen:\n"
            "Berners-Lee, Tim/Robert Cailliau/Nicola Pellow/Arthur Secret (o. D.): THE WORLD-WIDE WEB INITIATIVE, "
            "Newcastle University, [online] http://homepages.cs.ncl.ac.uk/brian.randell/Seminars/92.pdf [abgerufen am "
            "28.11.2023].\n"

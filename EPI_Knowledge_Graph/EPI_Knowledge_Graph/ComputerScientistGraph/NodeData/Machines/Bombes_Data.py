@@ -7,7 +7,7 @@ CONTENT = ("Die Turing-Bombe (oder kurz: 'Bombes') ist ein mechanisches Gerät z
            "4000 Nachrichten täglich dekodiert. Es wird angenommen, dass der Einsatz der Turing-Bombe den Krieg um "
            "mindestens zwei Jahre verkürzt hat.\n\n"
 
-           "Funktionsweise\n"
+           "### Funktionsweise\n"
            "Die Turing-Bombe versuchte, Muster in verschlüsselten Nachrichten zu erkennen. Deutsche Nachrichten "
            "enthielten häufig wiederkehrende Formeln wie \"Betreff:\" und folgten einem vorhersehbaren Aufbau mit "
            "Angaben zu Absender, Empfänger und Datum. Insbesondere Wetterberichte galten als wertvolle "
@@ -19,7 +19,7 @@ CONTENT = ("Die Turing-Bombe (oder kurz: 'Bombes') ist ein mechanisches Gerät z
            "dass die Enigma niemals einen Buchstaben mit sich selbst chiffrierte. Wenn eine Simulation zu den "
            "erwarteten Ergebnissen führte, wurde die richtige Einstellung gefunden.\n\n"
 
-           "Quellen:\n"
+           "### Quellen:\n"
            "The Turing bombe in Bletchley Park (o. D.): [online] "
            "https://www.rutherfordjournal.org/article030108.html.\n"
            "Blömer, Johannes (2012): Turing und Kryptografie, in: Informatik Spektrum, Bd. 35, Nr. 4, S. 261–270, "

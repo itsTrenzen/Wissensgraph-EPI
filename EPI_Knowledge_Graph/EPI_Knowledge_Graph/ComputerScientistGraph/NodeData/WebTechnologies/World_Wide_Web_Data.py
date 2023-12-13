@@ -4,12 +4,12 @@ CONTENT = ("Das World Wide Web (abgekürzt auch 'WWW' oder 'W3') ist ein System 
            "Hypertext-Dokumenten (HTML), die über das Internet abgerufen werden können. Durch das World Wide Web wird "
            "der universellen Zugang zu einer Vielzahl von Dokumenten ermöglicht.\n\n"
 
-           "Kernstandards\n"
+           "### Kernstandards\n"
            "1. Uniform Resource Identifier (URI): eindeutige Bezeichner von Ressourcen, die das Adresssystem bilden\n"
            "2. Hypertext Transfer Protocol (HTTP): Netzwerk Protokoll, mit dem Informationen übertragen werden\n"
            "3. Hypertext Markup Language (HTML): Auszeichnungssprache, die von jedem W3-Client verstanden wird\n\n"
            
-           "Entstehungsgeschichte\n"
+           "### Entstehungsgeschichte\n"
            "In den 1980er Jahren kooperierten Wissenschaftler aus verschiedenen Ländern am schweizer "
            "Kernforschungszentrum CERN. Aufgrund der Beschränkungen bestehender Informationssysteme auf bestimmte "
            "Computerplattformen gestaltete sich der Informationsaustausch als äußerst aufwendig. Mit dem Ziel, "
@@ -25,7 +25,7 @@ CONTENT = ("Das World Wide Web (abgekürzt auch 'WWW' oder 'W3') ist ein System 
            "Wide Web kostenlos für die Öffentlichkeit freigegeben, was zu einer explosionsartigen Verbreitung "
            "führte.\n\n"
            
-           "Quellen:\n"
+           "### Quellen:\n"
            "The World Wide Web project (o. D.): [online] "
            "https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html.\n"
            "WorldWideWeb: Proposal for a HyperText project (o. D.): [online] "

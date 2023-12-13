@@ -4,12 +4,12 @@ CONTENT = ("ENIAC war der erste turingmächtige Universalcomputer. Er wurde wäh
            "Presper Eckert und John William Mauchly im Jahre 1946 an der University of Pennsylvania (USA) entwickelt. "
            "\n\n"
            
-           "Verwendung\n"
+           "### Verwendung\n"
            "Der ENIAC wurde von der US-Armee für wissenschaftliche und mathematische Zwecke verwendet. Insbesondere "
            "für ballistische Trajektorien, Atomphysik, Wetterprognosen und komplexe mathematische Aufgaben. "
            "Programmiert wurde der ENIAC fast ausschließlich von Frauen, den sogenannten 'ENIAC Frauen'.\n\n"
            
-           "Funktionsweise\n"
+           "### Funktionsweise\n"
            "Der ENIAC nutzte mehrere tausend Vakuumröhren als Schlüsselelemente seiner Struktur. Die elektronischen "
            "Schaltkreise des Computers wurden durch diese Vakuumröhren gesteuert und"
            "ermöglichten arithmetische und logische Berechnungen. Da der ENIAC über keinen Befehlsspeicher "
@@ -19,7 +19,7 @@ CONTENT = ("ENIAC war der erste turingmächtige Universalcomputer. Er wurde wäh
            "Dezimalzahl speichern und damit die Rechenoperationen Addition, Subtraktion, Division und Multiplikation "
            "sowie das Ziehen von Quadratwurzeln ausführen.\n\n"
            
-           "Probleme\n"
+           "### Probleme\n"
            "1. Die Vakuumröhren waren anfällig für Ausfälle, was zu häufigen Unterbrechungen und Reparaturen führte. "
            "Schon der Ausfall einer Röhre führte zu Rechenfehlern\n"
            "2. Die Vakuumröhren haben zu einer erheblichen Wärmeentwicklung geführt. Deshalb waren komplexe "
@@ -30,7 +30,7 @@ CONTENT = ("ENIAC war der erste turingmächtige Universalcomputer. Er wurde wäh
            "5. Das Ändern von Programmen erforderte erheblichen manuellen Aufwand, da ENIAC auf spezifische "
            "Aufgaben zugeschnitten ist und nicht so leicht für verschiedene Anwendungen umkonfiguriert werden kann.\n"
            
-           "Technische Daten\n"
+           "### Technische Daten\n"
            "Fläche: 10m x 17m\n"
            "Gewicht: 27 Tonnen\n"
            "* 40 parallel arbeitenden Komponenten, je 60 cm breit, 270 cm hoch und 70 cm tief\n"
@@ -41,7 +41,7 @@ CONTENT = ("ENIAC war der erste turingmächtige Universalcomputer. Er wurde wäh
            "* 10.000 Kondensatoren\n"
            "Kosten: 468.000 US-$\n\n"
            
-           "Quellen:\n"
+           "### Quellen:\n"
            "Hartree, D. R. (1946): The ENIAC, an electronic computing machine, in: Nature, Bd. 158, Nr. 4015, "
            "S. 500–506, [online] doi:10.1038/158500a0.\n")
 

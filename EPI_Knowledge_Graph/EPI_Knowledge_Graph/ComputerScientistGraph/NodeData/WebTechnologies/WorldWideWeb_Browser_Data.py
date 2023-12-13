@@ -9,7 +9,7 @@ CONTENT = ("WorldWideWeb ist der erste Webbrowser. Er wurde von Tim Berners-Lee 
            "Betriebssystem zwar fortschrittlich aber wenig verbreitet war, fand auch WorldWideWeb nie große "
            "Verbreitung.\n\n"
 
-           "Quellen:\n"
+           "### Quellen:\n"
            "Tim Berners-Lee: WorldWideWeb, the first web client (o. D.): [online] "
            "https://www.w3.org/People/Berners-Lee/WorldWideWeb.html.\n"
            "Cern (o. D.): The browser — WorldWideWeb NeXT application, [online] "

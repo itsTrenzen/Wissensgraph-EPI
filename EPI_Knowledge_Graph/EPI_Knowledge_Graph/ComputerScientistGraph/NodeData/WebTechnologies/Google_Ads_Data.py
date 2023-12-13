@@ -34,7 +34,7 @@ CONTENT = ("""
 - **Flexibilität:** Skalierbare Werbemöglichkeiten für Unternehmen jeder Größe und Branche.
 
 ### Quellen:
-https://ads.google.com/intl/de_DE/home/
-https://www.thinkwithgoogle.com/intl/de-de/insights/blog/wir-stellen-vor-das-neue-google-ads/""")
+Google Ads ‒ mit Onlinewerbung Kund*innen gewinnen und mehr Umsatz erzielen (o. D.): [online] https://ads.google.com/intl/de_DE/home/.
+Ramaswamy, Sridhar (2023): Wir stellen vor: das neue Google Ads, Think with Google, [online] https://www.thinkwithgoogle.com/intl/de-de/insights/blog/wir-stellen-vor-das-neue-google-ads/.""")
 
 IMAGE_NAME = ""

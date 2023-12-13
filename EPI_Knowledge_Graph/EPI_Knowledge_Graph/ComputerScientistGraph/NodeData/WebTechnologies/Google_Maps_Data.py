@@ -33,8 +33,8 @@ CONTENT = ("""
 - **Ständige Aktualisierungen:** Google Maps wird kontinuierlich verbessert und aktualisiert, um genaue und aktuelle Informationen zu liefern.
 
 ### Quellen:
-https://developers.google.com/maps/
-https://blog.google/products/maps/
-https://www.zeit.de/digital/internet/2010-05/street-view-panoramafreiheit""")
+Google Maps Platform | Google for Developers (o. D.): Google for Developers, [online] https://developers.google.com/maps/.
+Maps (o. D.): blog.google, [online] https://blog.google/products/maps/.
+Seemann, Michael (2010): Persönlichkeitsrecht für Jägerzäune?, ZEIT ONLINE, [online] https://www.zeit.de/digital/internet/2010-05/street-view-panoramafreiheit.""")
 
 IMAGE_NAME = ""

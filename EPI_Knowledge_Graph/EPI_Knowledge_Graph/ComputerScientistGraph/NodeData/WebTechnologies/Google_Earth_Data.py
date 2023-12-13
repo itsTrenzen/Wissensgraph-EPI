@@ -76,8 +76,8 @@ CONTENT = (
 
 "### Quellen:\n"
 "https://support.google.com/earth/answer/\n40901?hl=de&ref_topic=4363014#zippy=\n"
-"https://www.google.de/earth/\n"
-"https://web.archive.org/web/20190220095505/http://\nwww.realityprime.com/blog/2007/07/how-google-earth-really-works/")
+"Überblick – Google Earth (o. D.): Google Earth, [online] https://www.google.de/earth/.\n"
+"Wayback machine (o. D.): [online] https://web.archive.org/web/20190220095505/http:///nwww.realityprime.com/blog/2007/07/how-google-earth-really-works/.")
 
 IMAGE_NAME = ""
 

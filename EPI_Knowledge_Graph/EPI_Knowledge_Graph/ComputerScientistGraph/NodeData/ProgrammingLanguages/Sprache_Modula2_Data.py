@@ -1,6 +1,6 @@
 TITEL = "Programmiersprache Modula-2"
 
-CONTENT = ("Historie:\n"
+CONTENT = ("### Historie:\n"
 	"-in den frühen 1970er Jahren wurde die Programmiersprache „Pascal“ von Niklaus Wirth entwickelt\n"
 	"-Pascal wurde ursprünglich für Studenten konzipiert, aber fand auch in der professionellen Anwendung Nutzen\n"
 	"-Pascal hatte jedoch Schwierigkeiten bei der Planung großer Programme\n"
@@ -11,13 +11,13 @@ CONTENT = ("Historie:\n"
 	"-Modula-2 gilt als spiritueller von Wirths Programmiersprache Pascal\n"
 	"-der Name „Modula-2“ kam anstelle von Pascal-2 aufgrund der auf Modula-basierenden Syntax\n"
 	"-die erste Implementierung fand 1979 in Wirths Institut statt\n"
-	"-der erste öffentliche Compiler kam 1981 raus\n"
-	"Aspekte:\n"
+	"-der erste öffentliche Compiler kam 1981 raus\n\n"
+	"### Aspekte:\n"
 	"-das Ziel der Sprache ist, sie praktisch nützlich und verständlich zu machen\n"
 	"-gedacht ist sie als einfache und saubere Lernsprache für die breite Öffentlichkeit\n"
 	"-viele Universitäten verwendeten es besonders in den 1980er und 1990er Jahren als erste Programmiersprache für Studenten\n"
-	"-wie bei Pascal ist sie Turing-vollständig\n"
-	"Quellen:\n"
-		"- http://cl-informatik.uibk.ac.at/teaching/ws12/bob/reports/DM.pdf (S.2-3)\n")
+	"-wie bei Pascal ist sie Turing-vollständig\n\n"
+	"### Quellen:\n"
+		"http://cl-informatik.uibk.ac.at/teaching/ws12/bob/reports/DM.pdf (S.2-3)\n")
 
 IMAGE_NAME = ""

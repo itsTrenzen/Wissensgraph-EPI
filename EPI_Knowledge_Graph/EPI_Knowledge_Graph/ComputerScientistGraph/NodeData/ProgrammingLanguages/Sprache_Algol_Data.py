@@ -1,6 +1,6 @@
 TITEL = "Sprache ALGOL"
 
-CONTENT = ("Entwicklung:\n"
+CONTENT = ("### Entwicklung:\n"
 	"-wurde in den Jahren 1956-1957 entwickelt\n"
 	"-zu der Zeit entstanden die ersten so genannten „algebraic languages“\n"
 		"->nicht nur maschinennahen Code schreiben müssen\n"
@@ -22,8 +22,8 @@ CONTENT = ("Entwicklung:\n"
 	"->das entstandene ALGOL 60 wird gelobt\n"
 "-es verbreitete sich erfolgreich und Compiler wurden sofort implementiert\n"
 "-weiter kamen revised ALGOL 60 (1962) und ALGOL 68 (1968)\n"
-	"-allerdings geringere Bedeutung\n"
- 	"Quellen:\n"
-    "-http://cartoon.iguw.tuwien.ac.at/fit/fit03/cobol_algol.html\n")
+	"-allerdings geringere Bedeutung\n\n"
+ 	"### Quellen:\n"
+    "Fit 2002 (o. D.): [online] http://cartoon.iguw.tuwien.ac.at/fit/fit03/cobol_algol.html.\n")
 
 IMAGE_NAME = ""

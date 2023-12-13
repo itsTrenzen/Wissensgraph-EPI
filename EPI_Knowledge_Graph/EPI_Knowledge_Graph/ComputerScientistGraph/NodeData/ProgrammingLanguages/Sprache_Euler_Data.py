@@ -12,8 +12,8 @@ CONTENT = ("-die Programmiersprache Euler wurde von Niklaus Wirth und Helmut Web
 	"-es gibt dynamische Typisierung\n"
 	"-Prozeduren können zur Laufzeit Werte jedes Typs erzeugen, wobei der Typ bei jedem Aufruf unterschiedlich ist\n"
 	"-Listen können Elemente unterschiedlichen Typs enthalten und die Werte können für jedes Element unterschiedlich sein\n"
-	"-es bietet gemeinsame Typentest- und Typkonvertierungsoperatoren\n"
-	"Quellen:\n"
-		"- https://academic-accelerator.com/encyclopedia/euler-programming-language\n")
+	"-es bietet gemeinsame Typentest- und Typkonvertierungsoperatoren\n\n"
+	"### Quellen:\n"
+		"https://academic-accelerator.com/encyclopedia/euler-programming-language\n")
 
 IMAGE_NAME = ""

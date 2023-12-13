@@ -1,8 +1,8 @@
 TITEL = "Programmierbare ICs"
 
 CONTENT = ("-Programmierbare Logik-ICs sind kleine elektronische Komponenten, die für rekonfigurierbare digitale Schaltungen verwendet werden\n"
-	"-bei der Herstellung haben sie eine unspezifizierte Funktion im Gegensatz zu integrierten Schaltkreisen (ICs), die aus Gates bestehen und eine spezifische Funktion haben\n"
-	"-Hauptarten von programmierbaren Schaltkreisen:\n"
+	"-bei der Herstellung haben sie eine unspezifizierte Funktion im Gegensatz zu integrierten Schaltkreisen (ICs), die aus Gates bestehen und eine spezifische Funktion haben\n\n"
+	"### Hauptarten von programmierbaren Schaltkreisen:\n"
 		"1. Complex Programmable Logic Devices (CPLD):\n"
 "-Einsatz für komplexe Kombinations- oder sequenzielle Schaltungen\n"
 "-bestehen aus logischen Array-Blöcken, programmierbaren Verbindungen und E/A-Blöcken\n"
@@ -18,8 +18,8 @@ CONTENT = ("-Programmierbare Logik-ICs sind kleine elektronische Komponenten, di
 			"-Synchronisierung\n"
 			"-Bus-Schnittstellen\n"
 			"-Decoder\n"
-			"-Zähler\n"
-	"Quellen:\n"
-	"- https://at.rs-online.com/web/c/halbleiter/programmierbare-logik-ics/\n")
+			"-Zähler\n\n"
+	"### Quellen:\n"
+	"Programmierbare Logik-ICs | CPLDs | FPGAs | RS (o. D.): [online] https://at.rs-online.com/web/c/halbleiter/programmierbare-logik-ics/.\n")
 
 IMAGE_NAME = "IC.jpg"

@@ -7,8 +7,8 @@ CONTENT = ("-Ceres wurde 1986 von Niklaus Wirth entwickelt\n"
 	"-Ceres wurde bis etwa 2003 zur Ausbildung an der ETH Zürich genutzt\n"
 		"->man wollte von der alten und inzwischen fehleranfälligen Ceres-Hardware unabhängig sein\n"
 	"-das „ETH Oberon System“ wurde auch auf andere Plattformen wie Windows oder Solaris portiert\n"
-	"-der Name Ceres stammt von der römischen Göttin des Ackerbaus\n"
-	"Quellen:\n"
-		"- https://de-academic.com/dic.nsf/dewiki/244367\n")
+	"-der Name Ceres stammt von der römischen Göttin des Ackerbaus\n\n"
+	"### Quellen:\n"
+		"CERES (Computersystem) (o. D.): Academic dictionaries and encyclopedias, [online] https://de-academic.com/dic.nsf/dewiki/244367.\n")
 
 IMAGE_NAME = ""

@@ -1,9 +1,9 @@
 TITEL = "Programmiersprache Oberon"
 
-CONTENT = ("Historie:\n"
+CONTENT = ("### Historie:\n"
 	"-wurde von Niklaus Wirth und Jürg Gutknecht in Zusammenarbeit mit der ETH Zürich entwickelt\n"
-	"-ist die Weiterentwicklung von der Programmiersprache „Modula-2“\n"
-"Eigenschaften:\n"
+	"-ist die Weiterentwicklung von der Programmiersprache „Modula-2“\n\n"
+"### Eigenschaften:\n"
 	"-die Programmiersprache Oberon hat eine strenge Datentyp-Prüfung\n"
 	"-es wird separat übersetzt mit Typ-geprüften Schnittstellen\n"
 	"-es gibt einen eindeutigen Namensraum (Name-Space)\n"
@@ -19,9 +19,9 @@ CONTENT = ("Historie:\n"
 	"-stellt sich die Frage bezüglich der Geschwindigkeit, da andere Sprachen wie C/C++ oder Java zumeist effizienter arbeiten\n"
 	"-Oberon gibt es in verschiedenen Versionen für unterschiedliche Plattformen (Windows, Unix, Mac, Bluebottle) und sogar als eigenes Betriebssystem (Native Oberon)\n"
 	"-hat Ähnlichkeiten zu Pascal\n"
-	"-unterscheidet sich von Modula-2 durch das Konzept der Typerweiterung\n"
-	"Quellen:\n"
-		"- https://www.complang.tuwien.ac.at/lehre/gwa-papers/04w/franz/Oberon.pdf (S.1+4)\n")
+	"-unterscheidet sich von Modula-2 durch das Konzept der Typerweiterung\n\n"
+	"### Quellen:\n"
+		"https://www.complang.tuwien.ac.at/lehre/gwa-papers/04w/franz/Oberon.pdf (S.1+4)\n")
 
 IMAGE_NAME = ""
 

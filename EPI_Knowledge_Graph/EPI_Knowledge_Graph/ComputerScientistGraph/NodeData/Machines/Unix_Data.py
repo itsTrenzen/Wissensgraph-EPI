@@ -1,6 +1,6 @@
 TITEL = "Betriebssystem Unix"
 
-CONTENT = ("Eigenschaften:\n"
+CONTENT = ("### Eigenschaften:\n"
 	"-bildet die Basis für die Betriebssysteme Linux, macOS und die der meisten Smartphones und Tablets\n"
 	"-Unix führte die bekannte hierarchisch aufgebaute Dateisystem und Ordnerstruktur ein\n"
 		"-Benutzer können dieses strukturieren\n"
@@ -16,9 +16,9 @@ CONTENT = ("Eigenschaften:\n"
 	"-Unix kann als Client oder Server agieren\n"
 	"-verfolgte von Anfang an den Ansatz eines portablen Systems\n"
 	"-verwendet die Programmiersprache C\n"
-	"-Unix wurde als portables System bekannt, insbesondere ab der stark überarbeiteten Unix-V7-Version (1979).\n"
+	"-Unix wurde als portables System bekannt, insbesondere ab der stark überarbeiteten Unix-V7-Version (1979).\n\n"
 
-	"Geschichte:\n"
+	"### Geschichte:\n"
 	"-wurde 1969 als Mehrbenutzer-Betriebssystem entwickelt\n"
 	"-Bereitstellung verschiedener Arbeitsumgebungen für mehrere Benutzer am Computer\n"
     "-entstand in „Bell Laboratories“\n"
@@ -32,10 +32,10 @@ CONTENT = ("Eigenschaften:\n"
 	"-1977 erschien unter der Leitung von Joy eine modifizierte Unix-Variante, die die bisherigen Verbesserungen einschloss\n"
 	"-diese Berkeley Software Distribution (BSD) integrierte später das Netzwerkprotokoll TCP/IP in Unix-Universum\n"
 	"-aufgrund der eigenen BSD-Lizenz wurde es als eine der wichtigsten Unix-Abwandlungen anerkannt\n"
-	"-die Entwicklung von BSD trug dazu bei dem Konzept eines freien Betriebssystems gerecht zu werden\n"
-	"Quellen:\n"
-		"- https://it-service.network/it-lexikon/unix#:~:text=Unix%2C%20oder%20auch%20UNIX%2C%20wurde,und%20ihnen%20verschiedene%20Arbeitsumgebungen%20bereitzustellen\n"
-		"- https://www.ionos.de/digitalguide/server/knowhow/unix-geschichte-und-grundlagen-des-urgesteins/\n")
+	"-die Entwicklung von BSD trug dazu bei dem Konzept eines freien Betriebssystems gerecht zu werden\n\n"
+	"### Quellen:\n"
+		"Was ist Unix? – Definition im IT-Lexikon (o. D.): [online] https://it-service.network/it-lexikon/unix#:~:text=Unix%2C%20oder%20auch%20UNIX%2C%20wurde,und%20ihnen%20verschiedene%20Arbeitsumgebungen%20bereitzustellen.\n"
+		"Redaktion, Ionos (2020): Unix: das Betriebssystem, das neue Maßstäbe setzte, IONOS Digital Guide, [online] https://www.ionos.de/digitalguide/server/knowhow/unix-geschichte-und-grundlagen-des-urgesteins/.\n")
 
 IMAGE_NAME = "Unix.png"
 CONNECTIONS = ["LINUX"]

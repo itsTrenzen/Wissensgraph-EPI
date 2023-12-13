@@ -1,8 +1,8 @@
 TITEL = "Niklaus Wirth (1934)"
 
-CONTENT = ("Steckbrief:\n"
-"-Geboren: 15.02.1934 in Winterthur in der Schweiz\n"
-"Biografie:\n"
+CONTENT = ("### Steckbrief:\n"
+"-Geboren: 15.02.1934 in Winterthur in der Schweiz\n\n"
+"### Biografie:\n"
 "-studierte Elektrotechnik mit dem Schwerpunkt Elektronik an der ETH Zürich bis 1959\n"
 "-bekam seinen Master von der „Laval University“ in Kanada im Jahr 1960\n"
 "-er promovierte an der „University of California“ in Berkeley 1963\n"
@@ -22,10 +22,10 @@ CONTENT = ("Steckbrief:\n"
 	"-entwickelte die Computersysteme „Lilith“ (1980) und „Ceres“ (1986) mit den zugehörigen Betriebssystemen\n" 
 		"-Versuche, diese Workstations kommerziell zu vermarkten, scheiterten\n"
 	"-danach widmete er sich im Rahmen von Lilith und Ceres auch dem Design programmierbarer ICs\n"
-	"-nach seiner Pensionierung 1999 ging er seinem Jugendhobby des Modellflugs wieder nach\n"
-"Quellen:\n"
-"- https://geboren.am/themen/technik/informatiker\n"
-"- https://www.winterthur-glossar.ch/niklaus-wirth\n")
+	"-nach seiner Pensionierung 1999 ging er seinem Jugendhobby des Modellflugs wieder nach\n\n"
+"### Quellen:\n"
+"Geboren.Am (o. D.): Bekannte Informatiker, geboren.am, [online] https://geboren.am/themen/technik/informatiker.\n"
+"Niklaus Wirth - Winterthur Glossar (o. D.): [online] https://www.winterthur-glossar.ch/niklaus-wirth.\n")
 
 IMAGE_NAME = "Niklaus_Wirth.jpg"
 

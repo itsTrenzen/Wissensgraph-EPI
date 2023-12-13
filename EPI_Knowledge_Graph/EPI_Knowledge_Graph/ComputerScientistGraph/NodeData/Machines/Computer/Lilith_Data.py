@@ -14,10 +14,10 @@ CONTENT =("-Lilith ist eine individuell entwickelte Workstation, die den AMD 290
 "-dieses Betriebssystem ist ein Single-User-basiertes Betriebssystem, das aus Modula—Modulen besteht\n"
 "-das Design hat auch das Betriebssystem „Excelsior“ beeinflusst, das vom Kronos Research Group (KRG) für die sowjetische Kronos-Workstation entwickelt wurde\n"
 "-von 1986 bis Anfang der 1990er Jahre entwickelten Ingenieure in der Sowjetunion eine Serie von Leiterplattensystemen und Workstations namens Kronos, basierend auf Lilith\n"
-"-Liliths Computermaus wurde eigens entworfen und später auf „Smaky“-Computern verwendet. Sie inspirierte später die erste Maus von Logitech\n"
-	"Quellen:\n"
-		"- https://en-academic.com/dic.nsf/enwiki/220294\n"
-		"- https://academic-accelerator.com/encyclopedia/lilith-computer\n")
+"-Liliths Computermaus wurde eigens entworfen und später auf „Smaky“-Computern verwendet. Sie inspirierte später die erste Maus von Logitech\n\n"
+	"### Quellen:\n"
+		"Lilith (computer) (o. D.): Academic Dictionaries and Encyclopedias, [online] https://en-academic.com/dic.nsf/enwiki/220294.\n"
+		"https://academic-accelerator.com/encyclopedia/lilith-computer\n")
 
 IMAGE_NAME = ""
 

@@ -1,6 +1,6 @@
 TITEL = "Programmiersprache C"
 
-CONTENT = ("Eigenschaften\n"
+CONTENT = ("### Eigenschaften\n"
 	"-Linux/Unix-Implementierung\n"
 "-C bietet die Konstrukte höherer Programmiersprachen\n"
 		"->beherrscht man C, so ist es nicht mehr schwer, andere Programmiersprachen wie z.B. C++ oder Java zu lernen\n"
@@ -13,8 +13,8 @@ CONTENT = ("Eigenschaften\n"
 	"-direkter Hardwarezugriff ist möglich\n"
 	"-es kann zu Compiler-Lauf-Fehlern kommen, wo Fehler erst bei Ausführung erkannt werden\n"
 	"-es gibt uneingeschränkte Programmierfreiheit\n"
-	"-oft müssen Speicherlecks, Pufferabläufe usw. behoben werden von Entwicklern\n"
-	"Quellen:\n"
-		"- https://openbook.rheinwerk-verlag.de/c_von_a_bis_z/001_c_einstieg_in_c_004.htm\n")
+	"-oft müssen Speicherlecks, Pufferabläufe usw. behoben werden von Entwicklern\n\n"
+	"### Quellen:\n"
+		"Wolf, Jürgen (o. D.): Rheinwerk Computing :: C von A bis Z – 1.4 Vor- und Nachteile der Programmiersprache C, Rheinwerk Verlag GmbH 2009, [online] https://openbook.rheinwerk-verlag.de/c_von_a_bis_z/001_c_einstieg_in_c_004.htm.\n")
 
 IMAGE_NAME = ""

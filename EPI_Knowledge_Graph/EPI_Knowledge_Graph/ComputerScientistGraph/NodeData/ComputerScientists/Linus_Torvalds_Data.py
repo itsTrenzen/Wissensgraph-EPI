@@ -39,7 +39,7 @@ CONTENT = ("Linus Torvalds, geboren am 28. Dezember 1969 in Helsinki, Finnland, 
   "- Linus Torvalds hat die Informatik nachhaltig beeinflusst, indem er eine Plattform für die Entwicklung von leistungsstarker und stabiler Software geschaffen hat.\n"
   "- Seine Arbeit repräsentiert die Ideale der Offenheit, Zusammenarbeit und Innovation, die die Grundlagen der modernen Softwareentwicklung bilden.\n\n"
 
-     "Quellen:\n"
+     "### Quellen:\n"
            "https://commons.wikimedia.org/wiki/Linus_Torvalds?uselang=de\n"
            "https://portal.dnb.de/opac/showFullRecord?currentResultId=%22122924517%22%26any&currentPosition=2"      )
 
